@@ -1,0 +1,300 @@
+2022-05-08 01:22:18,462 : INFO : Train AUC: 0.5013
+2022-05-08 01:22:18,466 : INFO : Test AUC: 0.5005
+2022-05-08 01:22:18,466 : INFO : epoch 0/30:
+2022-05-08 01:22:18,466 : INFO : Total loss: 39.6553
+2022-05-08 01:22:18,467 : INFO : SGNS loss: 45.7969
+2022-05-08 01:22:18,467 : INFO : Dirichlet loss: -39.2996
+2022-05-08 01:22:18,467 : INFO : Prediction loss: 0.0000
+2022-05-08 01:22:18,467 : INFO : Diversity loss: 33.1580
+2022-05-08 01:22:18,471 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:22:18,471 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:22:23,044 : INFO : Train AUC: 0.5024
+2022-05-08 01:22:23,047 : INFO : Test AUC: 0.5023
+2022-05-08 01:22:23,047 : INFO : epoch 1/30:
+2022-05-08 01:22:23,047 : INFO : Total loss: 56.1451
+2022-05-08 01:22:23,047 : INFO : SGNS loss: 45.7695
+2022-05-08 01:22:23,047 : INFO : Dirichlet loss: -22.7823
+2022-05-08 01:22:23,047 : INFO : Prediction loss: 0.0000
+2022-05-08 01:22:23,047 : INFO : Diversity loss: 33.1580
+2022-05-08 01:22:23,051 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:22:23,053 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:22:27,427 : INFO : Train AUC: 0.5040
+2022-05-08 01:22:27,430 : INFO : Test AUC: 0.5023
+2022-05-08 01:22:27,431 : INFO : epoch 2/30:
+2022-05-08 01:22:27,431 : INFO : Total loss: 65.1467
+2022-05-08 01:22:27,431 : INFO : SGNS loss: 45.7286
+2022-05-08 01:22:27,431 : INFO : Dirichlet loss: -13.7399
+2022-05-08 01:22:27,431 : INFO : Prediction loss: 0.0000
+2022-05-08 01:22:27,432 : INFO : Diversity loss: 33.1580
+2022-05-08 01:22:27,436 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:22:27,436 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:22:31,812 : INFO : Train AUC: 0.5064
+2022-05-08 01:22:31,815 : INFO : Test AUC: 0.5038
+2022-05-08 01:22:31,815 : INFO : epoch 3/30:
+2022-05-08 01:22:31,815 : INFO : Total loss: 69.5088
+2022-05-08 01:22:31,815 : INFO : SGNS loss: 45.6830
+2022-05-08 01:22:31,815 : INFO : Dirichlet loss: -9.3322
+2022-05-08 01:22:31,815 : INFO : Prediction loss: 0.0000
+2022-05-08 01:22:31,816 : INFO : Diversity loss: 33.1580
+2022-05-08 01:22:31,819 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:22:31,819 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:22:36,219 : INFO : Train AUC: 0.5105
+2022-05-08 01:22:36,222 : INFO : Test AUC: 0.5086
+2022-05-08 01:22:36,222 : INFO : epoch 4/30:
+2022-05-08 01:22:36,222 : INFO : Total loss: 71.3467
+2022-05-08 01:22:36,222 : INFO : SGNS loss: 45.6347
+2022-05-08 01:22:36,223 : INFO : Dirichlet loss: -7.4460
+2022-05-08 01:22:36,223 : INFO : Prediction loss: 0.0000
+2022-05-08 01:22:36,223 : INFO : Diversity loss: 33.1580
+2022-05-08 01:22:36,226 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:22:36,226 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:22:40,984 : INFO : Train AUC: 0.5186
+2022-05-08 01:22:40,987 : INFO : Test AUC: 0.5188
+2022-05-08 01:22:40,987 : INFO : epoch 5/30:
+2022-05-08 01:22:40,988 : INFO : Total loss: 71.7967
+2022-05-08 01:22:40,988 : INFO : SGNS loss: 45.6244
+2022-05-08 01:22:40,988 : INFO : Dirichlet loss: -6.9856
+2022-05-08 01:22:40,988 : INFO : Prediction loss: 0.0000
+2022-05-08 01:22:40,988 : INFO : Diversity loss: 33.1580
+2022-05-08 01:22:40,992 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:22:40,992 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:22:45,643 : INFO : Train AUC: 0.5366
+2022-05-08 01:22:45,646 : INFO : Test AUC: 0.5336
+2022-05-08 01:22:45,646 : INFO : epoch 6/30:
+2022-05-08 01:22:45,646 : INFO : Total loss: 71.8428
+2022-05-08 01:22:45,646 : INFO : SGNS loss: 45.6196
+2022-05-08 01:22:45,647 : INFO : Dirichlet loss: -6.9348
+2022-05-08 01:22:45,647 : INFO : Prediction loss: 0.0000
+2022-05-08 01:22:45,647 : INFO : Diversity loss: 33.1580
+2022-05-08 01:22:45,650 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:22:45,651 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:22:50,152 : INFO : Train AUC: 0.5763
+2022-05-08 01:22:50,155 : INFO : Test AUC: 0.5694
+2022-05-08 01:22:50,156 : INFO : epoch 7/30:
+2022-05-08 01:22:50,156 : INFO : Total loss: 71.8464
+2022-05-08 01:22:50,156 : INFO : SGNS loss: 45.6200
+2022-05-08 01:22:50,156 : INFO : Dirichlet loss: -6.9316
+2022-05-08 01:22:50,156 : INFO : Prediction loss: 0.0000
+2022-05-08 01:22:50,156 : INFO : Diversity loss: 33.1580
+2022-05-08 01:22:50,160 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:22:50,160 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:22:54,630 : INFO : Train AUC: 0.6671
+2022-05-08 01:22:54,633 : INFO : Test AUC: 0.6717
+2022-05-08 01:22:54,633 : INFO : epoch 8/30:
+2022-05-08 01:22:54,633 : INFO : Total loss: 71.8445
+2022-05-08 01:22:54,634 : INFO : SGNS loss: 45.6180
+2022-05-08 01:22:54,634 : INFO : Dirichlet loss: -6.9315
+2022-05-08 01:22:54,634 : INFO : Prediction loss: 0.0000
+2022-05-08 01:22:54,634 : INFO : Diversity loss: 33.1580
+2022-05-08 01:22:54,638 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:22:54,638 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:22:59,121 : INFO : Train AUC: 0.9004
+2022-05-08 01:22:59,125 : INFO : Test AUC: 0.9018
+2022-05-08 01:22:59,125 : INFO : epoch 9/30:
+2022-05-08 01:22:59,125 : INFO : Total loss: 71.8451
+2022-05-08 01:22:59,125 : INFO : SGNS loss: 45.6186
+2022-05-08 01:22:59,125 : INFO : Dirichlet loss: -6.9315
+2022-05-08 01:22:59,125 : INFO : Prediction loss: 0.0000
+2022-05-08 01:22:59,125 : INFO : Diversity loss: 33.1580
+2022-05-08 01:22:59,129 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:22:59,129 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:23:03,462 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:03,465 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:03,466 : INFO : epoch 10/30:
+2022-05-08 01:23:03,466 : INFO : Total loss: 71.8467
+2022-05-08 01:23:03,466 : INFO : SGNS loss: 45.6202
+2022-05-08 01:23:03,466 : INFO : Dirichlet loss: -6.9315
+2022-05-08 01:23:03,466 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:03,466 : INFO : Diversity loss: 33.1580
+2022-05-08 01:23:03,470 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:23:03,471 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:23:08,022 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:08,025 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:08,025 : INFO : epoch 11/30:
+2022-05-08 01:23:08,026 : INFO : Total loss: 71.8442
+2022-05-08 01:23:08,026 : INFO : SGNS loss: 45.6176
+2022-05-08 01:23:08,026 : INFO : Dirichlet loss: -6.9315
+2022-05-08 01:23:08,026 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:08,026 : INFO : Diversity loss: 33.1580
+2022-05-08 01:23:08,030 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:23:08,030 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:23:12,750 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:12,754 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:12,754 : INFO : epoch 12/30:
+2022-05-08 01:23:12,754 : INFO : Total loss: 71.8444
+2022-05-08 01:23:12,754 : INFO : SGNS loss: 45.6178
+2022-05-08 01:23:12,754 : INFO : Dirichlet loss: -6.9315
+2022-05-08 01:23:12,755 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:12,755 : INFO : Diversity loss: 33.1580
+2022-05-08 01:23:12,759 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:23:12,759 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:23:17,213 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:17,216 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:17,216 : INFO : epoch 13/30:
+2022-05-08 01:23:17,217 : INFO : Total loss: 71.8482
+2022-05-08 01:23:17,217 : INFO : SGNS loss: 45.6217
+2022-05-08 01:23:17,217 : INFO : Dirichlet loss: -6.9315
+2022-05-08 01:23:17,217 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:17,217 : INFO : Diversity loss: 33.1580
+2022-05-08 01:23:17,221 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:23:17,221 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:23:21,567 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:21,570 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:21,570 : INFO : epoch 14/30:
+2022-05-08 01:23:21,570 : INFO : Total loss: 71.8454
+2022-05-08 01:23:21,571 : INFO : SGNS loss: 45.6189
+2022-05-08 01:23:21,571 : INFO : Dirichlet loss: -6.9315
+2022-05-08 01:23:21,571 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:21,571 : INFO : Diversity loss: 33.1580
+2022-05-08 01:23:21,575 : INFO : concept 1: idea terrible packaging feel wash present available style boy flat
+2022-05-08 01:23:21,575 : INFO : concept 2: xbox gadget windows bulb dyson diy weight careful kettle heater
+2022-05-08 01:23:26,277 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:26,279 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:26,280 : INFO : epoch 15/30:
+2022-05-08 01:23:26,280 : INFO : Total loss: -36.0221
+2022-05-08 01:23:26,280 : INFO : SGNS loss: 22.8986
+2022-05-08 01:23:26,280 : INFO : Dirichlet loss: -87.1811
+2022-05-08 01:23:26,280 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:26,280 : INFO : Diversity loss: 28.2604
+2022-05-08 01:23:26,284 : INFO : concept 1: great easy use price buy look quality money recommend brilliantly
+2022-05-08 01:23:26,284 : INFO : concept 2: kettle decent handy sound flat short available microwave rug certainly
+2022-05-08 01:23:31,178 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:31,181 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:31,181 : INFO : epoch 16/30:
+2022-05-08 01:23:31,182 : INFO : Total loss: -88.2976
+2022-05-08 01:23:31,182 : INFO : SGNS loss: 15.0083
+2022-05-08 01:23:31,182 : INFO : Dirichlet loss: -103.6162
+2022-05-08 01:23:31,182 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:31,182 : INFO : Diversity loss: 0.3103
+2022-05-08 01:23:31,186 : INFO : concept 1: great use easy buy look price recommend purchase job quality
+2022-05-08 01:23:31,186 : INFO : concept 2: maybe affordable signal electric timer white practical maker dust normal
+2022-05-08 01:23:35,958 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:35,961 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:35,962 : INFO : epoch 17/30:
+2022-05-08 01:23:35,962 : INFO : Total loss: -97.2271
+2022-05-08 01:23:35,962 : INFO : SGNS loss: 14.9165
+2022-05-08 01:23:35,962 : INFO : Dirichlet loss: -103.6160
+2022-05-08 01:23:35,962 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:35,962 : INFO : Diversity loss: -8.5276
+2022-05-08 01:23:35,966 : INFO : concept 1: easy use great quality price money phone nice buy excellent
+2022-05-08 01:23:35,966 : INFO : concept 2: click brighten iphone previously gadget telephone edge dust wonderful maker
+2022-05-08 01:23:40,757 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:40,760 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:40,761 : INFO : epoch 18/30:
+2022-05-08 01:23:40,761 : INFO : Total loss: -103.0981
+2022-05-08 01:23:40,761 : INFO : SGNS loss: 14.9053
+2022-05-08 01:23:40,761 : INFO : Dirichlet loss: -103.6160
+2022-05-08 01:23:40,761 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:40,762 : INFO : Diversity loss: -14.3875
+2022-05-08 01:23:40,765 : INFO : concept 1: easy great buy fit different price recommend money quality like
+2022-05-08 01:23:40,765 : INFO : concept 2: improve hassle daily opinion prove hook limit manufacturer accessory panel
+2022-05-08 01:23:45,538 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:45,541 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:45,541 : INFO : epoch 19/30:
+2022-05-08 01:23:45,542 : INFO : Total loss: -105.9788
+2022-05-08 01:23:45,542 : INFO : SGNS loss: 14.9047
+2022-05-08 01:23:45,542 : INFO : Dirichlet loss: -103.6160
+2022-05-08 01:23:45,542 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:45,542 : INFO : Diversity loss: -17.2676
+2022-05-08 01:23:45,546 : INFO : concept 1: use look buy great read price easy nice smart lovely
+2022-05-08 01:23:45,546 : INFO : concept 2: film supply fixing snap daily save limit allow bar loose
+2022-05-08 01:23:50,418 : INFO : Train AUC: 1.0000
+2022-05-08 01:23:50,421 : INFO : Test AUC: 1.0000
+2022-05-08 01:23:50,421 : INFO : epoch 20/30:
+2022-05-08 01:23:50,421 : INFO : Total loss: -107.4239
+2022-05-08 01:23:50,421 : INFO : SGNS loss: 14.9051
+2022-05-08 01:23:50,421 : INFO : Dirichlet loss: -103.6160
+2022-05-08 01:23:50,421 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:50,422 : INFO : Diversity loss: -18.7131
+2022-05-08 01:23:50,425 : INFO : concept 1: buy easy great money look use lamp small purchase excellent
+2022-05-08 01:23:50,425 : INFO : concept 2: trouble guide click opinion view today advise hardly shame slight
+2022-05-08 01:23:55,096 : INFO : Train AUC: 0.9990
+2022-05-08 01:23:55,099 : INFO : Test AUC: 0.9988
+2022-05-08 01:23:55,099 : INFO : epoch 21/30:
+2022-05-08 01:23:55,099 : INFO : Total loss: -108.1156
+2022-05-08 01:23:55,099 : INFO : SGNS loss: 14.9087
+2022-05-08 01:23:55,100 : INFO : Dirichlet loss: -103.6160
+2022-05-08 01:23:55,100 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:55,100 : INFO : Diversity loss: -19.4083
+2022-05-08 01:23:55,103 : INFO : concept 1: easy price great look use quality buy phone nice curtain
+2022-05-08 01:23:55,104 : INFO : concept 2: hardly constantly lock main slice thoroughly mode enjoy mention tend
+2022-05-08 01:23:59,847 : INFO : Train AUC: 0.8390
+2022-05-08 01:23:59,850 : INFO : Test AUC: 0.8417
+2022-05-08 01:23:59,850 : INFO : epoch 22/30:
+2022-05-08 01:23:59,850 : INFO : Total loss: -108.4204
+2022-05-08 01:23:59,850 : INFO : SGNS loss: 14.9111
+2022-05-08 01:23:59,850 : INFO : Dirichlet loss: -103.6159
+2022-05-08 01:23:59,850 : INFO : Prediction loss: 0.0000
+2022-05-08 01:23:59,851 : INFO : Diversity loss: -19.7156
+2022-05-08 01:23:59,854 : INFO : concept 1: use look buy excellent great problem easy price money little
+2022-05-08 01:23:59,855 : INFO : concept 2: manual wipe figure advise listen container annoying alot limited collection
+2022-05-08 01:24:04,710 : INFO : Train AUC: 0.5000
+2022-05-08 01:24:04,713 : INFO : Test AUC: 0.5000
+2022-05-08 01:24:04,713 : INFO : epoch 23/30:
+2022-05-08 01:24:04,713 : INFO : Total loss: -108.5965
+2022-05-08 01:24:04,713 : INFO : SGNS loss: 14.9101
+2022-05-08 01:24:04,713 : INFO : Dirichlet loss: -103.6159
+2022-05-08 01:24:04,713 : INFO : Prediction loss: 0.0000
+2022-05-08 01:24:04,713 : INFO : Diversity loss: -19.8907
+2022-05-08 01:24:04,718 : INFO : concept 1: great use buy look size money price recommend fit excellent
+2022-05-08 01:24:04,718 : INFO : concept 2: sorry sharp tend pour telephone term brilliantly alternative xmas packaging
+2022-05-08 01:24:09,378 : INFO : Train AUC: 0.5000
+2022-05-08 01:24:09,381 : INFO : Test AUC: 0.5000
+2022-05-08 01:24:09,381 : INFO : epoch 24/30:
+2022-05-08 01:24:09,381 : INFO : Total loss: -108.7104
+2022-05-08 01:24:09,381 : INFO : SGNS loss: 14.9066
+2022-05-08 01:24:09,381 : INFO : Dirichlet loss: -103.6159
+2022-05-08 01:24:09,382 : INFO : Prediction loss: 0.0000
+2022-05-08 01:24:09,382 : INFO : Diversity loss: -20.0011
+2022-05-08 01:24:09,385 : INFO : concept 1: buy great easy quality need use excellent money look small
+2022-05-08 01:24:09,385 : INFO : concept 2: telephone suggest underneath dirt holder press detail adjustable advertise minor
+2022-05-08 01:24:14,195 : INFO : Train AUC: 0.5000
+2022-05-08 01:24:14,198 : INFO : Test AUC: 0.5000
+2022-05-08 01:24:14,198 : INFO : epoch 25/30:
+2022-05-08 01:24:14,198 : INFO : Total loss: -108.7792
+2022-05-08 01:24:14,199 : INFO : SGNS loss: 14.9109
+2022-05-08 01:24:14,199 : INFO : Dirichlet loss: -103.6159
+2022-05-08 01:24:14,199 : INFO : Prediction loss: 0.0000
+2022-05-08 01:24:14,199 : INFO : Diversity loss: -20.0743
+2022-05-08 01:24:14,203 : INFO : concept 1: great easy look iron like crease worth cord quality want
+2022-05-08 01:24:14,203 : INFO : concept 2: additional fabulous content accurate daily careful finally tall panel mess
+2022-05-08 01:24:18,889 : INFO : Train AUC: 0.5000
+2022-05-08 01:24:18,892 : INFO : Test AUC: 0.5000
+2022-05-08 01:24:18,892 : INFO : epoch 26/30:
+2022-05-08 01:24:18,892 : INFO : Total loss: -108.8293
+2022-05-08 01:24:18,892 : INFO : SGNS loss: 14.9103
+2022-05-08 01:24:18,892 : INFO : Dirichlet loss: -103.6158
+2022-05-08 01:24:18,892 : INFO : Prediction loss: 0.0000
+2022-05-08 01:24:18,893 : INFO : Diversity loss: -20.1238
+2022-05-08 01:24:18,896 : INFO : concept 1: quality great buy price recommend use easy look small need
+2022-05-08 01:24:18,896 : INFO : concept 2: tank opinion extension pattern hopefully treat dirt badly young rating
+2022-05-08 01:24:23,560 : INFO : Train AUC: 0.5000
+2022-05-08 01:24:23,563 : INFO : Test AUC: 0.5000
+2022-05-08 01:24:23,563 : INFO : epoch 27/30:
+2022-05-08 01:24:23,564 : INFO : Total loss: -108.8671
+2022-05-08 01:24:23,564 : INFO : SGNS loss: 14.9071
+2022-05-08 01:24:23,564 : INFO : Dirichlet loss: -103.6158
+2022-05-08 01:24:23,564 : INFO : Prediction loss: 0.0000
+2022-05-08 01:24:23,564 : INFO : Diversity loss: -20.1584
+2022-05-08 01:24:23,569 : INFO : concept 1: great use look easy screen love excellent recommend quality buy
+2022-05-08 01:24:23,570 : INFO : concept 2: blend summer minor bowl manufacturer gap wipe classy hobbs christmas
+2022-05-08 01:24:28,264 : INFO : Train AUC: 0.5000
+2022-05-08 01:24:28,267 : INFO : Test AUC: 0.5000
+2022-05-08 01:24:28,268 : INFO : epoch 28/30:
+2022-05-08 01:24:28,268 : INFO : Total loss: -108.8940
+2022-05-08 01:24:28,268 : INFO : SGNS loss: 14.9046
+2022-05-08 01:24:28,268 : INFO : Dirichlet loss: -103.6158
+2022-05-08 01:24:28,268 : INFO : Prediction loss: 0.0000
+2022-05-08 01:24:28,268 : INFO : Diversity loss: -20.1828
+2022-05-08 01:24:28,272 : INFO : concept 1: quality great easy use price buy bit excellent look small
+2022-05-08 01:24:28,273 : INFO : concept 2: initially wow spin produce wheel sky channel foot relatively bother
+2022-05-08 01:24:33,013 : INFO : Train AUC: 0.5000
+2022-05-08 01:24:33,017 : INFO : Test AUC: 0.5000
+2022-05-08 01:24:33,017 : INFO : epoch 29/30:
+2022-05-08 01:24:33,017 : INFO : Total loss: -108.9094
+2022-05-08 01:24:33,017 : INFO : SGNS loss: 14.9065
+2022-05-08 01:24:33,018 : INFO : Dirichlet loss: -103.6157
+2022-05-08 01:24:33,018 : INFO : Prediction loss: 0.0000
+2022-05-08 01:24:33,018 : INFO : Diversity loss: -20.2002
+2022-05-08 01:24:33,022 : INFO : concept 1: look quilt nice great use buy quality work money cheap
+2022-05-08 01:24:33,022 : INFO : concept 2: lock durable initially date bottle packaging self worry wonderful serve

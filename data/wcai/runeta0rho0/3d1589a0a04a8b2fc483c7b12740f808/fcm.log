@@ -1,0 +1,300 @@
+2022-05-08 02:07:24,907 : INFO : Train AUC: 0.4974
+2022-05-08 02:07:24,911 : INFO : Test AUC: 0.4977
+2022-05-08 02:07:24,911 : INFO : epoch 0/30:
+2022-05-08 02:07:24,911 : INFO : Total loss: -349.5300
+2022-05-08 02:07:24,911 : INFO : SGNS loss: 46.3386
+2022-05-08 02:07:24,911 : INFO : Dirichlet loss: -395.8687
+2022-05-08 02:07:24,911 : INFO : Prediction loss: 0.0000
+2022-05-08 02:07:24,912 : INFO : Diversity loss: 0.0000
+2022-05-08 02:07:24,915 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:07:24,915 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:07:28,885 : INFO : Train AUC: 0.4962
+2022-05-08 02:07:28,888 : INFO : Test AUC: 0.4977
+2022-05-08 02:07:28,888 : INFO : epoch 1/30:
+2022-05-08 02:07:28,888 : INFO : Total loss: -174.1542
+2022-05-08 02:07:28,888 : INFO : SGNS loss: 46.3060
+2022-05-08 02:07:28,889 : INFO : Dirichlet loss: -220.4603
+2022-05-08 02:07:28,889 : INFO : Prediction loss: 0.0000
+2022-05-08 02:07:28,889 : INFO : Diversity loss: 0.0000
+2022-05-08 02:07:28,892 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:07:28,892 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:07:32,881 : INFO : Train AUC: 0.4895
+2022-05-08 02:07:32,883 : INFO : Test AUC: 0.4914
+2022-05-08 02:07:32,884 : INFO : epoch 2/30:
+2022-05-08 02:07:32,884 : INFO : Total loss: -80.6541
+2022-05-08 02:07:32,884 : INFO : SGNS loss: 46.2547
+2022-05-08 02:07:32,884 : INFO : Dirichlet loss: -126.9088
+2022-05-08 02:07:32,884 : INFO : Prediction loss: 0.0000
+2022-05-08 02:07:32,884 : INFO : Diversity loss: 0.0000
+2022-05-08 02:07:32,888 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:07:32,888 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:07:36,849 : INFO : Train AUC: 0.4480
+2022-05-08 02:07:36,852 : INFO : Test AUC: 0.4522
+2022-05-08 02:07:36,852 : INFO : epoch 3/30:
+2022-05-08 02:07:36,852 : INFO : Total loss: -40.9471
+2022-05-08 02:07:36,852 : INFO : SGNS loss: 46.2027
+2022-05-08 02:07:36,853 : INFO : Dirichlet loss: -87.1498
+2022-05-08 02:07:36,853 : INFO : Prediction loss: 0.0000
+2022-05-08 02:07:36,853 : INFO : Diversity loss: 0.0000
+2022-05-08 02:07:36,856 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:07:36,856 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:07:40,829 : INFO : Train AUC: 0.1157
+2022-05-08 02:07:40,834 : INFO : Test AUC: 0.1152
+2022-05-08 02:07:40,834 : INFO : epoch 4/30:
+2022-05-08 02:07:40,834 : INFO : Total loss: -27.0384
+2022-05-08 02:07:40,835 : INFO : SGNS loss: 46.1766
+2022-05-08 02:07:40,835 : INFO : Dirichlet loss: -73.2150
+2022-05-08 02:07:40,835 : INFO : Prediction loss: 0.0000
+2022-05-08 02:07:40,835 : INFO : Diversity loss: 0.0000
+2022-05-08 02:07:40,838 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:07:40,838 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:07:44,921 : INFO : Train AUC: 0.0000
+2022-05-08 02:07:44,925 : INFO : Test AUC: 0.0001
+2022-05-08 02:07:44,930 : INFO : epoch 5/30:
+2022-05-08 02:07:44,930 : INFO : Total loss: -23.6249
+2022-05-08 02:07:44,930 : INFO : SGNS loss: 46.1762
+2022-05-08 02:07:44,930 : INFO : Dirichlet loss: -69.8011
+2022-05-08 02:07:44,930 : INFO : Prediction loss: 0.0000
+2022-05-08 02:07:44,930 : INFO : Diversity loss: 0.0000
+2022-05-08 02:07:44,934 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:07:44,934 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:07:48,929 : INFO : Train AUC: 0.0004
+2022-05-08 02:07:48,932 : INFO : Test AUC: 0.0011
+2022-05-08 02:07:48,932 : INFO : epoch 6/30:
+2022-05-08 02:07:48,933 : INFO : Total loss: -23.1735
+2022-05-08 02:07:48,933 : INFO : SGNS loss: 46.1782
+2022-05-08 02:07:48,933 : INFO : Dirichlet loss: -69.3517
+2022-05-08 02:07:48,933 : INFO : Prediction loss: 0.0000
+2022-05-08 02:07:48,933 : INFO : Diversity loss: 0.0000
+2022-05-08 02:07:48,936 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:07:48,937 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:07:52,935 : INFO : Train AUC: 0.0364
+2022-05-08 02:07:52,939 : INFO : Test AUC: 0.0366
+2022-05-08 02:07:52,940 : INFO : epoch 7/30:
+2022-05-08 02:07:52,940 : INFO : Total loss: -23.1358
+2022-05-08 02:07:52,940 : INFO : SGNS loss: 46.1809
+2022-05-08 02:07:52,940 : INFO : Dirichlet loss: -69.3167
+2022-05-08 02:07:52,940 : INFO : Prediction loss: 0.0000
+2022-05-08 02:07:52,940 : INFO : Diversity loss: 0.0000
+2022-05-08 02:07:52,944 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:07:52,944 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:07:56,908 : INFO : Train AUC: 0.9833
+2022-05-08 02:07:56,911 : INFO : Test AUC: 0.9827
+2022-05-08 02:07:56,912 : INFO : epoch 8/30:
+2022-05-08 02:07:56,912 : INFO : Total loss: -23.1364
+2022-05-08 02:07:56,912 : INFO : SGNS loss: 46.1784
+2022-05-08 02:07:56,912 : INFO : Dirichlet loss: -69.3148
+2022-05-08 02:07:56,912 : INFO : Prediction loss: 0.0000
+2022-05-08 02:07:56,912 : INFO : Diversity loss: 0.0000
+2022-05-08 02:07:56,915 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:07:56,915 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:08:00,895 : INFO : Train AUC: 0.1276
+2022-05-08 02:08:00,898 : INFO : Test AUC: 0.1290
+2022-05-08 02:08:00,898 : INFO : epoch 9/30:
+2022-05-08 02:08:00,898 : INFO : Total loss: -23.1371
+2022-05-08 02:08:00,899 : INFO : SGNS loss: 46.1776
+2022-05-08 02:08:00,899 : INFO : Dirichlet loss: -69.3147
+2022-05-08 02:08:00,899 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:00,899 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:00,902 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:08:00,902 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:08:04,873 : INFO : Train AUC: 0.5004
+2022-05-08 02:08:04,876 : INFO : Test AUC: 0.5007
+2022-05-08 02:08:04,876 : INFO : epoch 10/30:
+2022-05-08 02:08:04,876 : INFO : Total loss: -23.1353
+2022-05-08 02:08:04,876 : INFO : SGNS loss: 46.1794
+2022-05-08 02:08:04,877 : INFO : Dirichlet loss: -69.3147
+2022-05-08 02:08:04,877 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:04,877 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:04,880 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:08:04,880 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:08:08,888 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:08,891 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:08,891 : INFO : epoch 11/30:
+2022-05-08 02:08:08,891 : INFO : Total loss: -23.1328
+2022-05-08 02:08:08,891 : INFO : SGNS loss: 46.1819
+2022-05-08 02:08:08,891 : INFO : Dirichlet loss: -69.3147
+2022-05-08 02:08:08,892 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:08,892 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:08,895 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:08:08,895 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:08:12,861 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:12,864 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:12,864 : INFO : epoch 12/30:
+2022-05-08 02:08:12,864 : INFO : Total loss: -23.1352
+2022-05-08 02:08:12,864 : INFO : SGNS loss: 46.1795
+2022-05-08 02:08:12,865 : INFO : Dirichlet loss: -69.3147
+2022-05-08 02:08:12,865 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:12,865 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:12,868 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:08:12,868 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:08:16,905 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:16,907 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:16,907 : INFO : epoch 13/30:
+2022-05-08 02:08:16,907 : INFO : Total loss: -23.1341
+2022-05-08 02:08:16,908 : INFO : SGNS loss: 46.1806
+2022-05-08 02:08:16,908 : INFO : Dirichlet loss: -69.3147
+2022-05-08 02:08:16,908 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:16,908 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:16,911 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:08:16,911 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:08:20,872 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:20,875 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:20,875 : INFO : epoch 14/30:
+2022-05-08 02:08:20,875 : INFO : Total loss: -23.1340
+2022-05-08 02:08:20,875 : INFO : SGNS loss: 46.1807
+2022-05-08 02:08:20,875 : INFO : Dirichlet loss: -69.3147
+2022-05-08 02:08:20,876 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:20,876 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:20,878 : INFO : concept 1: double struggle staff accurate eventually sort prefer shop leak fabric
+2022-05-08 02:08:20,879 : INFO : concept 2: bother range program boy lid fix gap elderly tiny dog
+2022-05-08 02:08:25,191 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:25,193 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:25,193 : INFO : epoch 15/30:
+2022-05-08 02:08:25,194 : INFO : Total loss: -893.9991
+2022-05-08 02:08:25,194 : INFO : SGNS loss: 23.8428
+2022-05-08 02:08:25,194 : INFO : Dirichlet loss: -917.8419
+2022-05-08 02:08:25,194 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:25,194 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:25,197 : INFO : concept 1: lay inexpensive buy use granddaughter great limited burn alot worktop
+2022-05-08 02:08:25,197 : INFO : concept 2: great easy limited buy use alot brown figure graphic lay
+2022-05-08 02:08:29,417 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:29,420 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:29,420 : INFO : epoch 16/30:
+2022-05-08 02:08:29,420 : INFO : Total loss: -1020.9833
+2022-05-08 02:08:29,420 : INFO : SGNS loss: 15.1800
+2022-05-08 02:08:29,420 : INFO : Dirichlet loss: -1036.1633
+2022-05-08 02:08:29,420 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:29,420 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:29,424 : INFO : concept 1: easy use buy great quality granddaughter price opinion exist little
+2022-05-08 02:08:29,424 : INFO : concept 2: use easy great buy price quality excellent granddaughter look recommend
+2022-05-08 02:08:33,714 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:33,716 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:33,717 : INFO : epoch 17/30:
+2022-05-08 02:08:33,717 : INFO : Total loss: -1021.1454
+2022-05-08 02:08:33,717 : INFO : SGNS loss: 15.0179
+2022-05-08 02:08:33,717 : INFO : Dirichlet loss: -1036.1633
+2022-05-08 02:08:33,717 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:33,717 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:33,721 : INFO : concept 1: look easy great use basket mess buy think lay work
+2022-05-08 02:08:33,721 : INFO : concept 2: great use easy look price buy quality love assemble money
+2022-05-08 02:08:37,958 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:37,960 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:37,960 : INFO : epoch 18/30:
+2022-05-08 02:08:37,960 : INFO : Total loss: -1021.1935
+2022-05-08 02:08:37,961 : INFO : SGNS loss: 14.9699
+2022-05-08 02:08:37,961 : INFO : Dirichlet loss: -1036.1633
+2022-05-08 02:08:37,961 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:37,961 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:37,964 : INFO : concept 1: pain absolute easy use buy requirement recomend fit feel law
+2022-05-08 02:08:37,964 : INFO : concept 2: great use look easy buy price excellent love nice money
+2022-05-08 02:08:42,200 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:42,203 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:42,203 : INFO : epoch 19/30:
+2022-05-08 02:08:42,203 : INFO : Total loss: -1021.2131
+2022-05-08 02:08:42,203 : INFO : SGNS loss: 14.9503
+2022-05-08 02:08:42,203 : INFO : Dirichlet loss: -1036.1633
+2022-05-08 02:08:42,204 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:42,204 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:42,207 : INFO : concept 1: slightly pour previous apple recommend thin blow upgrade hopefully pleasantly
+2022-05-08 02:08:42,207 : INFO : concept 2: great quality use easy price buy excellent look recommend nice
+2022-05-08 02:08:46,536 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:46,539 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:46,539 : INFO : epoch 20/30:
+2022-05-08 02:08:46,539 : INFO : Total loss: -1021.2238
+2022-05-08 02:08:46,539 : INFO : SGNS loss: 14.9396
+2022-05-08 02:08:46,539 : INFO : Dirichlet loss: -1036.1633
+2022-05-08 02:08:46,539 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:46,540 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:46,543 : INFO : concept 1: durable body cheap protect inexpensive face grandson similar electric pleasantly
+2022-05-08 02:08:46,543 : INFO : concept 2: use easy great buy cheap recommend quality nice look money
+2022-05-08 02:08:50,812 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:50,814 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:50,814 : INFO : epoch 21/30:
+2022-05-08 02:08:50,815 : INFO : Total loss: -1021.2307
+2022-05-08 02:08:50,815 : INFO : SGNS loss: 14.9325
+2022-05-08 02:08:50,815 : INFO : Dirichlet loss: -1036.1633
+2022-05-08 02:08:50,815 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:50,815 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:50,818 : INFO : concept 1: search wheel hardly waste blow person elegant ipad whilst store
+2022-05-08 02:08:50,818 : INFO : concept 2: use easy great look quality buy price money recommend need
+2022-05-08 02:08:55,062 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:55,064 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:55,064 : INFO : epoch 22/30:
+2022-05-08 02:08:55,065 : INFO : Total loss: -1021.2352
+2022-05-08 02:08:55,065 : INFO : SGNS loss: 14.9281
+2022-05-08 02:08:55,065 : INFO : Dirichlet loss: -1036.1632
+2022-05-08 02:08:55,065 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:55,065 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:55,068 : INFO : concept 1: straightforward use fair previous like wheel easy room present people
+2022-05-08 02:08:55,068 : INFO : concept 2: easy use buy great price look money work quality need
+2022-05-08 02:08:59,287 : INFO : Train AUC: 0.5000
+2022-05-08 02:08:59,289 : INFO : Test AUC: 0.5000
+2022-05-08 02:08:59,289 : INFO : epoch 23/30:
+2022-05-08 02:08:59,289 : INFO : Total loss: -1021.2381
+2022-05-08 02:08:59,289 : INFO : SGNS loss: 14.9251
+2022-05-08 02:08:59,290 : INFO : Dirichlet loss: -1036.1632
+2022-05-08 02:08:59,290 : INFO : Prediction loss: 0.0000
+2022-05-08 02:08:59,290 : INFO : Diversity loss: 0.0000
+2022-05-08 02:08:59,293 : INFO : concept 1: dark later extension lift fix absolute buy setup fairly granddaughter
+2022-05-08 02:08:59,293 : INFO : concept 2: buy great easy money quality excellent recommend look use price
+2022-05-08 02:09:03,557 : INFO : Train AUC: 0.5000
+2022-05-08 02:09:03,559 : INFO : Test AUC: 0.5000
+2022-05-08 02:09:03,560 : INFO : epoch 24/30:
+2022-05-08 02:09:03,560 : INFO : Total loss: -1021.2400
+2022-05-08 02:09:03,560 : INFO : SGNS loss: 14.9233
+2022-05-08 02:09:03,560 : INFO : Dirichlet loss: -1036.1632
+2022-05-08 02:09:03,560 : INFO : Prediction loss: 0.0000
+2022-05-08 02:09:03,560 : INFO : Diversity loss: 0.0000
+2022-05-08 02:09:03,564 : INFO : concept 1: understand holiday obviously brilliantly hope nicely worry music self beautifully
+2022-05-08 02:09:03,564 : INFO : concept 2: easy great buy look little nice use price money hold
+2022-05-08 02:09:07,824 : INFO : Train AUC: 0.5000
+2022-05-08 02:09:07,827 : INFO : Test AUC: 0.5000
+2022-05-08 02:09:07,827 : INFO : epoch 25/30:
+2022-05-08 02:09:07,827 : INFO : Total loss: -1021.2441
+2022-05-08 02:09:07,827 : INFO : SGNS loss: 14.9189
+2022-05-08 02:09:07,827 : INFO : Dirichlet loss: -1036.1630
+2022-05-08 02:09:07,828 : INFO : Prediction loss: 0.0000
+2022-05-08 02:09:07,828 : INFO : Diversity loss: 0.0000
+2022-05-08 02:09:07,831 : INFO : concept 1: fully cool plastic bookcase cooking arm gorgeous suggest usual couple
+2022-05-08 02:09:07,831 : INFO : concept 2: use look great easy buy price quality fully fit love
+2022-05-08 02:09:12,098 : INFO : Train AUC: 0.5000
+2022-05-08 02:09:12,101 : INFO : Test AUC: 0.5000
+2022-05-08 02:09:12,101 : INFO : epoch 26/30:
+2022-05-08 02:09:12,101 : INFO : Total loss: -1021.2454
+2022-05-08 02:09:12,102 : INFO : SGNS loss: 14.9176
+2022-05-08 02:09:12,102 : INFO : Dirichlet loss: -1036.1630
+2022-05-08 02:09:12,102 : INFO : Prediction loss: 0.0000
+2022-05-08 02:09:12,102 : INFO : Diversity loss: 0.0000
+2022-05-08 02:09:12,105 : INFO : concept 1: pop mini fold easy probably straight shade bread apple wipe
+2022-05-08 02:09:12,106 : INFO : concept 2: great easy buy look pleased use fit price money replace
+2022-05-08 02:09:16,452 : INFO : Train AUC: 0.5000
+2022-05-08 02:09:16,455 : INFO : Test AUC: 0.5000
+2022-05-08 02:09:16,455 : INFO : epoch 27/30:
+2022-05-08 02:09:16,455 : INFO : Total loss: -1021.2465
+2022-05-08 02:09:16,455 : INFO : SGNS loss: 14.9166
+2022-05-08 02:09:16,455 : INFO : Dirichlet loss: -1036.1631
+2022-05-08 02:09:16,455 : INFO : Prediction loss: 0.0000
+2022-05-08 02:09:16,455 : INFO : Diversity loss: 0.0000
+2022-05-08 02:09:16,459 : INFO : concept 1: moment open ring push change manufacturer material criticism taste alternative
+2022-05-08 02:09:16,459 : INFO : concept 2: great easy price use buy quality look sound time small
+2022-05-08 02:09:20,691 : INFO : Train AUC: 0.5000
+2022-05-08 02:09:20,694 : INFO : Test AUC: 0.5000
+2022-05-08 02:09:20,694 : INFO : epoch 28/30:
+2022-05-08 02:09:20,694 : INFO : Total loss: -1021.2495
+2022-05-08 02:09:20,694 : INFO : SGNS loss: 14.9136
+2022-05-08 02:09:20,694 : INFO : Dirichlet loss: -1036.1631
+2022-05-08 02:09:20,695 : INFO : Prediction loss: 0.0000
+2022-05-08 02:09:20,695 : INFO : Diversity loss: 0.0000
+2022-05-08 02:09:20,698 : INFO : concept 1: include loose xbox market usual weight clock function eat plug
+2022-05-08 02:09:20,698 : INFO : concept 2: easy great buy look quality use price old excellent need
+2022-05-08 02:09:24,950 : INFO : Train AUC: 0.5000
+2022-05-08 02:09:24,952 : INFO : Test AUC: 0.5000
+2022-05-08 02:09:24,953 : INFO : epoch 29/30:
+2022-05-08 02:09:24,953 : INFO : Total loss: -1021.2507
+2022-05-08 02:09:24,953 : INFO : SGNS loss: 14.9124
+2022-05-08 02:09:24,953 : INFO : Dirichlet loss: -1036.1631
+2022-05-08 02:09:24,953 : INFO : Prediction loss: 0.0000
+2022-05-08 02:09:24,953 : INFO : Diversity loss: 0.0000
+2022-05-08 02:09:24,956 : INFO : concept 1: stuff bulb portable help place service switch wash result additional
+2022-05-08 02:09:24,957 : INFO : concept 2: use buy great look quality price need easy money work

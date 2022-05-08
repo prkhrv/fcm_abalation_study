@@ -1,0 +1,300 @@
+2022-05-08 01:31:02,652 : INFO : Train AUC: 0.9650
+2022-05-08 01:31:02,658 : INFO : Test AUC: 0.9624
+2022-05-08 01:31:02,658 : INFO : epoch 0/30:
+2022-05-08 01:31:02,658 : INFO : Total loss: -4016.6573
+2022-05-08 01:31:02,658 : INFO : SGNS loss: 46.2425
+2022-05-08 01:31:02,659 : INFO : Dirichlet loss: -4073.5762
+2022-05-08 01:31:02,659 : INFO : Prediction loss: 10.6764
+2022-05-08 01:31:02,659 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:02,662 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:02,663 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:06,639 : INFO : Train AUC: 0.9817
+2022-05-08 01:31:06,641 : INFO : Test AUC: 0.9780
+2022-05-08 01:31:06,642 : INFO : epoch 1/30:
+2022-05-08 01:31:06,642 : INFO : Total loss: -1997.8588
+2022-05-08 01:31:06,642 : INFO : SGNS loss: 46.1596
+2022-05-08 01:31:06,642 : INFO : Dirichlet loss: -2045.1569
+2022-05-08 01:31:06,642 : INFO : Prediction loss: 1.1385
+2022-05-08 01:31:06,642 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:06,645 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:06,645 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:10,642 : INFO : Train AUC: 0.9851
+2022-05-08 01:31:10,645 : INFO : Test AUC: 0.9818
+2022-05-08 01:31:10,645 : INFO : epoch 2/30:
+2022-05-08 01:31:10,645 : INFO : Total loss: -1192.6253
+2022-05-08 01:31:10,645 : INFO : SGNS loss: 46.1073
+2022-05-08 01:31:10,645 : INFO : Dirichlet loss: -1239.5672
+2022-05-08 01:31:10,645 : INFO : Prediction loss: 0.8345
+2022-05-08 01:31:10,645 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:10,649 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:10,649 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:14,625 : INFO : Train AUC: 0.9869
+2022-05-08 01:31:14,628 : INFO : Test AUC: 0.9840
+2022-05-08 01:31:14,628 : INFO : epoch 3/30:
+2022-05-08 01:31:14,628 : INFO : Total loss: -934.3391
+2022-05-08 01:31:14,628 : INFO : SGNS loss: 46.0937
+2022-05-08 01:31:14,628 : INFO : Dirichlet loss: -981.1814
+2022-05-08 01:31:14,628 : INFO : Prediction loss: 0.7487
+2022-05-08 01:31:14,629 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:14,632 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:14,632 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:18,614 : INFO : Train AUC: 0.9836
+2022-05-08 01:31:18,617 : INFO : Test AUC: 0.9806
+2022-05-08 01:31:18,617 : INFO : epoch 4/30:
+2022-05-08 01:31:18,617 : INFO : Total loss: -864.8169
+2022-05-08 01:31:18,618 : INFO : SGNS loss: 46.0879
+2022-05-08 01:31:18,618 : INFO : Dirichlet loss: -911.5956
+2022-05-08 01:31:18,618 : INFO : Prediction loss: 0.6909
+2022-05-08 01:31:18,618 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:18,621 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:18,621 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:22,649 : INFO : Train AUC: 0.9883
+2022-05-08 01:31:22,652 : INFO : Test AUC: 0.9855
+2022-05-08 01:31:22,652 : INFO : epoch 5/30:
+2022-05-08 01:31:22,653 : INFO : Total loss: -842.5781
+2022-05-08 01:31:22,653 : INFO : SGNS loss: 46.0890
+2022-05-08 01:31:22,653 : INFO : Dirichlet loss: -889.3203
+2022-05-08 01:31:22,653 : INFO : Prediction loss: 0.6531
+2022-05-08 01:31:22,653 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:22,656 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:22,656 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:26,662 : INFO : Train AUC: 0.9899
+2022-05-08 01:31:26,665 : INFO : Test AUC: 0.9877
+2022-05-08 01:31:26,665 : INFO : epoch 6/30:
+2022-05-08 01:31:26,665 : INFO : Total loss: -825.3651
+2022-05-08 01:31:26,665 : INFO : SGNS loss: 46.0891
+2022-05-08 01:31:26,665 : INFO : Dirichlet loss: -872.0548
+2022-05-08 01:31:26,665 : INFO : Prediction loss: 0.6006
+2022-05-08 01:31:26,665 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:26,668 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:26,668 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:30,697 : INFO : Train AUC: 0.9892
+2022-05-08 01:31:30,700 : INFO : Test AUC: 0.9863
+2022-05-08 01:31:30,700 : INFO : epoch 7/30:
+2022-05-08 01:31:30,700 : INFO : Total loss: -798.4851
+2022-05-08 01:31:30,700 : INFO : SGNS loss: 46.0863
+2022-05-08 01:31:30,700 : INFO : Dirichlet loss: -845.1416
+2022-05-08 01:31:30,701 : INFO : Prediction loss: 0.5702
+2022-05-08 01:31:30,701 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:30,704 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:30,704 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:34,759 : INFO : Train AUC: 0.9909
+2022-05-08 01:31:34,762 : INFO : Test AUC: 0.9887
+2022-05-08 01:31:34,762 : INFO : epoch 8/30:
+2022-05-08 01:31:34,762 : INFO : Total loss: -762.1902
+2022-05-08 01:31:34,763 : INFO : SGNS loss: 46.0756
+2022-05-08 01:31:34,763 : INFO : Dirichlet loss: -808.8016
+2022-05-08 01:31:34,763 : INFO : Prediction loss: 0.5358
+2022-05-08 01:31:34,763 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:34,766 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:34,766 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:38,877 : INFO : Train AUC: 0.9916
+2022-05-08 01:31:38,880 : INFO : Test AUC: 0.9897
+2022-05-08 01:31:38,880 : INFO : epoch 9/30:
+2022-05-08 01:31:38,880 : INFO : Total loss: -727.0392
+2022-05-08 01:31:38,880 : INFO : SGNS loss: 46.0585
+2022-05-08 01:31:38,881 : INFO : Dirichlet loss: -773.6024
+2022-05-08 01:31:38,881 : INFO : Prediction loss: 0.5047
+2022-05-08 01:31:38,881 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:38,885 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:38,886 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:42,898 : INFO : Train AUC: 0.9915
+2022-05-08 01:31:42,901 : INFO : Test AUC: 0.9897
+2022-05-08 01:31:42,901 : INFO : epoch 10/30:
+2022-05-08 01:31:42,902 : INFO : Total loss: -678.3958
+2022-05-08 01:31:42,902 : INFO : SGNS loss: 46.0307
+2022-05-08 01:31:42,902 : INFO : Dirichlet loss: -724.9117
+2022-05-08 01:31:42,902 : INFO : Prediction loss: 0.4852
+2022-05-08 01:31:42,902 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:42,905 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:42,906 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:46,886 : INFO : Train AUC: 0.9915
+2022-05-08 01:31:46,888 : INFO : Test AUC: 0.9897
+2022-05-08 01:31:46,888 : INFO : epoch 11/30:
+2022-05-08 01:31:46,889 : INFO : Total loss: -654.1133
+2022-05-08 01:31:46,889 : INFO : SGNS loss: 45.9974
+2022-05-08 01:31:46,889 : INFO : Dirichlet loss: -700.5621
+2022-05-08 01:31:46,889 : INFO : Prediction loss: 0.4514
+2022-05-08 01:31:46,889 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:46,892 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:46,892 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:50,970 : INFO : Train AUC: 0.9939
+2022-05-08 01:31:50,973 : INFO : Test AUC: 0.9925
+2022-05-08 01:31:50,973 : INFO : epoch 12/30:
+2022-05-08 01:31:50,973 : INFO : Total loss: -652.4399
+2022-05-08 01:31:50,973 : INFO : SGNS loss: 45.9960
+2022-05-08 01:31:50,974 : INFO : Dirichlet loss: -698.8620
+2022-05-08 01:31:50,974 : INFO : Prediction loss: 0.4261
+2022-05-08 01:31:50,974 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:50,977 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:50,977 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:54,976 : INFO : Train AUC: 0.9924
+2022-05-08 01:31:54,978 : INFO : Test AUC: 0.9908
+2022-05-08 01:31:54,979 : INFO : epoch 13/30:
+2022-05-08 01:31:54,979 : INFO : Total loss: -650.4484
+2022-05-08 01:31:54,979 : INFO : SGNS loss: 46.0038
+2022-05-08 01:31:54,979 : INFO : Dirichlet loss: -696.9397
+2022-05-08 01:31:54,979 : INFO : Prediction loss: 0.4876
+2022-05-08 01:31:54,979 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:54,983 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:54,983 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:31:58,965 : INFO : Train AUC: 0.9917
+2022-05-08 01:31:58,968 : INFO : Test AUC: 0.9900
+2022-05-08 01:31:58,968 : INFO : epoch 14/30:
+2022-05-08 01:31:58,969 : INFO : Total loss: -648.5502
+2022-05-08 01:31:58,969 : INFO : SGNS loss: 46.0023
+2022-05-08 01:31:58,969 : INFO : Dirichlet loss: -694.9166
+2022-05-08 01:31:58,969 : INFO : Prediction loss: 0.3641
+2022-05-08 01:31:58,969 : INFO : Diversity loss: 0.0000
+2022-05-08 01:31:58,973 : INFO : concept 1: min prove terrible cosy child minute idea weight food position
+2022-05-08 01:31:58,973 : INFO : concept 2: immediately surprisingly away highly obviously wet windows notice offer place
+2022-05-08 01:32:03,232 : INFO : Train AUC: 0.9919
+2022-05-08 01:32:03,234 : INFO : Test AUC: 0.9908
+2022-05-08 01:32:03,235 : INFO : epoch 15/30:
+2022-05-08 01:32:03,235 : INFO : Total loss: -9538.5268
+2022-05-08 01:32:03,235 : INFO : SGNS loss: 23.1289
+2022-05-08 01:32:03,235 : INFO : Dirichlet loss: -9562.5770
+2022-05-08 01:32:03,235 : INFO : Prediction loss: 0.9213
+2022-05-08 01:32:03,235 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:03,239 : INFO : concept 1: quality price great money look buy sound excellent item large
+2022-05-08 01:32:03,239 : INFO : concept 2: great easy use beautifully buy lay brilliantly look unable equipment
+2022-05-08 01:32:07,534 : INFO : Train AUC: 0.9919
+2022-05-08 01:32:07,536 : INFO : Test AUC: 0.9902
+2022-05-08 01:32:07,536 : INFO : epoch 16/30:
+2022-05-08 01:32:07,536 : INFO : Total loss: -10346.1530
+2022-05-08 01:32:07,537 : INFO : SGNS loss: 15.1937
+2022-05-08 01:32:07,537 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:32:07,537 : INFO : Prediction loss: 0.2860
+2022-05-08 01:32:07,537 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:07,540 : INFO : concept 1: great price money buy quality look excellent purchase recommend inexpensive
+2022-05-08 01:32:07,540 : INFO : concept 2: great easy buy use price look money quality purchase inexpensive
+2022-05-08 01:32:11,856 : INFO : Train AUC: 0.9947
+2022-05-08 01:32:11,859 : INFO : Test AUC: 0.9934
+2022-05-08 01:32:11,859 : INFO : epoch 17/30:
+2022-05-08 01:32:11,860 : INFO : Total loss: -10346.3344
+2022-05-08 01:32:11,860 : INFO : SGNS loss: 15.0324
+2022-05-08 01:32:11,860 : INFO : Dirichlet loss: -10361.6329
+2022-05-08 01:32:11,860 : INFO : Prediction loss: 0.2661
+2022-05-08 01:32:11,860 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:11,873 : INFO : concept 1: great price money easy excellent look recommend buy quality use
+2022-05-08 01:32:11,873 : INFO : concept 2: great buy easy use look excellent price money recommend purchase
+2022-05-08 01:32:16,113 : INFO : Train AUC: 0.9962
+2022-05-08 01:32:16,116 : INFO : Test AUC: 0.9955
+2022-05-08 01:32:16,116 : INFO : epoch 18/30:
+2022-05-08 01:32:16,116 : INFO : Total loss: -10346.2861
+2022-05-08 01:32:16,116 : INFO : SGNS loss: 14.9780
+2022-05-08 01:32:16,116 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:32:16,117 : INFO : Prediction loss: 0.3686
+2022-05-08 01:32:16,117 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:16,120 : INFO : concept 1: great easy price look use excellent money quality feature recommend
+2022-05-08 01:32:16,120 : INFO : concept 2: easy great buy look excellent use price quality money recommend
+2022-05-08 01:32:20,436 : INFO : Train AUC: 0.9941
+2022-05-08 01:32:20,439 : INFO : Test AUC: 0.9962
+2022-05-08 01:32:20,439 : INFO : epoch 19/30:
+2022-05-08 01:32:20,439 : INFO : Total loss: -10336.5441
+2022-05-08 01:32:20,439 : INFO : SGNS loss: 14.9523
+2022-05-08 01:32:20,439 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:32:20,439 : INFO : Prediction loss: 10.1364
+2022-05-08 01:32:20,439 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:20,443 : INFO : concept 1: great price easy money excellent look quality use nice feature
+2022-05-08 01:32:20,443 : INFO : concept 2: great buy price easy use quality look money warm nice
+2022-05-08 01:32:24,727 : INFO : Train AUC: 0.9866
+2022-05-08 01:32:24,730 : INFO : Test AUC: 0.9863
+2022-05-08 01:32:24,730 : INFO : epoch 20/30:
+2022-05-08 01:32:24,730 : INFO : Total loss: -10339.8001
+2022-05-08 01:32:24,730 : INFO : SGNS loss: 14.9379
+2022-05-08 01:32:24,730 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:32:24,731 : INFO : Prediction loss: 6.8948
+2022-05-08 01:32:24,731 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:24,734 : INFO : concept 1: great price money excellent quality easy look use recommend sound
+2022-05-08 01:32:24,734 : INFO : concept 2: great easy buy money use look excellent price perfect quality
+2022-05-08 01:32:29,010 : INFO : Train AUC: 0.9881
+2022-05-08 01:32:29,013 : INFO : Test AUC: 0.9867
+2022-05-08 01:32:29,013 : INFO : epoch 21/30:
+2022-05-08 01:32:29,013 : INFO : Total loss: -10346.1330
+2022-05-08 01:32:29,013 : INFO : SGNS loss: 14.9281
+2022-05-08 01:32:29,013 : INFO : Dirichlet loss: -10361.6329
+2022-05-08 01:32:29,014 : INFO : Prediction loss: 0.5717
+2022-05-08 01:32:29,014 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:29,017 : INFO : concept 1: great price money look excellent quality easy recommend assemble love
+2022-05-08 01:32:29,017 : INFO : concept 2: great use easy look price buy excellent little fit badly
+2022-05-08 01:32:33,270 : INFO : Train AUC: 0.9898
+2022-05-08 01:32:33,272 : INFO : Test AUC: 0.9885
+2022-05-08 01:32:33,273 : INFO : epoch 22/30:
+2022-05-08 01:32:33,273 : INFO : Total loss: -10346.2532
+2022-05-08 01:32:33,273 : INFO : SGNS loss: 14.9230
+2022-05-08 01:32:33,273 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:32:33,273 : INFO : Prediction loss: 0.4566
+2022-05-08 01:32:33,273 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:33,277 : INFO : concept 1: great price money excellent look quality nice worth easy picture
+2022-05-08 01:32:33,277 : INFO : concept 2: great nice look price use easy buy excellent quality love
+2022-05-08 01:32:37,520 : INFO : Train AUC: 0.9906
+2022-05-08 01:32:37,523 : INFO : Test AUC: 0.9894
+2022-05-08 01:32:37,524 : INFO : epoch 23/30:
+2022-05-08 01:32:37,524 : INFO : Total loss: -10346.3187
+2022-05-08 01:32:37,524 : INFO : SGNS loss: 14.9185
+2022-05-08 01:32:37,524 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:32:37,524 : INFO : Prediction loss: 0.3956
+2022-05-08 01:32:37,524 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:37,527 : INFO : concept 1: great price money excellent look quality worth sound recommend half
+2022-05-08 01:32:37,528 : INFO : concept 2: buy price great easy use look excellent fit design read
+2022-05-08 01:32:41,766 : INFO : Train AUC: 0.9910
+2022-05-08 01:32:41,768 : INFO : Test AUC: 0.9899
+2022-05-08 01:32:41,769 : INFO : epoch 24/30:
+2022-05-08 01:32:41,769 : INFO : Total loss: -10346.3610
+2022-05-08 01:32:41,769 : INFO : SGNS loss: 14.9140
+2022-05-08 01:32:41,769 : INFO : Dirichlet loss: -10361.6329
+2022-05-08 01:32:41,769 : INFO : Prediction loss: 0.3579
+2022-05-08 01:32:41,769 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:41,772 : INFO : concept 1: great price quality money look excellent nice lovely pleased buy
+2022-05-08 01:32:41,773 : INFO : concept 2: great easy buy use price quality look excellent nice purchase
+2022-05-08 01:32:46,007 : INFO : Train AUC: 0.9913
+2022-05-08 01:32:46,010 : INFO : Test AUC: 0.9901
+2022-05-08 01:32:46,010 : INFO : epoch 25/30:
+2022-05-08 01:32:46,010 : INFO : Total loss: -10346.3896
+2022-05-08 01:32:46,010 : INFO : SGNS loss: 14.9112
+2022-05-08 01:32:46,010 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:32:46,010 : INFO : Prediction loss: 0.3320
+2022-05-08 01:32:46,010 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:46,014 : INFO : concept 1: great price money quality excellent look buy recommend purchase worth
+2022-05-08 01:32:46,014 : INFO : concept 2: great buy look easy price use little quality excellent bit
+2022-05-08 01:32:50,261 : INFO : Train AUC: 0.9915
+2022-05-08 01:32:50,264 : INFO : Test AUC: 0.9904
+2022-05-08 01:32:50,264 : INFO : epoch 26/30:
+2022-05-08 01:32:50,264 : INFO : Total loss: -10346.4136
+2022-05-08 01:32:50,264 : INFO : SGNS loss: 14.9072
+2022-05-08 01:32:50,264 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:32:50,264 : INFO : Prediction loss: 0.3120
+2022-05-08 01:32:50,264 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:50,268 : INFO : concept 1: great price money quality excellent buy look argos recommend purchase
+2022-05-08 01:32:50,268 : INFO : concept 2: buy great use easy price look quality work excellent money
+2022-05-08 01:32:54,624 : INFO : Train AUC: 0.9917
+2022-05-08 01:32:54,627 : INFO : Test AUC: 0.9906
+2022-05-08 01:32:54,627 : INFO : epoch 27/30:
+2022-05-08 01:32:54,627 : INFO : Total loss: -10346.4326
+2022-05-08 01:32:54,627 : INFO : SGNS loss: 14.9049
+2022-05-08 01:32:54,627 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:32:54,628 : INFO : Prediction loss: 0.2953
+2022-05-08 01:32:54,628 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:54,631 : INFO : concept 1: great price money quality buy excellent look nice worth pleased
+2022-05-08 01:32:54,631 : INFO : concept 2: buy great price item excellent look use nice easy money
+2022-05-08 01:32:58,903 : INFO : Train AUC: 0.9918
+2022-05-08 01:32:58,905 : INFO : Test AUC: 0.9907
+2022-05-08 01:32:58,906 : INFO : epoch 28/30:
+2022-05-08 01:32:58,906 : INFO : Total loss: -10346.4468
+2022-05-08 01:32:58,906 : INFO : SGNS loss: 14.9029
+2022-05-08 01:32:58,906 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:32:58,906 : INFO : Prediction loss: 0.2832
+2022-05-08 01:32:58,906 : INFO : Diversity loss: 0.0000
+2022-05-08 01:32:58,909 : INFO : concept 1: price great quality money excellent look buy item purchase happy
+2022-05-08 01:32:58,909 : INFO : concept 2: great easy buy use look space nice recommend excellent price
+2022-05-08 01:33:03,190 : INFO : Train AUC: 0.9923
+2022-05-08 01:33:03,193 : INFO : Test AUC: 0.9912
+2022-05-08 01:33:03,193 : INFO : epoch 29/30:
+2022-05-08 01:33:03,193 : INFO : Total loss: -10346.4583
+2022-05-08 01:33:03,193 : INFO : SGNS loss: 14.9023
+2022-05-08 01:33:03,193 : INFO : Dirichlet loss: -10361.6328
+2022-05-08 01:33:03,194 : INFO : Prediction loss: 0.2722
+2022-05-08 01:33:03,194 : INFO : Diversity loss: 0.0000
+2022-05-08 01:33:03,197 : INFO : concept 1: great price quality money buy excellent look lovely purchase pleased
+2022-05-08 01:33:03,197 : INFO : concept 2: great use easy buy quality price excellent day look money

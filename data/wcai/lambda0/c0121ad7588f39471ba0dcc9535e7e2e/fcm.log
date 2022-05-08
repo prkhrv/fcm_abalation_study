@@ -1,0 +1,300 @@
+2022-05-08 02:26:53,347 : INFO : Train AUC: 0.5030
+2022-05-08 02:26:53,350 : INFO : Test AUC: 0.5023
+2022-05-08 02:26:53,350 : INFO : epoch 0/30:
+2022-05-08 02:26:53,350 : INFO : Total loss: 71954.0454
+2022-05-08 02:26:53,350 : INFO : SGNS loss: 46.1338
+2022-05-08 02:26:53,350 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:26:53,351 : INFO : Prediction loss: 71576.3328
+2022-05-08 02:26:53,351 : INFO : Diversity loss: 331.5787
+2022-05-08 02:26:53,356 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:26:53,356 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:26:57,511 : INFO : Train AUC: 0.5088
+2022-05-08 02:26:57,513 : INFO : Test AUC: 0.5061
+2022-05-08 02:26:57,513 : INFO : epoch 1/30:
+2022-05-08 02:26:57,514 : INFO : Total loss: 48132.5325
+2022-05-08 02:26:57,514 : INFO : SGNS loss: 46.1364
+2022-05-08 02:26:57,514 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:26:57,514 : INFO : Prediction loss: 47754.8173
+2022-05-08 02:26:57,514 : INFO : Diversity loss: 331.5787
+2022-05-08 02:26:57,517 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:26:57,517 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:01,580 : INFO : Train AUC: 0.5366
+2022-05-08 02:27:01,582 : INFO : Test AUC: 0.5341
+2022-05-08 02:27:01,583 : INFO : epoch 2/30:
+2022-05-08 02:27:01,583 : INFO : Total loss: 24322.3111
+2022-05-08 02:27:01,583 : INFO : SGNS loss: 46.1328
+2022-05-08 02:27:01,583 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:01,583 : INFO : Prediction loss: 23944.5996
+2022-05-08 02:27:01,583 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:01,599 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:01,599 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:05,663 : INFO : Train AUC: 0.8545
+2022-05-08 02:27:05,666 : INFO : Test AUC: 0.8472
+2022-05-08 02:27:05,666 : INFO : epoch 3/30:
+2022-05-08 02:27:05,666 : INFO : Total loss: 3824.9048
+2022-05-08 02:27:05,666 : INFO : SGNS loss: 46.1492
+2022-05-08 02:27:05,666 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:05,667 : INFO : Prediction loss: 3447.1769
+2022-05-08 02:27:05,667 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:05,670 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:05,670 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:09,716 : INFO : Train AUC: 0.8874
+2022-05-08 02:27:09,718 : INFO : Test AUC: 0.8810
+2022-05-08 02:27:09,719 : INFO : epoch 4/30:
+2022-05-08 02:27:09,719 : INFO : Total loss: 591.9772
+2022-05-08 02:27:09,719 : INFO : SGNS loss: 46.1585
+2022-05-08 02:27:09,719 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:09,719 : INFO : Prediction loss: 214.2399
+2022-05-08 02:27:09,719 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:09,723 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:09,723 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:13,788 : INFO : Train AUC: 0.9153
+2022-05-08 02:27:13,791 : INFO : Test AUC: 0.9125
+2022-05-08 02:27:13,791 : INFO : epoch 5/30:
+2022-05-08 02:27:13,791 : INFO : Total loss: 515.9376
+2022-05-08 02:27:13,792 : INFO : SGNS loss: 46.1395
+2022-05-08 02:27:13,792 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:13,792 : INFO : Prediction loss: 138.2194
+2022-05-08 02:27:13,792 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:13,795 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:13,795 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:17,899 : INFO : Train AUC: 0.9505
+2022-05-08 02:27:17,902 : INFO : Test AUC: 0.9478
+2022-05-08 02:27:17,902 : INFO : epoch 6/30:
+2022-05-08 02:27:17,902 : INFO : Total loss: 453.0371
+2022-05-08 02:27:17,902 : INFO : SGNS loss: 46.1383
+2022-05-08 02:27:17,903 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:17,903 : INFO : Prediction loss: 75.3201
+2022-05-08 02:27:17,903 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:17,906 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:17,906 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:21,969 : INFO : Train AUC: 0.9670
+2022-05-08 02:27:21,972 : INFO : Test AUC: 0.9644
+2022-05-08 02:27:21,972 : INFO : epoch 7/30:
+2022-05-08 02:27:21,972 : INFO : Total loss: 412.0839
+2022-05-08 02:27:21,972 : INFO : SGNS loss: 46.1358
+2022-05-08 02:27:21,972 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:21,973 : INFO : Prediction loss: 34.3693
+2022-05-08 02:27:21,973 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:21,976 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:21,976 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:26,047 : INFO : Train AUC: 0.9674
+2022-05-08 02:27:26,050 : INFO : Test AUC: 0.9640
+2022-05-08 02:27:26,050 : INFO : epoch 8/30:
+2022-05-08 02:27:26,050 : INFO : Total loss: 394.7315
+2022-05-08 02:27:26,050 : INFO : SGNS loss: 46.1377
+2022-05-08 02:27:26,050 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:26,050 : INFO : Prediction loss: 17.0151
+2022-05-08 02:27:26,050 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:26,054 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:26,054 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:30,201 : INFO : Train AUC: 0.9910
+2022-05-08 02:27:30,204 : INFO : Test AUC: 0.9893
+2022-05-08 02:27:30,204 : INFO : epoch 9/30:
+2022-05-08 02:27:30,204 : INFO : Total loss: 389.4957
+2022-05-08 02:27:30,204 : INFO : SGNS loss: 46.1408
+2022-05-08 02:27:30,204 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:30,205 : INFO : Prediction loss: 11.7761
+2022-05-08 02:27:30,205 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:30,208 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:30,208 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:34,311 : INFO : Train AUC: 0.9934
+2022-05-08 02:27:34,314 : INFO : Test AUC: 0.9913
+2022-05-08 02:27:34,314 : INFO : epoch 10/30:
+2022-05-08 02:27:34,315 : INFO : Total loss: 386.9417
+2022-05-08 02:27:34,315 : INFO : SGNS loss: 46.1334
+2022-05-08 02:27:34,315 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:34,315 : INFO : Prediction loss: 9.2296
+2022-05-08 02:27:34,315 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:34,318 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:34,318 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:38,405 : INFO : Train AUC: 0.9814
+2022-05-08 02:27:38,408 : INFO : Test AUC: 0.9766
+2022-05-08 02:27:38,408 : INFO : epoch 11/30:
+2022-05-08 02:27:38,409 : INFO : Total loss: 386.0183
+2022-05-08 02:27:38,409 : INFO : SGNS loss: 46.1320
+2022-05-08 02:27:38,409 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:38,409 : INFO : Prediction loss: 8.3075
+2022-05-08 02:27:38,409 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:38,413 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:38,413 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:42,493 : INFO : Train AUC: 0.9944
+2022-05-08 02:27:42,496 : INFO : Test AUC: 0.9926
+2022-05-08 02:27:42,496 : INFO : epoch 12/30:
+2022-05-08 02:27:42,496 : INFO : Total loss: 385.5711
+2022-05-08 02:27:42,496 : INFO : SGNS loss: 46.1380
+2022-05-08 02:27:42,497 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:42,497 : INFO : Prediction loss: 7.8544
+2022-05-08 02:27:42,497 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:42,500 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:42,501 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:46,594 : INFO : Train AUC: 0.9945
+2022-05-08 02:27:46,597 : INFO : Test AUC: 0.9926
+2022-05-08 02:27:46,597 : INFO : epoch 13/30:
+2022-05-08 02:27:46,597 : INFO : Total loss: 385.1908
+2022-05-08 02:27:46,598 : INFO : SGNS loss: 46.1312
+2022-05-08 02:27:46,598 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:46,598 : INFO : Prediction loss: 7.4808
+2022-05-08 02:27:46,598 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:46,601 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:46,602 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:50,677 : INFO : Train AUC: 0.9839
+2022-05-08 02:27:50,680 : INFO : Test AUC: 0.9788
+2022-05-08 02:27:50,680 : INFO : epoch 14/30:
+2022-05-08 02:27:50,681 : INFO : Total loss: 384.8674
+2022-05-08 02:27:50,681 : INFO : SGNS loss: 46.1336
+2022-05-08 02:27:50,681 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:50,681 : INFO : Prediction loss: 7.1550
+2022-05-08 02:27:50,681 : INFO : Diversity loss: 331.5787
+2022-05-08 02:27:50,685 : INFO : concept 1: plastic comfy corner real mind white robust decent equipment rest
+2022-05-08 02:27:50,685 : INFO : concept 2: wrong printer difference note separate frame television summer live twice
+2022-05-08 02:27:55,079 : INFO : Train AUC: 0.9936
+2022-05-08 02:27:55,082 : INFO : Test AUC: 0.9919
+2022-05-08 02:27:55,082 : INFO : epoch 15/30:
+2022-05-08 02:27:55,082 : INFO : Total loss: 209.5580
+2022-05-08 02:27:55,082 : INFO : SGNS loss: 22.9981
+2022-05-08 02:27:55,083 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:55,083 : INFO : Prediction loss: 8.1484
+2022-05-08 02:27:55,083 : INFO : Diversity loss: 178.4116
+2022-05-08 02:27:55,086 : INFO : concept 1: great easy buy use look excellent quality money little nice
+2022-05-08 02:27:55,086 : INFO : concept 2: hole rubbish tool cook sure alarm try stylish smart cooker
+2022-05-08 02:27:59,499 : INFO : Train AUC: 0.9938
+2022-05-08 02:27:59,502 : INFO : Test AUC: 0.9921
+2022-05-08 02:27:59,503 : INFO : epoch 16/30:
+2022-05-08 02:27:59,503 : INFO : Total loss: -35.2183
+2022-05-08 02:27:59,503 : INFO : SGNS loss: 14.9400
+2022-05-08 02:27:59,503 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:27:59,503 : INFO : Prediction loss: 7.7252
+2022-05-08 02:27:59,503 : INFO : Diversity loss: -57.8834
+2022-05-08 02:27:59,506 : INFO : concept 1: easy great use money price like buy look excellent quality
+2022-05-08 02:27:59,507 : INFO : concept 2: guest bath drop pile television digital prove daily paint cool
+2022-05-08 02:28:03,892 : INFO : Train AUC: 0.9781
+2022-05-08 02:28:03,895 : INFO : Test AUC: 0.9756
+2022-05-08 02:28:03,895 : INFO : epoch 17/30:
+2022-05-08 02:28:03,895 : INFO : Total loss: -120.5363
+2022-05-08 02:28:03,895 : INFO : SGNS loss: 14.9022
+2022-05-08 02:28:03,895 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:03,896 : INFO : Prediction loss: 7.4178
+2022-05-08 02:28:03,896 : INFO : Diversity loss: -142.8563
+2022-05-08 02:28:03,899 : INFO : concept 1: great use quality look easy son buy item recommend pleased
+2022-05-08 02:28:03,899 : INFO : concept 2: helpful detail hassle effort crack cleaning stainless pleasantly rug upright
+2022-05-08 02:28:08,267 : INFO : Train AUC: 0.9946
+2022-05-08 02:28:08,270 : INFO : Test AUC: 0.9928
+2022-05-08 02:28:08,270 : INFO : epoch 18/30:
+2022-05-08 02:28:08,270 : INFO : Total loss: -156.8149
+2022-05-08 02:28:08,270 : INFO : SGNS loss: 14.9254
+2022-05-08 02:28:08,271 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:08,271 : INFO : Prediction loss: 7.1745
+2022-05-08 02:28:08,271 : INFO : Diversity loss: -178.9147
+2022-05-08 02:28:08,274 : INFO : concept 1: use great buy easy price iron pleased quality look simple
+2022-05-08 02:28:08,274 : INFO : concept 2: term standard portable content wear treat bill telephone brighten everyday
+2022-05-08 02:28:12,613 : INFO : Train AUC: 0.9945
+2022-05-08 02:28:12,616 : INFO : Test AUC: 0.9927
+2022-05-08 02:28:12,616 : INFO : epoch 19/30:
+2022-05-08 02:28:12,616 : INFO : Total loss: -170.2027
+2022-05-08 02:28:12,616 : INFO : SGNS loss: 14.9430
+2022-05-08 02:28:12,616 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:12,616 : INFO : Prediction loss: 6.9828
+2022-05-08 02:28:12,616 : INFO : Diversity loss: -192.1286
+2022-05-08 02:28:12,620 : INFO : concept 1: great cream buy purchase look easy price use recommend need
+2022-05-08 02:28:12,620 : INFO : concept 2: program alternative awesome television toy cordless detail reliable measure hopefully
+2022-05-08 02:28:16,993 : INFO : Train AUC: 0.9801
+2022-05-08 02:28:16,996 : INFO : Test AUC: 0.9764
+2022-05-08 02:28:16,996 : INFO : epoch 20/30:
+2022-05-08 02:28:16,996 : INFO : Total loss: -176.1160
+2022-05-08 02:28:16,996 : INFO : SGNS loss: 14.9458
+2022-05-08 02:28:16,996 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:16,996 : INFO : Prediction loss: 6.7957
+2022-05-08 02:28:16,996 : INFO : Diversity loss: -197.8574
+2022-05-08 02:28:17,000 : INFO : concept 1: price great buy time excellent look recommend use easy fit
+2022-05-08 02:28:17,000 : INFO : concept 2: friendly understand dirt avoid obviously lay complete rating pain outside
+2022-05-08 02:28:21,339 : INFO : Train AUC: 0.9950
+2022-05-08 02:28:21,341 : INFO : Test AUC: 0.9932
+2022-05-08 02:28:21,342 : INFO : epoch 21/30:
+2022-05-08 02:28:21,342 : INFO : Total loss: -179.1160
+2022-05-08 02:28:21,342 : INFO : SGNS loss: 14.9363
+2022-05-08 02:28:21,342 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:21,342 : INFO : Prediction loss: 6.7496
+2022-05-08 02:28:21,342 : INFO : Diversity loss: -200.8019
+2022-05-08 02:28:21,346 : INFO : concept 1: buy great quality use know look easy little price fast
+2022-05-08 02:28:21,346 : INFO : concept 2: setup container portable underneath crack bath awesome access website short
+2022-05-08 02:28:25,694 : INFO : Train AUC: 0.9950
+2022-05-08 02:28:25,697 : INFO : Test AUC: 0.9932
+2022-05-08 02:28:25,697 : INFO : epoch 22/30:
+2022-05-08 02:28:25,698 : INFO : Total loss: -180.9698
+2022-05-08 02:28:25,698 : INFO : SGNS loss: 14.9437
+2022-05-08 02:28:25,698 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:25,698 : INFO : Prediction loss: 6.5971
+2022-05-08 02:28:25,698 : INFO : Diversity loss: -202.5105
+2022-05-08 02:28:25,702 : INFO : concept 1: great easy price recommend nice money look use excellent quality
+2022-05-08 02:28:25,702 : INFO : concept 2: tea stock chrome upright weather hinge effort fabulous secure program
+2022-05-08 02:28:30,072 : INFO : Train AUC: 0.9812
+2022-05-08 02:28:30,075 : INFO : Test AUC: 0.9771
+2022-05-08 02:28:30,075 : INFO : epoch 23/30:
+2022-05-08 02:28:30,075 : INFO : Total loss: -182.1798
+2022-05-08 02:28:30,075 : INFO : SGNS loss: 14.9464
+2022-05-08 02:28:30,075 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:30,076 : INFO : Prediction loss: 6.4644
+2022-05-08 02:28:30,076 : INFO : Diversity loss: -203.5905
+2022-05-08 02:28:30,079 : INFO : concept 1: buy find money great small need love use price nice
+2022-05-08 02:28:30,079 : INFO : concept 2: wipe film guide self crease pop appliance hopefully pattern hassle
+2022-05-08 02:28:34,398 : INFO : Train AUC: 0.9953
+2022-05-08 02:28:34,400 : INFO : Test AUC: 0.9941
+2022-05-08 02:28:34,401 : INFO : epoch 24/30:
+2022-05-08 02:28:34,401 : INFO : Total loss: -182.9973
+2022-05-08 02:28:34,401 : INFO : SGNS loss: 14.9482
+2022-05-08 02:28:34,401 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:34,401 : INFO : Prediction loss: 6.3718
+2022-05-08 02:28:34,402 : INFO : Diversity loss: -204.3173
+2022-05-08 02:28:34,405 : INFO : concept 1: look buy great price thank easy excellent use think leg
+2022-05-08 02:28:34,405 : INFO : concept 2: despite perform clip cool blow unlike beautifully wooden shed disappointing
+2022-05-08 02:28:38,718 : INFO : Train AUC: 0.9952
+2022-05-08 02:28:38,721 : INFO : Test AUC: 0.9940
+2022-05-08 02:28:38,722 : INFO : epoch 25/30:
+2022-05-08 02:28:38,722 : INFO : Total loss: -183.6163
+2022-05-08 02:28:38,723 : INFO : SGNS loss: 14.9440
+2022-05-08 02:28:38,723 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:38,723 : INFO : Prediction loss: 6.2699
+2022-05-08 02:28:38,723 : INFO : Diversity loss: -204.8302
+2022-05-08 02:28:38,729 : INFO : concept 1: easy great price quality use recommend present happy look nice
+2022-05-08 02:28:38,729 : INFO : concept 2: best faulty annoying class hinge eventually produce sleek beautifully person
+2022-05-08 02:28:43,040 : INFO : Train AUC: 0.9818
+2022-05-08 02:28:43,043 : INFO : Test AUC: 0.9781
+2022-05-08 02:28:43,043 : INFO : epoch 26/30:
+2022-05-08 02:28:43,043 : INFO : Total loss: -184.0996
+2022-05-08 02:28:43,043 : INFO : SGNS loss: 14.9405
+2022-05-08 02:28:43,043 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:43,043 : INFO : Prediction loss: 6.1656
+2022-05-08 02:28:43,044 : INFO : Diversity loss: -205.2058
+2022-05-08 02:28:43,047 : INFO : concept 1: easy use recommend great buy dinner time excellent quality feature
+2022-05-08 02:28:43,047 : INFO : concept 2: twice criticism minor summer underneath answer affordable effort pile grandson
+2022-05-08 02:28:47,407 : INFO : Train AUC: 0.9955
+2022-05-08 02:28:47,410 : INFO : Test AUC: 0.9944
+2022-05-08 02:28:47,411 : INFO : epoch 27/30:
+2022-05-08 02:28:47,411 : INFO : Total loss: -184.4169
+2022-05-08 02:28:47,412 : INFO : SGNS loss: 14.9426
+2022-05-08 02:28:47,412 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:47,412 : INFO : Prediction loss: 6.1300
+2022-05-08 02:28:47,412 : INFO : Diversity loss: -205.4894
+2022-05-08 02:28:47,415 : INFO : concept 1: use easy buy great price curtain excellent room look mirror
+2022-05-08 02:28:47,415 : INFO : concept 2: complicated tricky worry angle slight underneath worktop gorgeous annoying unable
+2022-05-08 02:28:51,763 : INFO : Train AUC: 0.9954
+2022-05-08 02:28:51,766 : INFO : Test AUC: 0.9943
+2022-05-08 02:28:51,766 : INFO : epoch 28/30:
+2022-05-08 02:28:51,766 : INFO : Total loss: -184.7068
+2022-05-08 02:28:51,766 : INFO : SGNS loss: 14.9426
+2022-05-08 02:28:51,766 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:51,766 : INFO : Prediction loss: 6.0592
+2022-05-08 02:28:51,767 : INFO : Diversity loss: -205.7086
+2022-05-08 02:28:51,770 : INFO : concept 1: great buy easy money price look use quality work excellent
+2022-05-08 02:28:51,770 : INFO : concept 2: pain treat simply intend pet word holiday bottle baby plain
+2022-05-08 02:28:56,119 : INFO : Train AUC: 0.9824
+2022-05-08 02:28:56,121 : INFO : Test AUC: 0.9786
+2022-05-08 02:28:56,122 : INFO : epoch 29/30:
+2022-05-08 02:28:56,122 : INFO : Total loss: -184.9979
+2022-05-08 02:28:56,122 : INFO : SGNS loss: 14.9411
+2022-05-08 02:28:56,122 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:28:56,122 : INFO : Prediction loss: 5.9424
+2022-05-08 02:28:56,122 : INFO : Diversity loss: -205.8814
+2022-05-08 02:28:56,126 : INFO : concept 1: great recommend easy phone buy perfect look quality price use
+2022-05-08 02:28:56,126 : INFO : concept 2: bulky versatile later forget effort immediately gorgeous opinion wipe construction

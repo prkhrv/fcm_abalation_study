@@ -1,0 +1,300 @@
+2022-05-08 02:41:41,575 : INFO : Train AUC: 0.4764
+2022-05-08 02:41:41,579 : INFO : Test AUC: 0.4761
+2022-05-08 02:41:41,579 : INFO : epoch 0/30:
+2022-05-08 02:41:41,580 : INFO : Total loss: 116335.1595
+2022-05-08 02:41:41,580 : INFO : SGNS loss: 46.5274
+2022-05-08 02:41:41,580 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:41:41,580 : INFO : Prediction loss: 83129.1961
+2022-05-08 02:41:41,580 : INFO : Diversity loss: 33159.4360
+2022-05-08 02:41:41,583 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:41:41,584 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:41:45,644 : INFO : Train AUC: 0.4999
+2022-05-08 02:41:45,647 : INFO : Test AUC: 0.4996
+2022-05-08 02:41:45,647 : INFO : epoch 1/30:
+2022-05-08 02:41:45,647 : INFO : Total loss: 56065.9394
+2022-05-08 02:41:45,647 : INFO : SGNS loss: 46.4950
+2022-05-08 02:41:45,647 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:41:45,647 : INFO : Prediction loss: 22860.0085
+2022-05-08 02:41:45,648 : INFO : Diversity loss: 33159.4359
+2022-05-08 02:41:45,651 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:41:45,651 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:41:49,720 : INFO : Train AUC: 0.2639
+2022-05-08 02:41:49,723 : INFO : Test AUC: 0.2778
+2022-05-08 02:41:49,723 : INFO : epoch 2/30:
+2022-05-08 02:41:49,723 : INFO : Total loss: 34846.6708
+2022-05-08 02:41:49,723 : INFO : SGNS loss: 46.1198
+2022-05-08 02:41:49,724 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:41:49,724 : INFO : Prediction loss: 1641.1149
+2022-05-08 02:41:49,724 : INFO : Diversity loss: 33159.4361
+2022-05-08 02:41:49,727 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:41:49,727 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:41:53,730 : INFO : Train AUC: 0.1766
+2022-05-08 02:41:53,732 : INFO : Test AUC: 0.1858
+2022-05-08 02:41:53,733 : INFO : epoch 3/30:
+2022-05-08 02:41:53,733 : INFO : Total loss: 34382.0683
+2022-05-08 02:41:53,733 : INFO : SGNS loss: 46.1244
+2022-05-08 02:41:53,733 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:41:53,733 : INFO : Prediction loss: 1176.5081
+2022-05-08 02:41:53,733 : INFO : Diversity loss: 33159.4357
+2022-05-08 02:41:53,736 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:41:53,737 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:41:57,736 : INFO : Train AUC: 0.2016
+2022-05-08 02:41:57,739 : INFO : Test AUC: 0.2099
+2022-05-08 02:41:57,739 : INFO : epoch 4/30:
+2022-05-08 02:41:57,740 : INFO : Total loss: 33956.6163
+2022-05-08 02:41:57,740 : INFO : SGNS loss: 46.1260
+2022-05-08 02:41:57,740 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:41:57,740 : INFO : Prediction loss: 751.0542
+2022-05-08 02:41:57,740 : INFO : Diversity loss: 33159.4361
+2022-05-08 02:41:57,744 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:41:57,744 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:01,760 : INFO : Train AUC: 0.2402
+2022-05-08 02:42:01,763 : INFO : Test AUC: 0.2427
+2022-05-08 02:42:01,763 : INFO : epoch 5/30:
+2022-05-08 02:42:01,764 : INFO : Total loss: 33624.1681
+2022-05-08 02:42:01,764 : INFO : SGNS loss: 46.2381
+2022-05-08 02:42:01,764 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:01,764 : INFO : Prediction loss: 418.4940
+2022-05-08 02:42:01,764 : INFO : Diversity loss: 33159.4359
+2022-05-08 02:42:01,767 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:42:01,767 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:05,746 : INFO : Train AUC: 0.5867
+2022-05-08 02:42:05,749 : INFO : Test AUC: 0.5748
+2022-05-08 02:42:05,749 : INFO : epoch 6/30:
+2022-05-08 02:42:05,749 : INFO : Total loss: 33390.9081
+2022-05-08 02:42:05,749 : INFO : SGNS loss: 46.1724
+2022-05-08 02:42:05,750 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:05,750 : INFO : Prediction loss: 185.2997
+2022-05-08 02:42:05,750 : INFO : Diversity loss: 33159.4360
+2022-05-08 02:42:05,753 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:42:05,753 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:09,748 : INFO : Train AUC: 0.6277
+2022-05-08 02:42:09,751 : INFO : Test AUC: 0.6117
+2022-05-08 02:42:09,752 : INFO : epoch 7/30:
+2022-05-08 02:42:09,752 : INFO : Total loss: 33300.4172
+2022-05-08 02:42:09,752 : INFO : SGNS loss: 46.2022
+2022-05-08 02:42:09,752 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:09,752 : INFO : Prediction loss: 94.7787
+2022-05-08 02:42:09,752 : INFO : Diversity loss: 33159.4363
+2022-05-08 02:42:09,756 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:42:09,756 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:13,751 : INFO : Train AUC: 0.1488
+2022-05-08 02:42:13,754 : INFO : Test AUC: 0.1514
+2022-05-08 02:42:13,754 : INFO : epoch 8/30:
+2022-05-08 02:42:13,755 : INFO : Total loss: 33291.4447
+2022-05-08 02:42:13,755 : INFO : SGNS loss: 46.2099
+2022-05-08 02:42:13,755 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:13,755 : INFO : Prediction loss: 85.7988
+2022-05-08 02:42:13,755 : INFO : Diversity loss: 33159.4360
+2022-05-08 02:42:13,758 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:42:13,759 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:17,787 : INFO : Train AUC: 0.7625
+2022-05-08 02:42:17,791 : INFO : Test AUC: 0.7492
+2022-05-08 02:42:17,791 : INFO : epoch 9/30:
+2022-05-08 02:42:17,791 : INFO : Total loss: 33290.2764
+2022-05-08 02:42:17,791 : INFO : SGNS loss: 46.2193
+2022-05-08 02:42:17,791 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:17,791 : INFO : Prediction loss: 84.6212
+2022-05-08 02:42:17,791 : INFO : Diversity loss: 33159.4359
+2022-05-08 02:42:17,795 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:42:17,795 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:21,830 : INFO : Train AUC: 0.6989
+2022-05-08 02:42:21,833 : INFO : Test AUC: 0.6709
+2022-05-08 02:42:21,833 : INFO : epoch 10/30:
+2022-05-08 02:42:21,833 : INFO : Total loss: 33285.4510
+2022-05-08 02:42:21,834 : INFO : SGNS loss: 46.2269
+2022-05-08 02:42:21,834 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:21,834 : INFO : Prediction loss: 79.7882
+2022-05-08 02:42:21,834 : INFO : Diversity loss: 33159.4360
+2022-05-08 02:42:21,837 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:42:21,837 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:25,839 : INFO : Train AUC: 0.1597
+2022-05-08 02:42:25,842 : INFO : Test AUC: 0.1595
+2022-05-08 02:42:25,842 : INFO : epoch 11/30:
+2022-05-08 02:42:25,842 : INFO : Total loss: 33282.5103
+2022-05-08 02:42:25,843 : INFO : SGNS loss: 46.2406
+2022-05-08 02:42:25,843 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:25,843 : INFO : Prediction loss: 76.8340
+2022-05-08 02:42:25,843 : INFO : Diversity loss: 33159.4357
+2022-05-08 02:42:25,848 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:42:25,848 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:29,866 : INFO : Train AUC: 0.8212
+2022-05-08 02:42:29,869 : INFO : Test AUC: 0.7961
+2022-05-08 02:42:29,870 : INFO : epoch 12/30:
+2022-05-08 02:42:29,870 : INFO : Total loss: 33285.7747
+2022-05-08 02:42:29,870 : INFO : SGNS loss: 46.2180
+2022-05-08 02:42:29,870 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:29,870 : INFO : Prediction loss: 80.1208
+2022-05-08 02:42:29,870 : INFO : Diversity loss: 33159.4359
+2022-05-08 02:42:29,874 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:42:29,874 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:33,970 : INFO : Train AUC: 0.7565
+2022-05-08 02:42:33,974 : INFO : Test AUC: 0.7114
+2022-05-08 02:42:33,974 : INFO : epoch 13/30:
+2022-05-08 02:42:33,974 : INFO : Total loss: 33278.0842
+2022-05-08 02:42:33,974 : INFO : SGNS loss: 46.2499
+2022-05-08 02:42:33,974 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:33,974 : INFO : Prediction loss: 72.3985
+2022-05-08 02:42:33,975 : INFO : Diversity loss: 33159.4358
+2022-05-08 02:42:33,978 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:42:33,978 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:37,978 : INFO : Train AUC: 0.1698
+2022-05-08 02:42:37,982 : INFO : Test AUC: 0.1579
+2022-05-08 02:42:37,982 : INFO : epoch 14/30:
+2022-05-08 02:42:37,982 : INFO : Total loss: 33275.4823
+2022-05-08 02:42:37,982 : INFO : SGNS loss: 46.2593
+2022-05-08 02:42:37,983 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:37,983 : INFO : Prediction loss: 69.7870
+2022-05-08 02:42:37,983 : INFO : Diversity loss: 33159.4359
+2022-05-08 02:42:37,986 : INFO : concept 1: model section middle blow christmas phone people new volume assembly
+2022-05-08 02:42:37,986 : INFO : concept 2: forward different style expect device decide idea charge later little
+2022-05-08 02:42:42,291 : INFO : Train AUC: 0.7997
+2022-05-08 02:42:42,294 : INFO : Test AUC: 0.8005
+2022-05-08 02:42:42,294 : INFO : epoch 15/30:
+2022-05-08 02:42:42,294 : INFO : Total loss: 18559.5619
+2022-05-08 02:42:42,294 : INFO : SGNS loss: 35.8130
+2022-05-08 02:42:42,294 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:42,295 : INFO : Prediction loss: 71.6511
+2022-05-08 02:42:42,295 : INFO : Diversity loss: 18452.0978
+2022-05-08 02:42:42,298 : INFO : concept 1: thank heater window carry turn dyson refund oven apart model
+2022-05-08 02:42:42,298 : INFO : concept 2: great look easy use buy price durable excellent equipment pattern
+2022-05-08 02:42:46,537 : INFO : Train AUC: 0.6556
+2022-05-08 02:42:46,539 : INFO : Test AUC: 0.6595
+2022-05-08 02:42:46,540 : INFO : epoch 16/30:
+2022-05-08 02:42:46,540 : INFO : Total loss: -5903.4233
+2022-05-08 02:42:46,540 : INFO : SGNS loss: 15.1627
+2022-05-08 02:42:46,540 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:46,540 : INFO : Prediction loss: 78.0968
+2022-05-08 02:42:46,540 : INFO : Diversity loss: -5996.6828
+2022-05-08 02:42:46,544 : INFO : concept 1: suggest patio happen washer pattern awesome fully tidy mainly reach
+2022-05-08 02:42:46,544 : INFO : concept 2: use great easy buy look price excellent quality old recommend
+2022-05-08 02:42:50,873 : INFO : Train AUC: 0.1446
+2022-05-08 02:42:50,876 : INFO : Test AUC: 0.1466
+2022-05-08 02:42:50,876 : INFO : epoch 17/30:
+2022-05-08 02:42:50,876 : INFO : Total loss: -14582.2093
+2022-05-08 02:42:50,876 : INFO : SGNS loss: 14.8786
+2022-05-08 02:42:50,876 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:50,877 : INFO : Prediction loss: 77.6970
+2022-05-08 02:42:50,877 : INFO : Diversity loss: -14674.7849
+2022-05-08 02:42:50,880 : INFO : concept 1: write answer sorry later manual foot mess chrome tank patio
+2022-05-08 02:42:50,880 : INFO : concept 2: easy great use buy quality money price look excellent nice
+2022-05-08 02:42:55,160 : INFO : Train AUC: 0.8343
+2022-05-08 02:42:55,168 : INFO : Test AUC: 0.8350
+2022-05-08 02:42:55,168 : INFO : epoch 18/30:
+2022-05-08 02:42:55,168 : INFO : Total loss: -18011.4121
+2022-05-08 02:42:55,168 : INFO : SGNS loss: 14.8801
+2022-05-08 02:42:55,169 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:55,169 : INFO : Prediction loss: 78.9415
+2022-05-08 02:42:55,170 : INFO : Diversity loss: -18105.2337
+2022-05-08 02:42:55,176 : INFO : concept 1: minor film complete tip grandson iphone class heating pet video
+2022-05-08 02:42:55,176 : INFO : concept 2: great easy buy look use price work cheap love standard
+2022-05-08 02:42:59,478 : INFO : Train AUC: 0.6813
+2022-05-08 02:42:59,481 : INFO : Test AUC: 0.6882
+2022-05-08 02:42:59,481 : INFO : epoch 19/30:
+2022-05-08 02:42:59,481 : INFO : Total loss: -19243.5025
+2022-05-08 02:42:59,482 : INFO : SGNS loss: 14.8891
+2022-05-08 02:42:59,482 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:42:59,482 : INFO : Prediction loss: 76.1697
+2022-05-08 02:42:59,482 : INFO : Diversity loss: -19334.5613
+2022-05-08 02:42:59,485 : INFO : concept 1: brilliantly guess glue sorry slight body advise requirement terrible early
+2022-05-08 02:42:59,485 : INFO : concept 2: look easy money great buy quality use happy excellent price
+2022-05-08 02:43:03,829 : INFO : Train AUC: 0.1459
+2022-05-08 02:43:03,831 : INFO : Test AUC: 0.1454
+2022-05-08 02:43:03,831 : INFO : epoch 20/30:
+2022-05-08 02:43:03,832 : INFO : Total loss: -19776.8755
+2022-05-08 02:43:03,832 : INFO : SGNS loss: 14.8986
+2022-05-08 02:43:03,832 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:43:03,832 : INFO : Prediction loss: 76.1118
+2022-05-08 02:43:03,832 : INFO : Diversity loss: -19867.8858
+2022-05-08 02:43:03,835 : INFO : concept 1: relatively versatile measure cosy angle badly access electric finally effort
+2022-05-08 02:43:03,835 : INFO : concept 2: easy great excellent use quality price look surprise love recommend
+2022-05-08 02:43:08,142 : INFO : Train AUC: 0.8604
+2022-05-08 02:43:08,145 : INFO : Test AUC: 0.8618
+2022-05-08 02:43:08,145 : INFO : epoch 21/30:
+2022-05-08 02:43:08,145 : INFO : Total loss: -20049.8509
+2022-05-08 02:43:08,145 : INFO : SGNS loss: 14.9023
+2022-05-08 02:43:08,145 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:43:08,145 : INFO : Prediction loss: 78.1687
+2022-05-08 02:43:08,145 : INFO : Diversity loss: -20142.9219
+2022-05-08 02:43:08,160 : INFO : concept 1: film note lay constantly reduce sorry apple young rating brilliantly
+2022-05-08 02:43:08,161 : INFO : concept 2: great easy use price small look buy excellent quality addition
+2022-05-08 02:43:12,469 : INFO : Train AUC: 0.7004
+2022-05-08 02:43:12,471 : INFO : Test AUC: 0.7090
+2022-05-08 02:43:12,472 : INFO : epoch 22/30:
+2022-05-08 02:43:12,472 : INFO : Total loss: -20212.5612
+2022-05-08 02:43:12,472 : INFO : SGNS loss: 14.9076
+2022-05-08 02:43:12,472 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:43:12,472 : INFO : Prediction loss: 75.5505
+2022-05-08 02:43:12,473 : INFO : Diversity loss: -20303.0193
+2022-05-08 02:43:12,476 : INFO : concept 1: taste produce initially guide avoid pad stable penny date opinion
+2022-05-08 02:43:12,476 : INFO : concept 2: buy great easy look price purchase excellent use loose money
+2022-05-08 02:43:16,802 : INFO : Train AUC: 0.1484
+2022-05-08 02:43:16,805 : INFO : Test AUC: 0.1467
+2022-05-08 02:43:16,806 : INFO : epoch 23/30:
+2022-05-08 02:43:16,806 : INFO : Total loss: -20313.8099
+2022-05-08 02:43:16,806 : INFO : SGNS loss: 14.9116
+2022-05-08 02:43:16,806 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:43:16,806 : INFO : Prediction loss: 75.7940
+2022-05-08 02:43:16,806 : INFO : Diversity loss: -20404.5155
+2022-05-08 02:43:16,810 : INFO : concept 1: affordable manufacturer accessory worry alot badly plain stable connection website
+2022-05-08 02:43:16,810 : INFO : concept 2: easy money great use disappointed worried quality price cheap adequate
+2022-05-08 02:43:21,108 : INFO : Train AUC: 0.8656
+2022-05-08 02:43:21,111 : INFO : Test AUC: 0.8688
+2022-05-08 02:43:21,111 : INFO : epoch 24/30:
+2022-05-08 02:43:21,112 : INFO : Total loss: -20380.3779
+2022-05-08 02:43:21,112 : INFO : SGNS loss: 14.9115
+2022-05-08 02:43:21,112 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:43:21,112 : INFO : Prediction loss: 77.7250
+2022-05-08 02:43:21,112 : INFO : Diversity loss: -20473.0143
+2022-05-08 02:43:21,115 : INFO : concept 1: brilliantly treat dirt cord mainly fully mother crease snap temperature
+2022-05-08 02:43:21,116 : INFO : concept 2: easy work great buy use fixing excellent quality price look
+2022-05-08 02:43:25,433 : INFO : Train AUC: 0.7056
+2022-05-08 02:43:25,436 : INFO : Test AUC: 0.7156
+2022-05-08 02:43:25,436 : INFO : epoch 25/30:
+2022-05-08 02:43:25,436 : INFO : Total loss: -20431.2143
+2022-05-08 02:43:25,437 : INFO : SGNS loss: 14.9116
+2022-05-08 02:43:25,437 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:43:25,437 : INFO : Prediction loss: 75.3699
+2022-05-08 02:43:25,437 : INFO : Diversity loss: -20521.4958
+2022-05-08 02:43:25,440 : INFO : concept 1: content mode trouble fixing meet notice rating manage near beautifully
+2022-05-08 02:43:25,440 : INFO : concept 2: great body easy lead need money problem price buy absolutely
+2022-05-08 02:43:29,720 : INFO : Train AUC: 0.1505
+2022-05-08 02:43:29,722 : INFO : Test AUC: 0.1491
+2022-05-08 02:43:29,722 : INFO : epoch 26/30:
+2022-05-08 02:43:29,723 : INFO : Total loss: -20466.6584
+2022-05-08 02:43:29,723 : INFO : SGNS loss: 14.9150
+2022-05-08 02:43:29,723 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:43:29,723 : INFO : Prediction loss: 75.5403
+2022-05-08 02:43:29,723 : INFO : Diversity loss: -20557.1136
+2022-05-08 02:43:29,726 : INFO : concept 1: pop yes granddaughter straightforward mode programme suggest special rubber law
+2022-05-08 02:43:29,727 : INFO : concept 2: great excellent easy money simple buy room look job definitely
+2022-05-08 02:43:34,061 : INFO : Train AUC: 0.8693
+2022-05-08 02:43:34,064 : INFO : Test AUC: 0.8725
+2022-05-08 02:43:34,064 : INFO : epoch 27/30:
+2022-05-08 02:43:34,064 : INFO : Total loss: -20491.5155
+2022-05-08 02:43:34,064 : INFO : SGNS loss: 14.9170
+2022-05-08 02:43:34,064 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:43:34,065 : INFO : Prediction loss: 77.6448
+2022-05-08 02:43:34,065 : INFO : Diversity loss: -20584.0773
+2022-05-08 02:43:34,068 : INFO : concept 1: despite measure constantly careful facility young convenient hobbs completely tray
+2022-05-08 02:43:34,068 : INFO : concept 2: rubbish look use price buy find great quality easy money
+2022-05-08 02:43:38,371 : INFO : Train AUC: 0.7069
+2022-05-08 02:43:38,374 : INFO : Test AUC: 0.7162
+2022-05-08 02:43:38,374 : INFO : epoch 28/30:
+2022-05-08 02:43:38,374 : INFO : Total loss: -20514.7965
+2022-05-08 02:43:38,374 : INFO : SGNS loss: 14.9172
+2022-05-08 02:43:38,375 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:43:38,375 : INFO : Prediction loss: 75.2854
+2022-05-08 02:43:38,375 : INFO : Diversity loss: -20604.9991
+2022-05-08 02:43:38,378 : INFO : concept 1: guess gap guide criticism push computer special bother music diy
+2022-05-08 02:43:38,378 : INFO : concept 2: use easy great price buy hdmi suction need fit look
+2022-05-08 02:43:42,672 : INFO : Train AUC: 0.1497
+2022-05-08 02:43:42,674 : INFO : Test AUC: 0.1487
+2022-05-08 02:43:42,674 : INFO : epoch 29/30:
+2022-05-08 02:43:42,675 : INFO : Total loss: -20531.1175
+2022-05-08 02:43:42,675 : INFO : SGNS loss: 14.9171
+2022-05-08 02:43:42,675 : INFO : Dirichlet loss: 0.0000
+2022-05-08 02:43:42,675 : INFO : Prediction loss: 75.5347
+2022-05-08 02:43:42,675 : INFO : Diversity loss: -20621.5693
+2022-05-08 02:43:42,678 : INFO : concept 1: poorly neatly best gorgeous mobile meet looking fair exist improve
+2022-05-08 02:43:42,678 : INFO : concept 2: great easy use buy nice price bit perfect find recommend

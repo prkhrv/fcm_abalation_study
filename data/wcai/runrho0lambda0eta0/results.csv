@@ -1,0 +1,2 @@
+id,run_time,total_loss,sgns_loss,dirichlet_loss,pred_loss,div_loss,train_auc,test_auc,dataset.window_size,dataset.min_df,dataset.max_df,fcm.inductive,fcm.inductive_dropout,fcm.embed_dim,fcm.hidden_size,fcm.num_layers,fcm.nnegs,fcm.nconcepts,fcm.lam,fcm.rho,fcm.eta,fit.lr,fit.nepochs,fit.pred_only_epochs,fit.batch_size,fit.grad_clip
+85918621f8707d9e0d99865f428d9ec8,144.82031104399994,14.909671102791702,14.909671102791702,0.0,0.0,0.0,0.9832888974832754,0.9827430642531069,4,0.01,0.8,True,0.01,50,100,1,15,2,0,0,0,0.01,30,15,16384,1024

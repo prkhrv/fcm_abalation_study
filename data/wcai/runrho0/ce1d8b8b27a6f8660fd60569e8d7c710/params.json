@@ -1,0 +1,1 @@
+{"dataset": {"max_df": 0.8, "min_df": 0.01, "window_size": 4}, "fcm": {"embed_dim": 50, "eta": 1000, "hidden_size": 100, "inductive": true, "inductive_dropout": 0.01, "lam": 1, "nconcepts": 2, "nnegs": 15, "num_layers": 1, "rho": 0}, "fit": {"batch_size": 16384, "grad_clip": 1024, "lr": 0.01, "nepochs": 30, "pred_only_epochs": 15}}
