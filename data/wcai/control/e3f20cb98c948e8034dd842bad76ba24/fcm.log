@@ -1,0 +1,300 @@
+2022-05-09 03:21:01,131 : INFO : Train AUC: 0.9111
+2022-05-09 03:21:01,135 : INFO : Test AUC: 0.9139
+2022-05-09 03:21:01,135 : INFO : epoch 0/30:
+2022-05-09 03:21:01,135 : INFO : Total loss: 209760.2826
+2022-05-09 03:21:01,135 : INFO : SGNS loss: 46.1835
+2022-05-09 03:21:01,135 : INFO : Dirichlet loss: -999.5792
+2022-05-09 03:21:01,136 : INFO : Prediction loss: 210680.5204
+2022-05-09 03:21:01,136 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:01,139 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:01,139 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:05,106 : INFO : Train AUC: 0.8104
+2022-05-09 03:21:05,109 : INFO : Test AUC: 0.8132
+2022-05-09 03:21:05,110 : INFO : epoch 1/30:
+2022-05-09 03:21:05,110 : INFO : Total loss: 6411.0597
+2022-05-09 03:21:05,110 : INFO : SGNS loss: 46.1923
+2022-05-09 03:21:05,110 : INFO : Dirichlet loss: -1031.0281
+2022-05-09 03:21:05,110 : INFO : Prediction loss: 7362.7377
+2022-05-09 03:21:05,111 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:05,117 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:05,117 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:09,182 : INFO : Train AUC: 0.9964
+2022-05-09 03:21:09,185 : INFO : Test AUC: 0.9952
+2022-05-09 03:21:09,185 : INFO : epoch 2/30:
+2022-05-09 03:21:09,185 : INFO : Total loss: 1097.3053
+2022-05-09 03:21:09,186 : INFO : SGNS loss: 46.1908
+2022-05-09 03:21:09,186 : INFO : Dirichlet loss: -1026.8313
+2022-05-09 03:21:09,186 : INFO : Prediction loss: 2044.7879
+2022-05-09 03:21:09,186 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:09,189 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:09,189 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:13,172 : INFO : Train AUC: 0.9945
+2022-05-09 03:21:13,175 : INFO : Test AUC: 0.9931
+2022-05-09 03:21:13,175 : INFO : epoch 3/30:
+2022-05-09 03:21:13,175 : INFO : Total loss: 475.5925
+2022-05-09 03:21:13,175 : INFO : SGNS loss: 46.1846
+2022-05-09 03:21:13,175 : INFO : Dirichlet loss: -987.7955
+2022-05-09 03:21:13,176 : INFO : Prediction loss: 1384.0454
+2022-05-09 03:21:13,176 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:13,179 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:13,179 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:17,158 : INFO : Train AUC: 0.9893
+2022-05-09 03:21:17,161 : INFO : Test AUC: 0.9866
+2022-05-09 03:21:17,161 : INFO : epoch 4/30:
+2022-05-09 03:21:17,161 : INFO : Total loss: 605.4394
+2022-05-09 03:21:17,161 : INFO : SGNS loss: 46.1697
+2022-05-09 03:21:17,162 : INFO : Dirichlet loss: -953.9878
+2022-05-09 03:21:17,162 : INFO : Prediction loss: 1480.0996
+2022-05-09 03:21:17,162 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:17,165 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:17,165 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:21,286 : INFO : Train AUC: 0.9980
+2022-05-09 03:21:21,289 : INFO : Test AUC: 0.9975
+2022-05-09 03:21:21,289 : INFO : epoch 5/30:
+2022-05-09 03:21:21,290 : INFO : Total loss: 1110.6488
+2022-05-09 03:21:21,290 : INFO : SGNS loss: 46.1700
+2022-05-09 03:21:21,290 : INFO : Dirichlet loss: -967.8972
+2022-05-09 03:21:21,290 : INFO : Prediction loss: 1999.2180
+2022-05-09 03:21:21,290 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:21,293 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:21,294 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:25,328 : INFO : Train AUC: 0.9242
+2022-05-09 03:21:25,330 : INFO : Test AUC: 0.9231
+2022-05-09 03:21:25,331 : INFO : epoch 6/30:
+2022-05-09 03:21:25,331 : INFO : Total loss: 2244.0807
+2022-05-09 03:21:25,331 : INFO : SGNS loss: 46.1787
+2022-05-09 03:21:25,331 : INFO : Dirichlet loss: -1007.3556
+2022-05-09 03:21:25,331 : INFO : Prediction loss: 3172.0998
+2022-05-09 03:21:25,331 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:25,335 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:25,335 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:29,307 : INFO : Train AUC: 0.9944
+2022-05-09 03:21:29,310 : INFO : Test AUC: 0.9932
+2022-05-09 03:21:29,310 : INFO : epoch 7/30:
+2022-05-09 03:21:29,310 : INFO : Total loss: -201.8205
+2022-05-09 03:21:29,311 : INFO : SGNS loss: 46.1733
+2022-05-09 03:21:29,311 : INFO : Dirichlet loss: -1007.0553
+2022-05-09 03:21:29,311 : INFO : Prediction loss: 725.9036
+2022-05-09 03:21:29,311 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:29,314 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:29,314 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:33,338 : INFO : Train AUC: 0.9462
+2022-05-09 03:21:33,341 : INFO : Test AUC: 0.9434
+2022-05-09 03:21:33,341 : INFO : epoch 8/30:
+2022-05-09 03:21:33,341 : INFO : Total loss: -318.8531
+2022-05-09 03:21:33,341 : INFO : SGNS loss: 46.1725
+2022-05-09 03:21:33,342 : INFO : Dirichlet loss: -1002.5016
+2022-05-09 03:21:33,342 : INFO : Prediction loss: 604.3181
+2022-05-09 03:21:33,342 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:33,345 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:33,345 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:37,304 : INFO : Train AUC: 0.9974
+2022-05-09 03:21:37,307 : INFO : Test AUC: 0.9966
+2022-05-09 03:21:37,308 : INFO : epoch 9/30:
+2022-05-09 03:21:37,308 : INFO : Total loss: -309.0276
+2022-05-09 03:21:37,308 : INFO : SGNS loss: 46.1724
+2022-05-09 03:21:37,308 : INFO : Dirichlet loss: -993.9661
+2022-05-09 03:21:37,308 : INFO : Prediction loss: 605.6081
+2022-05-09 03:21:37,308 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:37,312 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:37,312 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:41,375 : INFO : Train AUC: 0.9955
+2022-05-09 03:21:41,377 : INFO : Test AUC: 0.9945
+2022-05-09 03:21:41,378 : INFO : epoch 10/30:
+2022-05-09 03:21:41,378 : INFO : Total loss: -272.7332
+2022-05-09 03:21:41,379 : INFO : SGNS loss: 46.1748
+2022-05-09 03:21:41,380 : INFO : Dirichlet loss: -977.9562
+2022-05-09 03:21:41,385 : INFO : Prediction loss: 625.8903
+2022-05-09 03:21:41,385 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:41,388 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:41,388 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:45,369 : INFO : Train AUC: 0.9519
+2022-05-09 03:21:45,372 : INFO : Test AUC: 0.9476
+2022-05-09 03:21:45,372 : INFO : epoch 11/30:
+2022-05-09 03:21:45,372 : INFO : Total loss: -342.7902
+2022-05-09 03:21:45,372 : INFO : SGNS loss: 46.1738
+2022-05-09 03:21:45,372 : INFO : Dirichlet loss: -992.5260
+2022-05-09 03:21:45,372 : INFO : Prediction loss: 570.4041
+2022-05-09 03:21:45,373 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:45,375 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:45,376 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:49,404 : INFO : Train AUC: 0.9979
+2022-05-09 03:21:49,407 : INFO : Test AUC: 0.9972
+2022-05-09 03:21:49,407 : INFO : epoch 12/30:
+2022-05-09 03:21:49,407 : INFO : Total loss: -349.5797
+2022-05-09 03:21:49,408 : INFO : SGNS loss: 46.1712
+2022-05-09 03:21:49,408 : INFO : Dirichlet loss: -991.5162
+2022-05-09 03:21:49,408 : INFO : Prediction loss: 562.6073
+2022-05-09 03:21:49,408 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:49,411 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:49,412 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:53,424 : INFO : Train AUC: 0.9962
+2022-05-09 03:21:53,427 : INFO : Test AUC: 0.9950
+2022-05-09 03:21:53,427 : INFO : epoch 13/30:
+2022-05-09 03:21:53,427 : INFO : Total loss: -317.1075
+2022-05-09 03:21:53,428 : INFO : SGNS loss: 46.1690
+2022-05-09 03:21:53,428 : INFO : Dirichlet loss: -977.0775
+2022-05-09 03:21:53,428 : INFO : Prediction loss: 580.6431
+2022-05-09 03:21:53,428 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:53,431 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:53,431 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:21:57,394 : INFO : Train AUC: 0.9496
+2022-05-09 03:21:57,397 : INFO : Test AUC: 0.9433
+2022-05-09 03:21:57,397 : INFO : epoch 14/30:
+2022-05-09 03:21:57,397 : INFO : Total loss: -363.9589
+2022-05-09 03:21:57,397 : INFO : SGNS loss: 46.1704
+2022-05-09 03:21:57,397 : INFO : Dirichlet loss: -983.5322
+2022-05-09 03:21:57,397 : INFO : Prediction loss: 540.2450
+2022-05-09 03:21:57,398 : INFO : Diversity loss: 33.1579
+2022-05-09 03:21:57,401 : INFO : concept 1: limit protector snap content filter refund forget file pile connection
+2022-05-09 03:21:57,401 : INFO : concept 2: wife stock yes treat travel remote stair toy white far
+2022-05-09 03:22:01,658 : INFO : Train AUC: 0.9980
+2022-05-09 03:22:01,660 : INFO : Test AUC: 0.9973
+2022-05-09 03:22:01,660 : INFO : epoch 15/30:
+2022-05-09 03:22:01,661 : INFO : Total loss: -428.7691
+2022-05-09 03:22:01,661 : INFO : SGNS loss: 23.7845
+2022-05-09 03:22:01,661 : INFO : Dirichlet loss: -1028.1606
+2022-05-09 03:22:01,661 : INFO : Prediction loss: 545.7621
+2022-05-09 03:22:01,661 : INFO : Diversity loss: 29.8449
+2022-05-09 03:22:01,664 : INFO : concept 1: toaster board slice towel toast bread mat term brown rubber
+2022-05-09 03:22:01,664 : INFO : concept 2: great easy use buy price look effort excellent money thoroughly
+2022-05-09 03:22:05,908 : INFO : Train AUC: 0.9964
+2022-05-09 03:22:05,910 : INFO : Test AUC: 0.9952
+2022-05-09 03:22:05,911 : INFO : epoch 16/30:
+2022-05-09 03:22:05,911 : INFO : Total loss: -436.6705
+2022-05-09 03:22:05,911 : INFO : SGNS loss: 14.9899
+2022-05-09 03:22:05,911 : INFO : Dirichlet loss: -1035.9955
+2022-05-09 03:22:05,911 : INFO : Prediction loss: 567.7158
+2022-05-09 03:22:05,911 : INFO : Diversity loss: 16.6193
+2022-05-09 03:22:05,915 : INFO : concept 1: board towel toaster mat bread toast slice bulb rail bath
+2022-05-09 03:22:05,915 : INFO : concept 2: great use easy price excellent buy phone look money work
+2022-05-09 03:22:10,196 : INFO : Train AUC: 0.9537
+2022-05-09 03:22:10,198 : INFO : Test AUC: 0.9505
+2022-05-09 03:22:10,199 : INFO : epoch 17/30:
+2022-05-09 03:22:10,199 : INFO : Total loss: -489.2986
+2022-05-09 03:22:10,199 : INFO : SGNS loss: 14.8671
+2022-05-09 03:22:10,199 : INFO : Dirichlet loss: -1035.9973
+2022-05-09 03:22:10,199 : INFO : Prediction loss: 524.8057
+2022-05-09 03:22:10,199 : INFO : Diversity loss: 7.0259
+2022-05-09 03:22:10,202 : INFO : concept 1: rack toast mat slice board toaster thin iron job bread
+2022-05-09 03:22:10,203 : INFO : concept 2: price easy use recommend great sale look assemble money job
+2022-05-09 03:22:14,468 : INFO : Train AUC: 0.9981
+2022-05-09 03:22:14,471 : INFO : Test AUC: 0.9974
+2022-05-09 03:22:14,471 : INFO : epoch 18/30:
+2022-05-09 03:22:14,471 : INFO : Total loss: -487.0091
+2022-05-09 03:22:14,471 : INFO : SGNS loss: 14.8613
+2022-05-09 03:22:14,472 : INFO : Dirichlet loss: -1035.9465
+2022-05-09 03:22:14,472 : INFO : Prediction loss: 530.7129
+2022-05-09 03:22:14,472 : INFO : Diversity loss: 3.3631
+2022-05-09 03:22:14,475 : INFO : concept 1: towel toaster toast bread mat rug slice board material roll
+2022-05-09 03:22:14,475 : INFO : concept 2: use great easy price need look buy pillow purchase money
+2022-05-09 03:22:18,750 : INFO : Train AUC: 0.9964
+2022-05-09 03:22:18,753 : INFO : Test AUC: 0.9950
+2022-05-09 03:22:18,753 : INFO : epoch 19/30:
+2022-05-09 03:22:18,753 : INFO : Total loss: -466.2696
+2022-05-09 03:22:18,754 : INFO : SGNS loss: 14.8646
+2022-05-09 03:22:18,754 : INFO : Dirichlet loss: -1035.9705
+2022-05-09 03:22:18,754 : INFO : Prediction loss: 552.9008
+2022-05-09 03:22:18,754 : INFO : Diversity loss: 1.9355
+2022-05-09 03:22:18,758 : INFO : concept 1: extension towel slice toast bin board bulb mat bath toaster
+2022-05-09 03:22:18,758 : INFO : concept 2: great buy look room recommend excellent price easy little use
+2022-05-09 03:22:22,997 : INFO : Train AUC: 0.9539
+2022-05-09 03:22:23,000 : INFO : Test AUC: 0.9510
+2022-05-09 03:22:23,000 : INFO : epoch 20/30:
+2022-05-09 03:22:23,000 : INFO : Total loss: -517.2766
+2022-05-09 03:22:23,000 : INFO : SGNS loss: 14.8697
+2022-05-09 03:22:23,001 : INFO : Dirichlet loss: -1035.9431
+2022-05-09 03:22:23,001 : INFO : Prediction loss: 502.4988
+2022-05-09 03:22:23,001 : INFO : Diversity loss: 1.2980
+2022-05-09 03:22:23,004 : INFO : concept 1: toaster hook rail rack bin mat jug toast bath paper
+2022-05-09 03:22:23,004 : INFO : concept 2: great work use easy recommend want old look quality half
+2022-05-09 03:22:27,243 : INFO : Train AUC: 0.9982
+2022-05-09 03:22:27,246 : INFO : Test AUC: 0.9974
+2022-05-09 03:22:27,246 : INFO : epoch 21/30:
+2022-05-09 03:22:27,246 : INFO : Total loss: -498.5033
+2022-05-09 03:22:27,247 : INFO : SGNS loss: 14.8684
+2022-05-09 03:22:27,247 : INFO : Dirichlet loss: -1035.9255
+2022-05-09 03:22:27,247 : INFO : Prediction loss: 521.5794
+2022-05-09 03:22:27,247 : INFO : Diversity loss: 0.9744
+2022-05-09 03:22:27,250 : INFO : concept 1: toaster toast board bread slot towel mat tea slice lamp
+2022-05-09 03:22:27,250 : INFO : concept 2: great buy price use easy recommend money pillow quality brilliant
+2022-05-09 03:22:31,537 : INFO : Train AUC: 0.9965
+2022-05-09 03:22:31,539 : INFO : Test AUC: 0.9949
+2022-05-09 03:22:31,540 : INFO : epoch 22/30:
+2022-05-09 03:22:31,540 : INFO : Total loss: -474.4973
+2022-05-09 03:22:31,540 : INFO : SGNS loss: 14.8717
+2022-05-09 03:22:31,540 : INFO : Dirichlet loss: -1035.9225
+2022-05-09 03:22:31,540 : INFO : Prediction loss: 545.7604
+2022-05-09 03:22:31,540 : INFO : Diversity loss: 0.7930
+2022-05-09 03:22:31,544 : INFO : concept 1: toast slice toaster rail towel bread roll lamp thin toilet
+2022-05-09 03:22:31,544 : INFO : concept 2: great try easy use item buy job nice money clean
+2022-05-09 03:22:35,821 : INFO : Train AUC: 0.9548
+2022-05-09 03:22:35,823 : INFO : Test AUC: 0.9519
+2022-05-09 03:22:35,824 : INFO : epoch 23/30:
+2022-05-09 03:22:35,824 : INFO : Total loss: -514.1090
+2022-05-09 03:22:35,824 : INFO : SGNS loss: 14.8690
+2022-05-09 03:22:35,824 : INFO : Dirichlet loss: -1035.9574
+2022-05-09 03:22:35,824 : INFO : Prediction loss: 506.2952
+2022-05-09 03:22:35,824 : INFO : Diversity loss: 0.6842
+2022-05-09 03:22:35,827 : INFO : concept 1: toaster towel mat bread bath board roll match clothe rug
+2022-05-09 03:22:35,828 : INFO : concept 2: price quality easy great use slim look cheap buy fit
+2022-05-09 03:22:40,092 : INFO : Train AUC: 0.9982
+2022-05-09 03:22:40,095 : INFO : Test AUC: 0.9974
+2022-05-09 03:22:40,095 : INFO : epoch 24/30:
+2022-05-09 03:22:40,096 : INFO : Total loss: -507.0551
+2022-05-09 03:22:40,096 : INFO : SGNS loss: 14.8703
+2022-05-09 03:22:40,096 : INFO : Dirichlet loss: -1035.8493
+2022-05-09 03:22:40,096 : INFO : Prediction loss: 513.3086
+2022-05-09 03:22:40,096 : INFO : Diversity loss: 0.6153
+2022-05-09 03:22:40,100 : INFO : concept 1: bath towel toaster toast board slot mat bread slice lamp
+2022-05-09 03:22:40,100 : INFO : concept 2: great use price buy easy pleased perfect excellent look catch
+2022-05-09 03:22:44,370 : INFO : Train AUC: 0.9966
+2022-05-09 03:22:44,373 : INFO : Test AUC: 0.9947
+2022-05-09 03:22:44,374 : INFO : epoch 25/30:
+2022-05-09 03:22:44,374 : INFO : Total loss: -480.0980
+2022-05-09 03:22:44,374 : INFO : SGNS loss: 14.8715
+2022-05-09 03:22:44,374 : INFO : Dirichlet loss: -1035.9094
+2022-05-09 03:22:44,374 : INFO : Prediction loss: 540.3695
+2022-05-09 03:22:44,374 : INFO : Diversity loss: 0.5704
+2022-05-09 03:22:44,378 : INFO : concept 1: towel toaster rack board toast lamp clothe bread bin cover
+2022-05-09 03:22:44,378 : INFO : concept 2: easy nice look buy price use great love worth excellent
+2022-05-09 03:22:48,687 : INFO : Train AUC: 0.9538
+2022-05-09 03:22:48,690 : INFO : Test AUC: 0.9493
+2022-05-09 03:22:48,690 : INFO : epoch 26/30:
+2022-05-09 03:22:48,690 : INFO : Total loss: -524.7381
+2022-05-09 03:22:48,690 : INFO : SGNS loss: 14.8720
+2022-05-09 03:22:48,691 : INFO : Dirichlet loss: -1035.6311
+2022-05-09 03:22:48,691 : INFO : Prediction loss: 495.4806
+2022-05-09 03:22:48,691 : INFO : Diversity loss: 0.5404
+2022-05-09 03:22:48,694 : INFO : concept 1: toaster mat towel board ok toast bulb rack slot shade
+2022-05-09 03:22:48,694 : INFO : concept 2: easy great use buy love garden excellent quality money lot
+2022-05-09 03:22:52,957 : INFO : Train AUC: 0.9976
+2022-05-09 03:22:52,959 : INFO : Test AUC: 0.9969
+2022-05-09 03:22:52,960 : INFO : epoch 27/30:
+2022-05-09 03:22:52,960 : INFO : Total loss: -460.9306
+2022-05-09 03:22:52,960 : INFO : SGNS loss: 14.8812
+2022-05-09 03:22:52,960 : INFO : Dirichlet loss: -1030.3430
+2022-05-09 03:22:52,960 : INFO : Prediction loss: 554.0111
+2022-05-09 03:22:52,960 : INFO : Diversity loss: 0.5201
+2022-05-09 03:22:52,964 : INFO : concept 1: slice lamp toast bin towel board toaster shade thin bread
+2022-05-09 03:22:52,964 : INFO : concept 2: great money use easy price buy look nice excellent need
+2022-05-09 03:22:57,234 : INFO : Train AUC: 0.9954
+2022-05-09 03:22:57,236 : INFO : Test AUC: 0.9943
+2022-05-09 03:22:57,237 : INFO : epoch 28/30:
+2022-05-09 03:22:57,237 : INFO : Total loss: -416.0648
+2022-05-09 03:22:57,237 : INFO : SGNS loss: 14.8731
+2022-05-09 03:22:57,237 : INFO : Dirichlet loss: -1033.9025
+2022-05-09 03:22:57,237 : INFO : Prediction loss: 602.4580
+2022-05-09 03:22:57,237 : INFO : Diversity loss: 0.5066
+2022-05-09 03:22:57,241 : INFO : concept 1: slice board curtain toaster shade toast thin material bread hang
+2022-05-09 03:22:57,241 : INFO : concept 2: purchase use easy great impossible excellent love phone pillow look
+2022-05-09 03:23:01,473 : INFO : Train AUC: 0.9480
+2022-05-09 03:23:01,477 : INFO : Test AUC: 0.9446
+2022-05-09 03:23:01,482 : INFO : epoch 29/30:
+2022-05-09 03:23:01,482 : INFO : Total loss: -451.0709
+2022-05-09 03:23:01,482 : INFO : SGNS loss: 14.8796
+2022-05-09 03:23:01,482 : INFO : Dirichlet loss: -1033.3618
+2022-05-09 03:23:01,483 : INFO : Prediction loss: 566.9145
+2022-05-09 03:23:01,483 : INFO : Diversity loss: 0.4968
+2022-05-09 03:23:01,485 : INFO : concept 1: toast towel rug slice bulb toaster mat bread rack xbox
+2022-05-09 03:23:01,486 : INFO : concept 2: buy easy great excellent look use stylish price slide recommend

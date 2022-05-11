@@ -1,0 +1,300 @@
+2022-05-09 03:31:27,877 : INFO : Train AUC: 0.4555
+2022-05-09 03:31:27,880 : INFO : Test AUC: 0.4574
+2022-05-09 03:31:27,880 : INFO : epoch 0/30:
+2022-05-09 03:31:27,880 : INFO : Total loss: 4515800.7837
+2022-05-09 03:31:27,881 : INFO : SGNS loss: 46.3166
+2022-05-09 03:31:27,881 : INFO : Dirichlet loss: -992.5750
+2022-05-09 03:31:27,881 : INFO : Prediction loss: 4483586.9860
+2022-05-09 03:31:27,881 : INFO : Diversity loss: 33160.0561
+2022-05-09 03:31:27,884 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:31:27,884 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:31:31,905 : INFO : Train AUC: 0.3678
+2022-05-09 03:31:31,908 : INFO : Test AUC: 0.3930
+2022-05-09 03:31:31,908 : INFO : epoch 1/30:
+2022-05-09 03:31:31,908 : INFO : Total loss: 269291.0646
+2022-05-09 03:31:31,908 : INFO : SGNS loss: 46.1852
+2022-05-09 03:31:31,909 : INFO : Dirichlet loss: -1004.3883
+2022-05-09 03:31:31,909 : INFO : Prediction loss: 237089.2109
+2022-05-09 03:31:31,909 : INFO : Diversity loss: 33160.0569
+2022-05-09 03:31:31,912 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:31:31,912 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:31:35,897 : INFO : Train AUC: 0.4603
+2022-05-09 03:31:35,900 : INFO : Test AUC: 0.4721
+2022-05-09 03:31:35,900 : INFO : epoch 2/30:
+2022-05-09 03:31:35,900 : INFO : Total loss: 67663.5454
+2022-05-09 03:31:35,901 : INFO : SGNS loss: 45.8469
+2022-05-09 03:31:35,901 : INFO : Dirichlet loss: -1035.9012
+2022-05-09 03:31:35,901 : INFO : Prediction loss: 35493.5428
+2022-05-09 03:31:35,901 : INFO : Diversity loss: 33160.0569
+2022-05-09 03:31:35,904 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:31:35,904 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:31:39,963 : INFO : Train AUC: 0.8452
+2022-05-09 03:31:39,966 : INFO : Test AUC: 0.8421
+2022-05-09 03:31:39,966 : INFO : epoch 3/30:
+2022-05-09 03:31:39,966 : INFO : Total loss: 41231.4885
+2022-05-09 03:31:39,966 : INFO : SGNS loss: 45.8472
+2022-05-09 03:31:39,966 : INFO : Dirichlet loss: -1035.1092
+2022-05-09 03:31:39,966 : INFO : Prediction loss: 9060.6940
+2022-05-09 03:31:39,966 : INFO : Diversity loss: 33160.0565
+2022-05-09 03:31:39,970 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:31:39,970 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:31:43,993 : INFO : Train AUC: 0.9919
+2022-05-09 03:31:43,996 : INFO : Test AUC: 0.9898
+2022-05-09 03:31:43,996 : INFO : epoch 4/30:
+2022-05-09 03:31:43,996 : INFO : Total loss: 33767.1627
+2022-05-09 03:31:43,996 : INFO : SGNS loss: 45.8490
+2022-05-09 03:31:43,996 : INFO : Dirichlet loss: -1031.2990
+2022-05-09 03:31:43,997 : INFO : Prediction loss: 1592.5563
+2022-05-09 03:31:43,997 : INFO : Diversity loss: 33160.0564
+2022-05-09 03:31:44,000 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:31:44,000 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:31:47,999 : INFO : Train AUC: 0.9778
+2022-05-09 03:31:48,001 : INFO : Test AUC: 0.9751
+2022-05-09 03:31:48,002 : INFO : epoch 5/30:
+2022-05-09 03:31:48,002 : INFO : Total loss: 33543.3582
+2022-05-09 03:31:48,002 : INFO : SGNS loss: 45.8545
+2022-05-09 03:31:48,002 : INFO : Dirichlet loss: -1029.7263
+2022-05-09 03:31:48,002 : INFO : Prediction loss: 1367.1737
+2022-05-09 03:31:48,002 : INFO : Diversity loss: 33160.0563
+2022-05-09 03:31:48,005 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:31:48,005 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:31:52,042 : INFO : Train AUC: 0.9839
+2022-05-09 03:31:52,045 : INFO : Test AUC: 0.9815
+2022-05-09 03:31:52,045 : INFO : epoch 6/30:
+2022-05-09 03:31:52,045 : INFO : Total loss: 33413.5374
+2022-05-09 03:31:52,045 : INFO : SGNS loss: 45.8529
+2022-05-09 03:31:52,045 : INFO : Dirichlet loss: -1029.3867
+2022-05-09 03:31:52,045 : INFO : Prediction loss: 1237.0154
+2022-05-09 03:31:52,046 : INFO : Diversity loss: 33160.0558
+2022-05-09 03:31:52,049 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:31:52,049 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:31:56,045 : INFO : Train AUC: 0.9952
+2022-05-09 03:31:56,048 : INFO : Test AUC: 0.9939
+2022-05-09 03:31:56,048 : INFO : epoch 7/30:
+2022-05-09 03:31:56,048 : INFO : Total loss: 33357.6292
+2022-05-09 03:31:56,049 : INFO : SGNS loss: 45.8530
+2022-05-09 03:31:56,049 : INFO : Dirichlet loss: -1028.9674
+2022-05-09 03:31:56,049 : INFO : Prediction loss: 1180.6873
+2022-05-09 03:31:56,049 : INFO : Diversity loss: 33160.0564
+2022-05-09 03:31:56,052 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:31:56,052 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:32:00,045 : INFO : Train AUC: 0.9842
+2022-05-09 03:32:00,048 : INFO : Test AUC: 0.9821
+2022-05-09 03:32:00,048 : INFO : epoch 8/30:
+2022-05-09 03:32:00,048 : INFO : Total loss: 33350.1427
+2022-05-09 03:32:00,049 : INFO : SGNS loss: 45.8542
+2022-05-09 03:32:00,049 : INFO : Dirichlet loss: -1026.2700
+2022-05-09 03:32:00,049 : INFO : Prediction loss: 1170.5024
+2022-05-09 03:32:00,049 : INFO : Diversity loss: 33160.0561
+2022-05-09 03:32:00,052 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:32:00,052 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:32:04,041 : INFO : Train AUC: 0.9883
+2022-05-09 03:32:04,044 : INFO : Test AUC: 0.9864
+2022-05-09 03:32:04,044 : INFO : epoch 9/30:
+2022-05-09 03:32:04,044 : INFO : Total loss: 33311.0980
+2022-05-09 03:32:04,045 : INFO : SGNS loss: 45.8739
+2022-05-09 03:32:04,045 : INFO : Dirichlet loss: -1010.5349
+2022-05-09 03:32:04,045 : INFO : Prediction loss: 1115.7023
+2022-05-09 03:32:04,045 : INFO : Diversity loss: 33160.0567
+2022-05-09 03:32:04,048 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:32:04,048 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:32:08,036 : INFO : Train AUC: 0.9966
+2022-05-09 03:32:08,039 : INFO : Test AUC: 0.9953
+2022-05-09 03:32:08,039 : INFO : epoch 10/30:
+2022-05-09 03:32:08,039 : INFO : Total loss: 33281.3495
+2022-05-09 03:32:08,039 : INFO : SGNS loss: 45.9320
+2022-05-09 03:32:08,040 : INFO : Dirichlet loss: -995.7872
+2022-05-09 03:32:08,040 : INFO : Prediction loss: 1071.1482
+2022-05-09 03:32:08,040 : INFO : Diversity loss: 33160.0564
+2022-05-09 03:32:08,043 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:32:08,043 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:32:12,026 : INFO : Train AUC: 0.9878
+2022-05-09 03:32:12,030 : INFO : Test AUC: 0.9849
+2022-05-09 03:32:12,030 : INFO : epoch 11/30:
+2022-05-09 03:32:12,030 : INFO : Total loss: 33285.6189
+2022-05-09 03:32:12,030 : INFO : SGNS loss: 45.9811
+2022-05-09 03:32:12,030 : INFO : Dirichlet loss: -980.5535
+2022-05-09 03:32:12,030 : INFO : Prediction loss: 1060.1352
+2022-05-09 03:32:12,031 : INFO : Diversity loss: 33160.0560
+2022-05-09 03:32:12,034 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:32:12,034 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:32:16,008 : INFO : Train AUC: 0.9907
+2022-05-09 03:32:16,010 : INFO : Test AUC: 0.9883
+2022-05-09 03:32:16,011 : INFO : epoch 12/30:
+2022-05-09 03:32:16,011 : INFO : Total loss: 33239.3245
+2022-05-09 03:32:16,011 : INFO : SGNS loss: 46.0084
+2022-05-09 03:32:16,011 : INFO : Dirichlet loss: -975.8078
+2022-05-09 03:32:16,011 : INFO : Prediction loss: 1009.0680
+2022-05-09 03:32:16,011 : INFO : Diversity loss: 33160.0558
+2022-05-09 03:32:16,014 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:32:16,014 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:32:20,027 : INFO : Train AUC: 0.9973
+2022-05-09 03:32:20,030 : INFO : Test AUC: 0.9959
+2022-05-09 03:32:20,030 : INFO : epoch 13/30:
+2022-05-09 03:32:20,030 : INFO : Total loss: 33221.9651
+2022-05-09 03:32:20,030 : INFO : SGNS loss: 46.0181
+2022-05-09 03:32:20,030 : INFO : Dirichlet loss: -967.4979
+2022-05-09 03:32:20,031 : INFO : Prediction loss: 983.3888
+2022-05-09 03:32:20,031 : INFO : Diversity loss: 33160.0560
+2022-05-09 03:32:20,034 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:32:20,034 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:32:24,001 : INFO : Train AUC: 0.9902
+2022-05-09 03:32:24,004 : INFO : Test AUC: 0.9868
+2022-05-09 03:32:24,004 : INFO : epoch 14/30:
+2022-05-09 03:32:24,004 : INFO : Total loss: 33203.0104
+2022-05-09 03:32:24,004 : INFO : SGNS loss: 46.0354
+2022-05-09 03:32:24,004 : INFO : Dirichlet loss: -985.3698
+2022-05-09 03:32:24,005 : INFO : Prediction loss: 982.2887
+2022-05-09 03:32:24,005 : INFO : Diversity loss: 33160.0562
+2022-05-09 03:32:24,008 : INFO : concept 1: pleasantly upright seal watch space facility robust away struggle wooden
+2022-05-09 03:32:24,008 : INFO : concept 2: answer little etc limited bend stick samsung jug apple sharp
+2022-05-09 03:32:28,303 : INFO : Train AUC: 0.9919
+2022-05-09 03:32:28,306 : INFO : Test AUC: 0.9890
+2022-05-09 03:32:28,307 : INFO : epoch 15/30:
+2022-05-09 03:32:28,307 : INFO : Total loss: 18229.4784
+2022-05-09 03:32:28,307 : INFO : SGNS loss: 42.3147
+2022-05-09 03:32:28,307 : INFO : Dirichlet loss: -1032.3769
+2022-05-09 03:32:28,307 : INFO : Prediction loss: 937.3061
+2022-05-09 03:32:28,307 : INFO : Diversity loss: 18282.2344
+2022-05-09 03:32:28,311 : INFO : concept 1: body great trouble birthday connect smell listen pillow taste bedside
+2022-05-09 03:32:28,312 : INFO : concept 2: great opinion easy use price catalogue brighten buy detail quality
+2022-05-09 03:32:32,635 : INFO : Train AUC: 0.9977
+2022-05-09 03:32:32,637 : INFO : Test AUC: 0.9965
+2022-05-09 03:32:32,637 : INFO : epoch 16/30:
+2022-05-09 03:32:32,638 : INFO : Total loss: -6110.1683
+2022-05-09 03:32:32,638 : INFO : SGNS loss: 41.1787
+2022-05-09 03:32:32,638 : INFO : Dirichlet loss: -1035.9576
+2022-05-09 03:32:32,638 : INFO : Prediction loss: 920.6688
+2022-05-09 03:32:32,638 : INFO : Diversity loss: -6036.0582
+2022-05-09 03:32:32,641 : INFO : concept 1: hdmi law annoying mainly arm dark cooking xmas detail recently
+2022-05-09 03:32:32,642 : INFO : concept 2: meet collection treat everyday hassle moment crease bend hinge mess
+2022-05-09 03:32:36,926 : INFO : Train AUC: 0.9905
+2022-05-09 03:32:36,929 : INFO : Test AUC: 0.9871
+2022-05-09 03:32:36,929 : INFO : epoch 17/30:
+2022-05-09 03:32:36,929 : INFO : Total loss: -14744.0296
+2022-05-09 03:32:36,929 : INFO : SGNS loss: 41.8799
+2022-05-09 03:32:36,929 : INFO : Dirichlet loss: -1035.8496
+2022-05-09 03:32:36,930 : INFO : Prediction loss: 934.0421
+2022-05-09 03:32:36,930 : INFO : Diversity loss: -14684.1021
+2022-05-09 03:32:36,933 : INFO : concept 1: seal construction edge adjust hinge worried slim temperature elderly correct
+2022-05-09 03:32:36,933 : INFO : concept 2: maker hide patio total gap mode straightforward manual upgrade similar
+2022-05-09 03:32:41,197 : INFO : Train AUC: 0.9922
+2022-05-09 03:32:41,199 : INFO : Test AUC: 0.9889
+2022-05-09 03:32:41,200 : INFO : epoch 18/30:
+2022-05-09 03:32:41,200 : INFO : Total loss: -18177.1188
+2022-05-09 03:32:41,200 : INFO : SGNS loss: 42.8246
+2022-05-09 03:32:41,200 : INFO : Dirichlet loss: -1035.7641
+2022-05-09 03:32:41,200 : INFO : Prediction loss: 909.6466
+2022-05-09 03:32:41,200 : INFO : Diversity loss: -18093.8258
+2022-05-09 03:32:41,203 : INFO : concept 1: tend telephone convenient click impossible program deliver slip clip height
+2022-05-09 03:32:41,204 : INFO : concept 2: wall fitting brighten sleek exist main surprised length hook figure
+2022-05-09 03:32:45,471 : INFO : Train AUC: 0.9978
+2022-05-09 03:32:45,474 : INFO : Test AUC: 0.9964
+2022-05-09 03:32:45,474 : INFO : epoch 19/30:
+2022-05-09 03:32:45,474 : INFO : Total loss: -19422.6367
+2022-05-09 03:32:45,474 : INFO : SGNS loss: 43.2478
+2022-05-09 03:32:45,474 : INFO : Dirichlet loss: -1035.8647
+2022-05-09 03:32:45,474 : INFO : Prediction loss: 895.4581
+2022-05-09 03:32:45,474 : INFO : Diversity loss: -19325.4779
+2022-05-09 03:32:45,478 : INFO : concept 1: lack listen limited test rubber sleek glad serve underneath advertise
+2022-05-09 03:32:45,478 : INFO : concept 2: grey local blend hobbs loose hook player bowl catalogue winter
+2022-05-09 03:32:49,730 : INFO : Train AUC: 0.9908
+2022-05-09 03:32:49,733 : INFO : Test AUC: 0.9872
+2022-05-09 03:32:49,733 : INFO : epoch 20/30:
+2022-05-09 03:32:49,733 : INFO : Total loss: -19922.1079
+2022-05-09 03:32:49,733 : INFO : SGNS loss: 44.0989
+2022-05-09 03:32:49,733 : INFO : Dirichlet loss: -1028.6569
+2022-05-09 03:32:49,734 : INFO : Prediction loss: 924.0997
+2022-05-09 03:32:49,734 : INFO : Diversity loss: -19861.6496
+2022-05-09 03:32:49,737 : INFO : concept 1: comfortable holiday elegant worktop door pick amazing think pillow sorry
+2022-05-09 03:32:49,737 : INFO : concept 2: narrow original people cabinet small easy forward garden food print
+2022-05-09 03:32:54,038 : INFO : Train AUC: 0.9926
+2022-05-09 03:32:54,042 : INFO : Test AUC: 0.9910
+2022-05-09 03:32:54,042 : INFO : epoch 21/30:
+2022-05-09 03:32:54,042 : INFO : Total loss: -20218.3254
+2022-05-09 03:32:54,042 : INFO : SGNS loss: 42.5316
+2022-05-09 03:32:54,042 : INFO : Dirichlet loss: -1030.0724
+2022-05-09 03:32:54,042 : INFO : Prediction loss: 907.6939
+2022-05-09 03:32:54,042 : INFO : Diversity loss: -20138.4786
+2022-05-09 03:32:54,045 : INFO : concept 1: television sleek video constantly decide completely poorly quilt saver despite
+2022-05-09 03:32:54,046 : INFO : concept 2: impossible future slide tap loose limit impressed packaging offer tank
+2022-05-09 03:32:58,274 : INFO : Train AUC: 0.9980
+2022-05-09 03:32:58,276 : INFO : Test AUC: 0.9973
+2022-05-09 03:32:58,277 : INFO : epoch 22/30:
+2022-05-09 03:32:58,277 : INFO : Total loss: -20392.8588
+2022-05-09 03:32:58,277 : INFO : SGNS loss: 42.3462
+2022-05-09 03:32:58,277 : INFO : Dirichlet loss: -1033.6268
+2022-05-09 03:32:58,277 : INFO : Prediction loss: 898.1991
+2022-05-09 03:32:58,277 : INFO : Diversity loss: -20299.7773
+2022-05-09 03:32:58,281 : INFO : concept 1: complain telephone produce age program listen windows programme brown bulky
+2022-05-09 03:32:58,281 : INFO : concept 2: looking glue attach collect accurate pain appliance gorgeous mind away
+2022-05-09 03:33:02,547 : INFO : Train AUC: 0.9912
+2022-05-09 03:33:02,550 : INFO : Test AUC: 0.9877
+2022-05-09 03:33:02,550 : INFO : epoch 23/30:
+2022-05-09 03:33:02,551 : INFO : Total loss: -20478.3684
+2022-05-09 03:33:02,551 : INFO : SGNS loss: 42.5010
+2022-05-09 03:33:02,551 : INFO : Dirichlet loss: -1032.8007
+2022-05-09 03:33:02,551 : INFO : Prediction loss: 913.9918
+2022-05-09 03:33:02,551 : INFO : Diversity loss: -20402.0606
+2022-05-09 03:33:02,555 : INFO : concept 1: burn note badly unable real limit blow hard mainly fi
+2022-05-09 03:33:02,555 : INFO : concept 2: grip update eat convenient definately catch samsung ready fix advise
+2022-05-09 03:33:06,833 : INFO : Train AUC: 0.9930
+2022-05-09 03:33:06,836 : INFO : Test AUC: 0.9910
+2022-05-09 03:33:06,836 : INFO : epoch 24/30:
+2022-05-09 03:33:06,836 : INFO : Total loss: -20572.1785
+2022-05-09 03:33:06,836 : INFO : SGNS loss: 42.7066
+2022-05-09 03:33:06,837 : INFO : Dirichlet loss: -1032.7852
+2022-05-09 03:33:06,837 : INFO : Prediction loss: 888.9931
+2022-05-09 03:33:06,837 : INFO : Diversity loss: -20471.0931
+2022-05-09 03:33:06,840 : INFO : concept 1: television smart iphone special simply quilt mean etc affordable wear
+2022-05-09 03:33:06,840 : INFO : concept 2: eventually durable hook mat pattern note outside usually present bowl
+2022-05-09 03:33:11,120 : INFO : Train AUC: 0.9982
+2022-05-09 03:33:11,122 : INFO : Test AUC: 0.9971
+2022-05-09 03:33:11,122 : INFO : epoch 25/30:
+2022-05-09 03:33:11,123 : INFO : Total loss: -20632.8278
+2022-05-09 03:33:11,123 : INFO : SGNS loss: 42.8471
+2022-05-09 03:33:11,123 : INFO : Dirichlet loss: -1034.6037
+2022-05-09 03:33:11,123 : INFO : Prediction loss: 878.8814
+2022-05-09 03:33:11,123 : INFO : Diversity loss: -20519.9526
+2022-05-09 03:33:11,126 : INFO : concept 1: key wow negative content finally choice suitable awful brand program
+2022-05-09 03:33:11,126 : INFO : concept 2: setup mount dinner past towel spare wardrobe twice grip exchange
+2022-05-09 03:33:15,410 : INFO : Train AUC: 0.9915
+2022-05-09 03:33:15,412 : INFO : Test AUC: 0.9886
+2022-05-09 03:33:15,412 : INFO : epoch 26/30:
+2022-05-09 03:33:15,413 : INFO : Total loss: -20659.4814
+2022-05-09 03:33:15,413 : INFO : SGNS loss: 42.8351
+2022-05-09 03:33:15,413 : INFO : Dirichlet loss: -1034.4817
+2022-05-09 03:33:15,413 : INFO : Prediction loss: 888.0135
+2022-05-09 03:33:15,413 : INFO : Diversity loss: -20555.8484
+2022-05-09 03:33:15,417 : INFO : concept 1: poorly file body click absolute obviously stair separate dirt opinion
+2022-05-09 03:33:15,417 : INFO : concept 2: hide simply happen law equipment boy description slow cooker fixing
+2022-05-09 03:33:19,711 : INFO : Train AUC: 0.9930
+2022-05-09 03:33:19,714 : INFO : Test AUC: 0.9906
+2022-05-09 03:33:19,714 : INFO : epoch 27/30:
+2022-05-09 03:33:19,714 : INFO : Total loss: -20703.1639
+2022-05-09 03:33:19,714 : INFO : SGNS loss: 42.7484
+2022-05-09 03:33:19,715 : INFO : Dirichlet loss: -1035.0438
+2022-05-09 03:33:19,715 : INFO : Prediction loss: 872.1527
+2022-05-09 03:33:19,715 : INFO : Diversity loss: -20583.0213
+2022-05-09 03:33:19,718 : INFO : concept 1: pleasantly mother opinion burn television simply guide unable exist suppose
+2022-05-09 03:33:19,719 : INFO : concept 2: body plain rest staff lock deliver shower hook date happen
+2022-05-09 03:33:23,985 : INFO : Train AUC: 0.9982
+2022-05-09 03:33:23,987 : INFO : Test AUC: 0.9972
+2022-05-09 03:33:23,988 : INFO : epoch 28/30:
+2022-05-09 03:33:23,988 : INFO : Total loss: -20735.4396
+2022-05-09 03:33:23,988 : INFO : SGNS loss: 42.8192
+2022-05-09 03:33:23,988 : INFO : Dirichlet loss: -1034.7093
+2022-05-09 03:33:23,988 : INFO : Prediction loss: 860.5548
+2022-05-09 03:33:23,988 : INFO : Diversity loss: -20604.1043
+2022-05-09 03:33:23,992 : INFO : concept 1: catch sky accessory lack adequate worry safe comfy later quickly
+2022-05-09 03:33:23,992 : INFO : concept 2: protect drink search eventually ink slot measure rubber available blade
+2022-05-09 03:33:28,252 : INFO : Train AUC: 0.9915
+2022-05-09 03:33:28,254 : INFO : Test AUC: 0.9879
+2022-05-09 03:33:28,255 : INFO : epoch 29/30:
+2022-05-09 03:33:28,255 : INFO : Total loss: -20733.5120
+2022-05-09 03:33:28,255 : INFO : SGNS loss: 42.7754
+2022-05-09 03:33:28,255 : INFO : Dirichlet loss: -1032.9538
+2022-05-09 03:33:28,255 : INFO : Prediction loss: 877.4677
+2022-05-09 03:33:28,255 : INFO : Diversity loss: -20620.8014
+2022-05-09 03:33:28,259 : INFO : concept 1: hassle tend person signal protect plus mess grill mark program
+2022-05-09 03:33:28,259 : INFO : concept 2: thank worry upgrade cat solution awkward available mount sure attach

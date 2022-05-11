@@ -1,0 +1,300 @@
+2022-05-09 03:33:33,097 : INFO : Train AUC: 0.6723
+2022-05-09 03:33:33,100 : INFO : Test AUC: 0.6584
+2022-05-09 03:33:33,101 : INFO : epoch 0/30:
+2022-05-09 03:33:33,101 : INFO : Total loss: 930.0188
+2022-05-09 03:33:33,101 : INFO : SGNS loss: 45.8876
+2022-05-09 03:33:33,101 : INFO : Dirichlet loss: -89.6947
+2022-05-09 03:33:33,101 : INFO : Prediction loss: 940.6663
+2022-05-09 03:33:33,101 : INFO : Diversity loss: 33.1596
+2022-05-09 03:33:33,104 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:33:33,105 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:33:37,128 : INFO : Train AUC: 0.6866
+2022-05-09 03:33:37,130 : INFO : Test AUC: 0.6659
+2022-05-09 03:33:37,131 : INFO : epoch 1/30:
+2022-05-09 03:33:37,131 : INFO : Total loss: 230.4676
+2022-05-09 03:33:37,131 : INFO : SGNS loss: 45.8949
+2022-05-09 03:33:37,131 : INFO : Dirichlet loss: -61.2549
+2022-05-09 03:33:37,131 : INFO : Prediction loss: 212.6680
+2022-05-09 03:33:37,131 : INFO : Diversity loss: 33.1596
+2022-05-09 03:33:37,134 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:33:37,134 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:33:41,116 : INFO : Train AUC: 0.9130
+2022-05-09 03:33:41,119 : INFO : Test AUC: 0.9086
+2022-05-09 03:33:41,119 : INFO : epoch 2/30:
+2022-05-09 03:33:41,119 : INFO : Total loss: 91.7445
+2022-05-09 03:33:41,119 : INFO : SGNS loss: 45.9016
+2022-05-09 03:33:41,119 : INFO : Dirichlet loss: -58.2026
+2022-05-09 03:33:41,120 : INFO : Prediction loss: 70.8859
+2022-05-09 03:33:41,120 : INFO : Diversity loss: 33.1596
+2022-05-09 03:33:41,123 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:33:41,123 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:33:45,125 : INFO : Train AUC: 0.9956
+2022-05-09 03:33:45,128 : INFO : Test AUC: 0.9946
+2022-05-09 03:33:45,128 : INFO : epoch 3/30:
+2022-05-09 03:33:45,128 : INFO : Total loss: 38.2098
+2022-05-09 03:33:45,128 : INFO : SGNS loss: 45.8996
+2022-05-09 03:33:45,128 : INFO : Dirichlet loss: -59.3632
+2022-05-09 03:33:45,128 : INFO : Prediction loss: 18.5138
+2022-05-09 03:33:45,129 : INFO : Diversity loss: 33.1596
+2022-05-09 03:33:45,132 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:33:45,132 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:33:49,150 : INFO : Train AUC: 0.9863
+2022-05-09 03:33:49,153 : INFO : Test AUC: 0.9838
+2022-05-09 03:33:49,153 : INFO : epoch 4/30:
+2022-05-09 03:33:49,153 : INFO : Total loss: 16.7794
+2022-05-09 03:33:49,153 : INFO : SGNS loss: 45.9089
+2022-05-09 03:33:49,153 : INFO : Dirichlet loss: -77.2564
+2022-05-09 03:33:49,153 : INFO : Prediction loss: 14.9672
+2022-05-09 03:33:49,154 : INFO : Diversity loss: 33.1596
+2022-05-09 03:33:49,157 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:33:49,157 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:33:53,262 : INFO : Train AUC: 0.9912
+2022-05-09 03:33:53,265 : INFO : Test AUC: 0.9897
+2022-05-09 03:33:53,265 : INFO : epoch 5/30:
+2022-05-09 03:33:53,265 : INFO : Total loss: 23.9538
+2022-05-09 03:33:53,265 : INFO : SGNS loss: 45.9184
+2022-05-09 03:33:53,266 : INFO : Dirichlet loss: -68.8703
+2022-05-09 03:33:53,266 : INFO : Prediction loss: 13.7461
+2022-05-09 03:33:53,266 : INFO : Diversity loss: 33.1596
+2022-05-09 03:33:53,269 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:33:53,269 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:33:57,259 : INFO : Train AUC: 0.9983
+2022-05-09 03:33:57,262 : INFO : Test AUC: 0.9970
+2022-05-09 03:33:57,262 : INFO : epoch 6/30:
+2022-05-09 03:33:57,262 : INFO : Total loss: 27.1961
+2022-05-09 03:33:57,262 : INFO : SGNS loss: 45.9196
+2022-05-09 03:33:57,263 : INFO : Dirichlet loss: -64.8923
+2022-05-09 03:33:57,263 : INFO : Prediction loss: 13.0092
+2022-05-09 03:33:57,263 : INFO : Diversity loss: 33.1596
+2022-05-09 03:33:57,266 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:33:57,266 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:34:01,245 : INFO : Train AUC: 0.9932
+2022-05-09 03:34:01,248 : INFO : Test AUC: 0.9903
+2022-05-09 03:34:01,249 : INFO : epoch 7/30:
+2022-05-09 03:34:01,249 : INFO : Total loss: 32.2747
+2022-05-09 03:34:01,249 : INFO : SGNS loss: 45.9240
+2022-05-09 03:34:01,249 : INFO : Dirichlet loss: -59.5045
+2022-05-09 03:34:01,249 : INFO : Prediction loss: 12.6955
+2022-05-09 03:34:01,249 : INFO : Diversity loss: 33.1596
+2022-05-09 03:34:01,253 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:34:01,253 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:34:05,214 : INFO : Train AUC: 0.9954
+2022-05-09 03:34:05,217 : INFO : Test AUC: 0.9929
+2022-05-09 03:34:05,217 : INFO : epoch 8/30:
+2022-05-09 03:34:05,217 : INFO : Total loss: 37.6368
+2022-05-09 03:34:05,218 : INFO : SGNS loss: 45.9267
+2022-05-09 03:34:05,218 : INFO : Dirichlet loss: -53.3369
+2022-05-09 03:34:05,218 : INFO : Prediction loss: 11.8873
+2022-05-09 03:34:05,218 : INFO : Diversity loss: 33.1596
+2022-05-09 03:34:05,221 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:34:05,221 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:34:09,264 : INFO : Train AUC: 0.9992
+2022-05-09 03:34:09,273 : INFO : Test AUC: 0.9984
+2022-05-09 03:34:09,273 : INFO : epoch 9/30:
+2022-05-09 03:34:09,273 : INFO : Total loss: 33.6993
+2022-05-09 03:34:09,273 : INFO : SGNS loss: 45.9284
+2022-05-09 03:34:09,273 : INFO : Dirichlet loss: -57.4860
+2022-05-09 03:34:09,273 : INFO : Prediction loss: 12.0972
+2022-05-09 03:34:09,273 : INFO : Diversity loss: 33.1596
+2022-05-09 03:34:09,276 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:34:09,276 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:34:13,326 : INFO : Train AUC: 0.9950
+2022-05-09 03:34:13,329 : INFO : Test AUC: 0.9919
+2022-05-09 03:34:13,329 : INFO : epoch 10/30:
+2022-05-09 03:34:13,329 : INFO : Total loss: 40.7128
+2022-05-09 03:34:13,329 : INFO : SGNS loss: 45.9281
+2022-05-09 03:34:13,329 : INFO : Dirichlet loss: -50.0446
+2022-05-09 03:34:13,330 : INFO : Prediction loss: 11.6696
+2022-05-09 03:34:13,330 : INFO : Diversity loss: 33.1596
+2022-05-09 03:34:13,333 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:34:13,333 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:34:17,360 : INFO : Train AUC: 0.9964
+2022-05-09 03:34:17,363 : INFO : Test AUC: 0.9942
+2022-05-09 03:34:17,363 : INFO : epoch 11/30:
+2022-05-09 03:34:17,363 : INFO : Total loss: 43.2897
+2022-05-09 03:34:17,363 : INFO : SGNS loss: 45.9265
+2022-05-09 03:34:17,364 : INFO : Dirichlet loss: -46.9542
+2022-05-09 03:34:17,364 : INFO : Prediction loss: 11.1578
+2022-05-09 03:34:17,364 : INFO : Diversity loss: 33.1596
+2022-05-09 03:34:17,367 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:34:17,367 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:34:21,388 : INFO : Train AUC: 0.9994
+2022-05-09 03:34:21,390 : INFO : Test AUC: 0.9988
+2022-05-09 03:34:21,391 : INFO : epoch 12/30:
+2022-05-09 03:34:21,391 : INFO : Total loss: 41.3336
+2022-05-09 03:34:21,391 : INFO : SGNS loss: 45.9361
+2022-05-09 03:34:21,391 : INFO : Dirichlet loss: -49.0421
+2022-05-09 03:34:21,391 : INFO : Prediction loss: 11.2800
+2022-05-09 03:34:21,391 : INFO : Diversity loss: 33.1596
+2022-05-09 03:34:21,394 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:34:21,394 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:34:25,356 : INFO : Train AUC: 0.9949
+2022-05-09 03:34:25,358 : INFO : Test AUC: 0.9924
+2022-05-09 03:34:25,359 : INFO : epoch 13/30:
+2022-05-09 03:34:25,359 : INFO : Total loss: 41.4419
+2022-05-09 03:34:25,359 : INFO : SGNS loss: 45.9324
+2022-05-09 03:34:25,359 : INFO : Dirichlet loss: -49.0149
+2022-05-09 03:34:25,359 : INFO : Prediction loss: 11.3648
+2022-05-09 03:34:25,359 : INFO : Diversity loss: 33.1596
+2022-05-09 03:34:25,363 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:34:25,363 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:34:29,362 : INFO : Train AUC: 0.9969
+2022-05-09 03:34:29,365 : INFO : Test AUC: 0.9943
+2022-05-09 03:34:29,365 : INFO : epoch 14/30:
+2022-05-09 03:34:29,365 : INFO : Total loss: 37.1226
+2022-05-09 03:34:29,365 : INFO : SGNS loss: 45.9361
+2022-05-09 03:34:29,365 : INFO : Dirichlet loss: -52.4338
+2022-05-09 03:34:29,366 : INFO : Prediction loss: 10.4606
+2022-05-09 03:34:29,366 : INFO : Diversity loss: 33.1596
+2022-05-09 03:34:29,369 : INFO : concept 1: wardrobe young tool app lid soon windows bring click stuff
+2022-05-09 03:34:29,369 : INFO : concept 2: solid useful connection stock perform particularly view cover send heavy
+2022-05-09 03:34:33,672 : INFO : Train AUC: 0.9987
+2022-05-09 03:34:33,675 : INFO : Test AUC: 0.9982
+2022-05-09 03:34:33,675 : INFO : epoch 15/30:
+2022-05-09 03:34:33,675 : INFO : Total loss: -33.9185
+2022-05-09 03:34:33,675 : INFO : SGNS loss: 24.4431
+2022-05-09 03:34:33,675 : INFO : Dirichlet loss: -99.7958
+2022-05-09 03:34:33,676 : INFO : Prediction loss: 11.5135
+2022-05-09 03:34:33,676 : INFO : Diversity loss: 29.9208
+2022-05-09 03:34:33,679 : INFO : concept 1: use great easy price buy sound equipment phone work brilliantly
+2022-05-09 03:34:33,680 : INFO : concept 2: look fit great easy nice price buy quality assemble brighten
+2022-05-09 03:34:37,939 : INFO : Train AUC: 0.9915
+2022-05-09 03:34:37,942 : INFO : Test AUC: 0.9890
+2022-05-09 03:34:37,942 : INFO : epoch 16/30:
+2022-05-09 03:34:37,943 : INFO : Total loss: -59.2161
+2022-05-09 03:34:37,943 : INFO : SGNS loss: 14.8310
+2022-05-09 03:34:37,943 : INFO : Dirichlet loss: -103.4835
+2022-05-09 03:34:37,943 : INFO : Prediction loss: 11.8794
+2022-05-09 03:34:37,943 : INFO : Diversity loss: 17.5570
+2022-05-09 03:34:37,946 : INFO : concept 1: use phone easy pillow great iron sound buy recommend little
+2022-05-09 03:34:37,947 : INFO : concept 2: look curtain bathroom assemble fit great money easy lamp design
+2022-05-09 03:34:42,258 : INFO : Train AUC: 0.9936
+2022-05-09 03:34:42,261 : INFO : Test AUC: 0.9915
+2022-05-09 03:34:42,261 : INFO : epoch 17/30:
+2022-05-09 03:34:42,261 : INFO : Total loss: -69.4879
+2022-05-09 03:34:42,262 : INFO : SGNS loss: 14.7247
+2022-05-09 03:34:42,262 : INFO : Dirichlet loss: -103.4788
+2022-05-09 03:34:42,262 : INFO : Prediction loss: 11.6753
+2022-05-09 03:34:42,262 : INFO : Diversity loss: 7.5908
+2022-05-09 03:34:42,265 : INFO : concept 1: use sound device iron excellent hoover great price easy remote
+2022-05-09 03:34:42,265 : INFO : concept 2: look fit lamp design lovely cartridge nice assemble item great
+2022-05-09 03:34:46,543 : INFO : Train AUC: 0.9987
+2022-05-09 03:34:46,545 : INFO : Test AUC: 0.9983
+2022-05-09 03:34:46,545 : INFO : epoch 18/30:
+2022-05-09 03:34:46,546 : INFO : Total loss: -73.7733
+2022-05-09 03:34:46,546 : INFO : SGNS loss: 14.7174
+2022-05-09 03:34:46,546 : INFO : Dirichlet loss: -103.4673
+2022-05-09 03:34:46,546 : INFO : Prediction loss: 11.6015
+2022-05-09 03:34:46,546 : INFO : Diversity loss: 3.3751
+2022-05-09 03:34:46,550 : INFO : concept 1: picture use great sound blind work duvet suction easy mattress
+2022-05-09 03:34:46,550 : INFO : concept 2: bin hang great bulb look curtain cooker lamp assemble lovely
+2022-05-09 03:34:50,827 : INFO : Train AUC: 0.9914
+2022-05-09 03:34:50,830 : INFO : Test AUC: 0.9889
+2022-05-09 03:34:50,830 : INFO : epoch 19/30:
+2022-05-09 03:34:50,830 : INFO : Total loss: -75.0190
+2022-05-09 03:34:50,831 : INFO : SGNS loss: 14.7195
+2022-05-09 03:34:50,831 : INFO : Dirichlet loss: -103.4629
+2022-05-09 03:34:50,831 : INFO : Prediction loss: 11.8485
+2022-05-09 03:34:50,831 : INFO : Diversity loss: 1.8760
+2022-05-09 03:34:50,834 : INFO : concept 1: use pillow phone great duvet print sound easy amazing buy
+2022-05-09 03:34:50,835 : INFO : concept 2: look curtain hole assemble fit sturdy cheap mat design great
+2022-05-09 03:34:55,135 : INFO : Train AUC: 0.9935
+2022-05-09 03:34:55,138 : INFO : Test AUC: 0.9913
+2022-05-09 03:34:55,138 : INFO : epoch 20/30:
+2022-05-09 03:34:55,139 : INFO : Total loss: -75.7788
+2022-05-09 03:34:55,139 : INFO : SGNS loss: 14.7197
+2022-05-09 03:34:55,139 : INFO : Dirichlet loss: -103.4580
+2022-05-09 03:34:55,139 : INFO : Prediction loss: 11.7116
+2022-05-09 03:34:55,139 : INFO : Diversity loss: 1.2480
+2022-05-09 03:34:55,143 : INFO : concept 1: phone easy great recommend buy carpet use sound wash work
+2022-05-09 03:34:55,143 : INFO : concept 2: nice assemble look fit curtain money damage great easy buy
+2022-05-09 03:34:59,406 : INFO : Train AUC: 0.9987
+2022-05-09 03:34:59,408 : INFO : Test AUC: 0.9982
+2022-05-09 03:34:59,409 : INFO : epoch 21/30:
+2022-05-09 03:34:59,409 : INFO : Total loss: -76.2121
+2022-05-09 03:34:59,409 : INFO : SGNS loss: 14.7199
+2022-05-09 03:34:59,409 : INFO : Dirichlet loss: -103.4602
+2022-05-09 03:34:59,409 : INFO : Prediction loss: 11.5914
+2022-05-09 03:34:59,409 : INFO : Diversity loss: 0.9367
+2022-05-09 03:34:59,412 : INFO : concept 1: easy great phone pillow iron use carpet dyson mattress new
+2022-05-09 03:34:59,413 : INFO : concept 2: curtain fit shade assemble look design nice quality easy great
+2022-05-09 03:35:03,692 : INFO : Train AUC: 0.9913
+2022-05-09 03:35:03,694 : INFO : Test AUC: 0.9890
+2022-05-09 03:35:03,695 : INFO : epoch 22/30:
+2022-05-09 03:35:03,695 : INFO : Total loss: -76.1513
+2022-05-09 03:35:03,695 : INFO : SGNS loss: 14.7168
+2022-05-09 03:35:03,695 : INFO : Dirichlet loss: -103.4549
+2022-05-09 03:35:03,695 : INFO : Prediction loss: 11.8235
+2022-05-09 03:35:03,695 : INFO : Diversity loss: 0.7634
+2022-05-09 03:35:03,699 : INFO : concept 1: phone sky use great excellent lot pillow easy price quiet
+2022-05-09 03:35:03,699 : INFO : concept 2: look shade fit nice great quality pretty white money price
+2022-05-09 03:35:07,997 : INFO : Train AUC: 0.9934
+2022-05-09 03:35:07,999 : INFO : Test AUC: 0.9914
+2022-05-09 03:35:08,000 : INFO : epoch 23/30:
+2022-05-09 03:35:08,000 : INFO : Total loss: -76.3884
+2022-05-09 03:35:08,000 : INFO : SGNS loss: 14.7178
+2022-05-09 03:35:08,000 : INFO : Dirichlet loss: -103.4492
+2022-05-09 03:35:08,000 : INFO : Prediction loss: 11.6834
+2022-05-09 03:35:08,000 : INFO : Diversity loss: 0.6596
+2022-05-09 03:35:08,003 : INFO : concept 1: great sound tablet old work use buy excellent easy connect
+2022-05-09 03:35:08,004 : INFO : concept 2: look mirror nice design lamp fit great buy bin material
+2022-05-09 03:35:12,265 : INFO : Train AUC: 0.9987
+2022-05-09 03:35:12,269 : INFO : Test AUC: 0.9981
+2022-05-09 03:35:12,269 : INFO : epoch 24/30:
+2022-05-09 03:35:12,269 : INFO : Total loss: -76.5506
+2022-05-09 03:35:12,269 : INFO : SGNS loss: 14.7173
+2022-05-09 03:35:12,269 : INFO : Dirichlet loss: -103.4666
+2022-05-09 03:35:12,269 : INFO : Prediction loss: 11.6043
+2022-05-09 03:35:12,270 : INFO : Diversity loss: 0.5945
+2022-05-09 03:35:12,273 : INFO : concept 1: use iron great buy sound easy mattress television ipad work
+2022-05-09 03:35:12,273 : INFO : concept 2: sturdy fit assemble look buy red cheap lamp great cartridge
+2022-05-09 03:35:16,561 : INFO : Train AUC: 0.9913
+2022-05-09 03:35:16,564 : INFO : Test AUC: 0.9887
+2022-05-09 03:35:16,564 : INFO : epoch 25/30:
+2022-05-09 03:35:16,564 : INFO : Total loss: -76.3947
+2022-05-09 03:35:16,565 : INFO : SGNS loss: 14.7155
+2022-05-09 03:35:16,565 : INFO : Dirichlet loss: -103.4655
+2022-05-09 03:35:16,565 : INFO : Prediction loss: 11.8029
+2022-05-09 03:35:16,565 : INFO : Diversity loss: 0.5524
+2022-05-09 03:35:16,568 : INFO : concept 1: use easy great performance buy cleaner picture temperature microwave duvet
+2022-05-09 03:35:16,569 : INFO : concept 2: look curtain cheap nice cartridge plastic solution great easy screw
+2022-05-09 03:35:20,859 : INFO : Train AUC: 0.9934
+2022-05-09 03:35:20,861 : INFO : Test AUC: 0.9913
+2022-05-09 03:35:20,862 : INFO : epoch 26/30:
+2022-05-09 03:35:20,862 : INFO : Total loss: -76.5635
+2022-05-09 03:35:20,862 : INFO : SGNS loss: 14.7155
+2022-05-09 03:35:20,862 : INFO : Dirichlet loss: -103.4569
+2022-05-09 03:35:20,862 : INFO : Prediction loss: 11.6530
+2022-05-09 03:35:20,862 : INFO : Diversity loss: 0.5249
+2022-05-09 03:35:20,865 : INFO : concept 1: use complicated sound pillow easy mattress excellent great work purchase
+2022-05-09 03:35:20,866 : INFO : concept 2: drill look lamp purchase curtain nice sturdy shelf buy price
+2022-05-09 03:35:25,132 : INFO : Train AUC: 0.9986
+2022-05-09 03:35:25,134 : INFO : Test AUC: 0.9981
+2022-05-09 03:35:25,135 : INFO : epoch 27/30:
+2022-05-09 03:35:25,135 : INFO : Total loss: -76.6727
+2022-05-09 03:35:25,135 : INFO : SGNS loss: 14.7139
+2022-05-09 03:35:25,135 : INFO : Dirichlet loss: -103.4555
+2022-05-09 03:35:25,135 : INFO : Prediction loss: 11.5623
+2022-05-09 03:35:25,135 : INFO : Diversity loss: 0.5067
+2022-05-09 03:35:25,138 : INFO : concept 1: sound use great easy buy picture happy microwave quality recommend
+2022-05-09 03:35:25,139 : INFO : concept 2: look sturdy great pole fit easy quality curtain toaster buy
+2022-05-09 03:35:29,412 : INFO : Train AUC: 0.9912
+2022-05-09 03:35:29,415 : INFO : Test AUC: 0.9886
+2022-05-09 03:35:29,415 : INFO : epoch 28/30:
+2022-05-09 03:35:29,415 : INFO : Total loss: -76.4160
+2022-05-09 03:35:29,415 : INFO : SGNS loss: 14.7150
+2022-05-09 03:35:29,415 : INFO : Dirichlet loss: -103.4663
+2022-05-09 03:35:29,415 : INFO : Prediction loss: 11.8406
+2022-05-09 03:35:29,415 : INFO : Diversity loss: 0.4947
+2022-05-09 03:35:29,418 : INFO : concept 1: use phone samsung easy sound vacuum great buy brand warm
+2022-05-09 03:35:29,419 : INFO : concept 2: look lovely door great quality design buy easy fit size
+2022-05-09 03:35:33,706 : INFO : Train AUC: 0.9933
+2022-05-09 03:35:33,708 : INFO : Test AUC: 0.9912
+2022-05-09 03:35:33,709 : INFO : epoch 29/30:
+2022-05-09 03:35:33,709 : INFO : Total loss: -76.6212
+2022-05-09 03:35:33,709 : INFO : SGNS loss: 14.7146
+2022-05-09 03:35:33,709 : INFO : Dirichlet loss: -103.4668
+2022-05-09 03:35:33,709 : INFO : Prediction loss: 11.6441
+2022-05-09 03:35:33,709 : INFO : Diversity loss: 0.4868
+2022-05-09 03:35:33,713 : INFO : concept 1: use easy great picture quick carpet phone device amazing microwave
+2022-05-09 03:35:33,713 : INFO : concept 2: lamp fit sturdy white easy item look great nice curtain

@@ -1,0 +1,300 @@
+2022-05-09 13:26:01,214 : INFO : Train AUC: 0.4918
+2022-05-09 13:26:01,218 : INFO : Test AUC: 0.4939
+2022-05-09 13:26:01,218 : INFO : epoch 0/30:
+2022-05-09 13:26:01,218 : INFO : Total loss: 1979.7146
+2022-05-09 13:26:01,219 : INFO : SGNS loss: 46.0462
+2022-05-09 13:26:01,219 : INFO : Dirichlet loss: -6513.6500
+2022-05-09 13:26:01,219 : INFO : Prediction loss: 8115.7394
+2022-05-09 13:26:01,219 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:01,224 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:01,224 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:06,189 : INFO : Train AUC: 0.5014
+2022-05-09 13:26:06,193 : INFO : Test AUC: 0.5010
+2022-05-09 13:26:06,193 : INFO : epoch 1/30:
+2022-05-09 13:26:06,193 : INFO : Total loss: -3227.2815
+2022-05-09 13:26:06,194 : INFO : SGNS loss: 46.0506
+2022-05-09 13:26:06,194 : INFO : Dirichlet loss: -5699.4197
+2022-05-09 13:26:06,194 : INFO : Prediction loss: 2094.5086
+2022-05-09 13:26:06,194 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:06,199 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:06,199 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:11,125 : INFO : Train AUC: 0.0664
+2022-05-09 13:26:11,128 : INFO : Test AUC: 0.0690
+2022-05-09 13:26:11,129 : INFO : epoch 2/30:
+2022-05-09 13:26:11,129 : INFO : Total loss: -7421.7422
+2022-05-09 13:26:11,129 : INFO : SGNS loss: 46.0900
+2022-05-09 13:26:11,129 : INFO : Dirichlet loss: -7877.7254
+2022-05-09 13:26:11,130 : INFO : Prediction loss: 78.3141
+2022-05-09 13:26:11,130 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:11,135 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:11,135 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:16,101 : INFO : Train AUC: 0.3628
+2022-05-09 13:26:16,104 : INFO : Test AUC: 0.3419
+2022-05-09 13:26:16,105 : INFO : epoch 3/30:
+2022-05-09 13:26:16,105 : INFO : Total loss: -3735.1963
+2022-05-09 13:26:16,105 : INFO : SGNS loss: 46.0889
+2022-05-09 13:26:16,105 : INFO : Dirichlet loss: -4142.2243
+2022-05-09 13:26:16,106 : INFO : Prediction loss: 29.3600
+2022-05-09 13:26:16,106 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:16,110 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:16,111 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:21,030 : INFO : Train AUC: 0.5651
+2022-05-09 13:26:21,034 : INFO : Test AUC: 0.5398
+2022-05-09 13:26:21,034 : INFO : epoch 4/30:
+2022-05-09 13:26:21,034 : INFO : Total loss: -3499.0417
+2022-05-09 13:26:21,035 : INFO : SGNS loss: 46.0765
+2022-05-09 13:26:21,035 : INFO : Dirichlet loss: -3889.4186
+2022-05-09 13:26:21,035 : INFO : Prediction loss: 12.7215
+2022-05-09 13:26:21,035 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:21,040 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:21,040 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:26,067 : INFO : Train AUC: 0.1123
+2022-05-09 13:26:26,071 : INFO : Test AUC: 0.1109
+2022-05-09 13:26:26,071 : INFO : epoch 5/30:
+2022-05-09 13:26:26,071 : INFO : Total loss: -3991.4131
+2022-05-09 13:26:26,072 : INFO : SGNS loss: 46.0817
+2022-05-09 13:26:26,072 : INFO : Dirichlet loss: -4377.1163
+2022-05-09 13:26:26,072 : INFO : Prediction loss: 8.0425
+2022-05-09 13:26:26,072 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:26,077 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:26,078 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:30,985 : INFO : Train AUC: 0.9053
+2022-05-09 13:26:30,989 : INFO : Test AUC: 0.9021
+2022-05-09 13:26:30,990 : INFO : epoch 6/30:
+2022-05-09 13:26:30,990 : INFO : Total loss: -3278.9839
+2022-05-09 13:26:30,990 : INFO : SGNS loss: 46.0837
+2022-05-09 13:26:30,990 : INFO : Dirichlet loss: -3664.3160
+2022-05-09 13:26:30,991 : INFO : Prediction loss: 7.6694
+2022-05-09 13:26:30,991 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:30,996 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:30,996 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:35,871 : INFO : Train AUC: 0.7962
+2022-05-09 13:26:35,876 : INFO : Test AUC: 0.7930
+2022-05-09 13:26:35,876 : INFO : epoch 7/30:
+2022-05-09 13:26:35,877 : INFO : Total loss: -3143.9534
+2022-05-09 13:26:35,877 : INFO : SGNS loss: 46.0813
+2022-05-09 13:26:35,877 : INFO : Dirichlet loss: -3529.0057
+2022-05-09 13:26:35,877 : INFO : Prediction loss: 7.3920
+2022-05-09 13:26:35,878 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:35,883 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:35,883 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:40,784 : INFO : Train AUC: 0.1506
+2022-05-09 13:26:40,787 : INFO : Test AUC: 0.1494
+2022-05-09 13:26:40,788 : INFO : epoch 8/30:
+2022-05-09 13:26:40,788 : INFO : Total loss: -3056.7592
+2022-05-09 13:26:40,788 : INFO : SGNS loss: 46.0834
+2022-05-09 13:26:40,788 : INFO : Dirichlet loss: -3441.8085
+2022-05-09 13:26:40,789 : INFO : Prediction loss: 7.3868
+2022-05-09 13:26:40,789 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:40,794 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:40,794 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:45,735 : INFO : Train AUC: 0.9117
+2022-05-09 13:26:45,738 : INFO : Test AUC: 0.9085
+2022-05-09 13:26:45,739 : INFO : epoch 9/30:
+2022-05-09 13:26:45,739 : INFO : Total loss: -3026.8178
+2022-05-09 13:26:45,739 : INFO : SGNS loss: 46.0741
+2022-05-09 13:26:45,740 : INFO : Dirichlet loss: -3412.0326
+2022-05-09 13:26:45,740 : INFO : Prediction loss: 7.5617
+2022-05-09 13:26:45,740 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:45,745 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:45,745 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:50,599 : INFO : Train AUC: 0.8037
+2022-05-09 13:26:50,602 : INFO : Test AUC: 0.7993
+2022-05-09 13:26:50,603 : INFO : epoch 10/30:
+2022-05-09 13:26:50,603 : INFO : Total loss: -3018.2470
+2022-05-09 13:26:50,603 : INFO : SGNS loss: 46.0791
+2022-05-09 13:26:50,603 : INFO : Dirichlet loss: -3403.2141
+2022-05-09 13:26:50,604 : INFO : Prediction loss: 7.3090
+2022-05-09 13:26:50,604 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:50,608 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:50,609 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:26:55,520 : INFO : Train AUC: 0.1488
+2022-05-09 13:26:55,524 : INFO : Test AUC: 0.1471
+2022-05-09 13:26:55,524 : INFO : epoch 11/30:
+2022-05-09 13:26:55,525 : INFO : Total loss: -3079.1897
+2022-05-09 13:26:55,525 : INFO : SGNS loss: 46.0790
+2022-05-09 13:26:55,525 : INFO : Dirichlet loss: -3464.1774
+2022-05-09 13:26:55,525 : INFO : Prediction loss: 7.3296
+2022-05-09 13:26:55,525 : INFO : Diversity loss: 331.5790
+2022-05-09 13:26:55,530 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:26:55,531 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:27:00,526 : INFO : Train AUC: 0.9133
+2022-05-09 13:27:00,531 : INFO : Test AUC: 0.9084
+2022-05-09 13:27:00,534 : INFO : epoch 12/30:
+2022-05-09 13:27:00,534 : INFO : Total loss: -2855.5222
+2022-05-09 13:27:00,534 : INFO : SGNS loss: 46.0766
+2022-05-09 13:27:00,534 : INFO : Dirichlet loss: -3240.6837
+2022-05-09 13:27:00,534 : INFO : Prediction loss: 7.5059
+2022-05-09 13:27:00,535 : INFO : Diversity loss: 331.5790
+2022-05-09 13:27:00,554 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:27:00,554 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:27:05,479 : INFO : Train AUC: 0.8067
+2022-05-09 13:27:05,483 : INFO : Test AUC: 0.7986
+2022-05-09 13:27:05,483 : INFO : epoch 13/30:
+2022-05-09 13:27:05,483 : INFO : Total loss: -3004.5623
+2022-05-09 13:27:05,484 : INFO : SGNS loss: 46.0776
+2022-05-09 13:27:05,484 : INFO : Dirichlet loss: -3389.4731
+2022-05-09 13:27:05,484 : INFO : Prediction loss: 7.2541
+2022-05-09 13:27:05,484 : INFO : Diversity loss: 331.5790
+2022-05-09 13:27:05,489 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:27:05,489 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:27:10,397 : INFO : Train AUC: 0.1464
+2022-05-09 13:27:10,400 : INFO : Test AUC: 0.1454
+2022-05-09 13:27:10,401 : INFO : epoch 14/30:
+2022-05-09 13:27:10,401 : INFO : Total loss: -3849.4527
+2022-05-09 13:27:10,401 : INFO : SGNS loss: 46.0823
+2022-05-09 13:27:10,401 : INFO : Dirichlet loss: -4234.4657
+2022-05-09 13:27:10,401 : INFO : Prediction loss: 7.3517
+2022-05-09 13:27:10,402 : INFO : Diversity loss: 331.5790
+2022-05-09 13:27:10,406 : INFO : concept 1: tablet bulb carpet connection return son correct daily smart little
+2022-05-09 13:27:10,407 : INFO : concept 2: different dog send total normal performance best point extension suit
+2022-05-09 13:27:16,531 : INFO : Train AUC: 0.9116
+2022-05-09 13:27:16,536 : INFO : Test AUC: 0.9157
+2022-05-09 13:27:16,536 : INFO : epoch 15/30:
+2022-05-09 13:27:16,536 : INFO : Total loss: -9994.9168
+2022-05-09 13:27:16,537 : INFO : SGNS loss: 22.4816
+2022-05-09 13:27:16,537 : INFO : Dirichlet loss: -10208.3918
+2022-05-09 13:27:16,537 : INFO : Prediction loss: 7.6193
+2022-05-09 13:27:16,537 : INFO : Diversity loss: 183.3741
+2022-05-09 13:27:16,543 : INFO : concept 1: great use easy look buy price money quality fit nice
+2022-05-09 13:27:16,543 : INFO : concept 2: hear leg foot quiet dog fact beautiful soon check floor
+2022-05-09 13:27:22,824 : INFO : Train AUC: 0.7898
+2022-05-09 13:27:22,828 : INFO : Test AUC: 0.7977
+2022-05-09 13:27:22,828 : INFO : epoch 16/30:
+2022-05-09 13:27:22,828 : INFO : Total loss: -10395.8954
+2022-05-09 13:27:22,829 : INFO : SGNS loss: 14.9438
+2022-05-09 13:27:22,829 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:27:22,829 : INFO : Prediction loss: 7.3735
+2022-05-09 13:27:22,829 : INFO : Diversity loss: -56.5799
+2022-05-09 13:27:22,835 : INFO : concept 1: easy great use look buy excellent price money time nice
+2022-05-09 13:27:22,835 : INFO : concept 2: tight delighted cooking scratch slice let burn fixing unfortunately weather
+2022-05-09 13:27:29,029 : INFO : Train AUC: 0.1479
+2022-05-09 13:27:29,032 : INFO : Test AUC: 0.1471
+2022-05-09 13:27:29,033 : INFO : epoch 17/30:
+2022-05-09 13:27:29,033 : INFO : Total loss: -10481.9528
+2022-05-09 13:27:29,033 : INFO : SGNS loss: 14.8994
+2022-05-09 13:27:29,033 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:27:29,034 : INFO : Prediction loss: 7.4102
+2022-05-09 13:27:29,034 : INFO : Diversity loss: -142.6297
+2022-05-09 13:27:29,039 : INFO : concept 1: buy great money look use ok price easy recommend need
+2022-05-09 13:27:29,039 : INFO : concept 2: fixing improve grey angle durable app remote detail tap pattern
+2022-05-09 13:27:35,328 : INFO : Train AUC: 0.9115
+2022-05-09 13:27:35,332 : INFO : Test AUC: 0.9156
+2022-05-09 13:27:35,332 : INFO : epoch 18/30:
+2022-05-09 13:27:35,332 : INFO : Total loss: -10517.9737
+2022-05-09 13:27:35,332 : INFO : SGNS loss: 14.9021
+2022-05-09 13:27:35,333 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:27:35,333 : INFO : Prediction loss: 7.6144
+2022-05-09 13:27:35,333 : INFO : Diversity loss: -178.8573
+2022-05-09 13:27:35,341 : INFO : concept 1: easy money quality great look price buy excellent happy feel
+2022-05-09 13:27:35,341 : INFO : concept 2: intend awkward moment content sort underneath sharp forget rack stock
+2022-05-09 13:27:41,571 : INFO : Train AUC: 0.7903
+2022-05-09 13:27:41,575 : INFO : Test AUC: 0.7977
+2022-05-09 13:27:41,575 : INFO : epoch 19/30:
+2022-05-09 13:27:41,575 : INFO : Total loss: -10531.4324
+2022-05-09 13:27:41,576 : INFO : SGNS loss: 14.9062
+2022-05-09 13:27:41,576 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:27:41,576 : INFO : Prediction loss: 7.3731
+2022-05-09 13:27:41,576 : INFO : Diversity loss: -192.0790
+2022-05-09 13:27:41,581 : INFO : concept 1: easy price use recommend buy great difference work look purchase
+2022-05-09 13:27:41,582 : INFO : concept 2: file guide mainly facility eventually slight note rest blade huge
+2022-05-09 13:27:47,776 : INFO : Train AUC: 0.1466
+2022-05-09 13:27:47,780 : INFO : Test AUC: 0.1459
+2022-05-09 13:27:47,780 : INFO : epoch 20/30:
+2022-05-09 13:27:47,781 : INFO : Total loss: -10537.1451
+2022-05-09 13:27:47,781 : INFO : SGNS loss: 14.9108
+2022-05-09 13:27:47,781 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:27:47,781 : INFO : Prediction loss: 7.3959
+2022-05-09 13:27:47,782 : INFO : Diversity loss: -197.8189
+2022-05-09 13:27:47,786 : INFO : concept 1: buy quality great nice easy little size decent use look
+2022-05-09 13:27:47,786 : INFO : concept 2: mount tile answer impossible eat gap hopefully constantly meet minor
+2022-05-09 13:27:54,133 : INFO : Train AUC: 0.9116
+2022-05-09 13:27:54,137 : INFO : Test AUC: 0.9159
+2022-05-09 13:27:54,137 : INFO : epoch 21/30:
+2022-05-09 13:27:54,137 : INFO : Total loss: -10539.8680
+2022-05-09 13:27:54,137 : INFO : SGNS loss: 14.9130
+2022-05-09 13:27:54,138 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:27:54,138 : INFO : Prediction loss: 7.6250
+2022-05-09 13:27:54,138 : INFO : Diversity loss: -200.7732
+2022-05-09 13:27:54,143 : INFO : concept 1: great easy money lovely use need price buy install look
+2022-05-09 13:27:54,144 : INFO : concept 2: drink poorly hinge trouble arrive hassle fully single limited mount
+2022-05-09 13:28:00,492 : INFO : Train AUC: 0.7946
+2022-05-09 13:28:00,496 : INFO : Test AUC: 0.8011
+2022-05-09 13:28:00,496 : INFO : epoch 22/30:
+2022-05-09 13:28:00,497 : INFO : Total loss: -10541.8338
+2022-05-09 13:28:00,497 : INFO : SGNS loss: 14.9117
+2022-05-09 13:28:00,497 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:28:00,497 : INFO : Prediction loss: 7.3759
+2022-05-09 13:28:00,497 : INFO : Diversity loss: -202.4886
+2022-05-09 13:28:00,503 : INFO : concept 1: easy great look use buy price perfect quality simple criticism
+2022-05-09 13:28:00,503 : INFO : concept 2: advertise looking measure tip gap maybe trouble feed produce versatile
+2022-05-09 13:28:06,779 : INFO : Train AUC: 0.1457
+2022-05-09 13:28:06,783 : INFO : Test AUC: 0.1456
+2022-05-09 13:28:06,783 : INFO : epoch 23/30:
+2022-05-09 13:28:06,783 : INFO : Total loss: -10542.8716
+2022-05-09 13:28:06,784 : INFO : SGNS loss: 14.9162
+2022-05-09 13:28:06,784 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:28:06,784 : INFO : Prediction loss: 7.4185
+2022-05-09 13:28:06,784 : INFO : Diversity loss: -203.5735
+2022-05-09 13:28:06,789 : INFO : concept 1: great easy price purchase look size use time want buy
+2022-05-09 13:28:06,790 : INFO : concept 2: awful mention surprise daily despite content note roll sell robust
+2022-05-09 13:28:12,887 : INFO : Train AUC: 0.9130
+2022-05-09 13:28:12,890 : INFO : Test AUC: 0.9173
+2022-05-09 13:28:12,891 : INFO : epoch 24/30:
+2022-05-09 13:28:12,891 : INFO : Total loss: -10543.4114
+2022-05-09 13:28:12,891 : INFO : SGNS loss: 14.9131
+2022-05-09 13:28:12,891 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:28:12,892 : INFO : Prediction loss: 7.6120
+2022-05-09 13:28:12,892 : INFO : Diversity loss: -204.3037
+2022-05-09 13:28:12,897 : INFO : concept 1: buy use easy great price fit quality work purchase longer
+2022-05-09 13:28:12,897 : INFO : concept 2: bath classy pile yes fixing portable dark beautifully rubber birthday
+2022-05-09 13:28:18,892 : INFO : Train AUC: 0.7915
+2022-05-09 13:28:18,896 : INFO : Test AUC: 0.7981
+2022-05-09 13:28:18,896 : INFO : epoch 25/30:
+2022-05-09 13:28:18,896 : INFO : Total loss: -10544.1771
+2022-05-09 13:28:18,896 : INFO : SGNS loss: 14.9160
+2022-05-09 13:28:18,897 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:28:18,897 : INFO : Prediction loss: 7.3588
+2022-05-09 13:28:18,897 : INFO : Diversity loss: -204.8191
+2022-05-09 13:28:18,902 : INFO : concept 1: great easy price buy excellent money blue look small use
+2022-05-09 13:28:18,902 : INFO : concept 2: answer leg convenient reliable past rating brilliantly roll bowl face
+2022-05-09 13:28:24,913 : INFO : Train AUC: 0.1466
+2022-05-09 13:28:24,917 : INFO : Test AUC: 0.1463
+2022-05-09 13:28:24,917 : INFO : epoch 26/30:
+2022-05-09 13:28:24,917 : INFO : Total loss: -10544.5094
+2022-05-09 13:28:24,917 : INFO : SGNS loss: 14.9166
+2022-05-09 13:28:24,918 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:28:24,918 : INFO : Prediction loss: 7.4035
+2022-05-09 13:28:24,918 : INFO : Diversity loss: -205.1967
+2022-05-09 13:28:24,923 : INFO : concept 1: buy great easy price look money use kettle disappointed quality
+2022-05-09 13:28:24,923 : INFO : concept 2: tiny blender produce plain stable local cartridge saver thoroughly seal
+2022-05-09 13:28:30,990 : INFO : Train AUC: 0.9100
+2022-05-09 13:28:30,994 : INFO : Test AUC: 0.9143
+2022-05-09 13:28:30,994 : INFO : epoch 27/30:
+2022-05-09 13:28:30,994 : INFO : Total loss: -10544.5980
+2022-05-09 13:28:30,995 : INFO : SGNS loss: 14.9136
+2022-05-09 13:28:30,995 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:28:30,995 : INFO : Prediction loss: 7.6027
+2022-05-09 13:28:30,995 : INFO : Diversity loss: -205.4815
+2022-05-09 13:28:31,000 : INFO : concept 1: great use look easy price holder quality buy purchase comfortable
+2022-05-09 13:28:31,000 : INFO : concept 2: write travel gorgeous guide bowl slice graphic mess poorly secure
+2022-05-09 13:28:37,218 : INFO : Train AUC: 0.7920
+2022-05-09 13:28:37,221 : INFO : Test AUC: 0.7982
+2022-05-09 13:28:37,222 : INFO : epoch 28/30:
+2022-05-09 13:28:37,222 : INFO : Total loss: -10545.0522
+2022-05-09 13:28:37,222 : INFO : SGNS loss: 14.9188
+2022-05-09 13:28:37,222 : INFO : Dirichlet loss: -10361.6329
+2022-05-09 13:28:37,223 : INFO : Prediction loss: 7.3636
+2022-05-09 13:28:37,223 : INFO : Diversity loss: -205.7017
+2022-05-09 13:28:37,228 : INFO : concept 1: great use buy price quality excellent easy hose work money
+2022-05-09 13:28:37,228 : INFO : concept 2: brighten brilliantly tank class television obviously patio everyday blow summer
+2022-05-09 13:28:43,420 : INFO : Train AUC: 0.1461
+2022-05-09 13:28:43,424 : INFO : Test AUC: 0.1464
+2022-05-09 13:28:43,424 : INFO : epoch 29/30:
+2022-05-09 13:28:43,424 : INFO : Total loss: -10545.2171
+2022-05-09 13:28:43,425 : INFO : SGNS loss: 14.9139
+2022-05-09 13:28:43,425 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:28:43,425 : INFO : Prediction loss: 7.3770
+2022-05-09 13:28:43,425 : INFO : Diversity loss: -205.8752
+2022-05-09 13:28:43,430 : INFO : concept 1: great use price nice buy look space easy need poor
+2022-05-09 13:28:43,430 : INFO : concept 2: simply limit plain test detail lock packaging scratch disappointing serve

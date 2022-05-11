@@ -1,0 +1,300 @@
+2022-05-09 05:53:04,597 : INFO : Train AUC: 0.7488
+2022-05-09 05:53:04,601 : INFO : Test AUC: 0.7317
+2022-05-09 05:53:04,601 : INFO : epoch 0/30:
+2022-05-09 05:53:04,601 : INFO : Total loss: 3938.1221
+2022-05-09 05:53:04,601 : INFO : SGNS loss: 46.4308
+2022-05-09 05:53:04,601 : INFO : Dirichlet loss: -8.5739
+2022-05-09 05:53:04,601 : INFO : Prediction loss: 584.4784
+2022-05-09 05:53:04,602 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:04,605 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:04,605 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:08,854 : INFO : Train AUC: 0.0429
+2022-05-09 05:53:08,857 : INFO : Test AUC: 0.0422
+2022-05-09 05:53:08,857 : INFO : epoch 1/30:
+2022-05-09 05:53:08,857 : INFO : Total loss: 3439.6991
+2022-05-09 05:53:08,857 : INFO : SGNS loss: 46.4187
+2022-05-09 05:53:08,857 : INFO : Dirichlet loss: -5.7331
+2022-05-09 05:53:08,858 : INFO : Prediction loss: 83.2267
+2022-05-09 05:53:08,858 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:08,861 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:08,861 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:13,049 : INFO : Train AUC: 0.9555
+2022-05-09 05:53:13,052 : INFO : Test AUC: 0.9559
+2022-05-09 05:53:13,053 : INFO : epoch 2/30:
+2022-05-09 05:53:13,053 : INFO : Total loss: 3401.5303
+2022-05-09 05:53:13,053 : INFO : SGNS loss: 46.4329
+2022-05-09 05:53:13,053 : INFO : Dirichlet loss: -9.4798
+2022-05-09 05:53:13,053 : INFO : Prediction loss: 48.7905
+2022-05-09 05:53:13,054 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:13,057 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:13,057 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:17,284 : INFO : Train AUC: 0.9870
+2022-05-09 05:53:17,287 : INFO : Test AUC: 0.9868
+2022-05-09 05:53:17,288 : INFO : epoch 3/30:
+2022-05-09 05:53:17,288 : INFO : Total loss: 3395.2288
+2022-05-09 05:53:17,288 : INFO : SGNS loss: 46.4341
+2022-05-09 05:53:17,288 : INFO : Dirichlet loss: -8.4999
+2022-05-09 05:53:17,288 : INFO : Prediction loss: 41.5079
+2022-05-09 05:53:17,288 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:17,292 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:17,292 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:21,533 : INFO : Train AUC: 0.1128
+2022-05-09 05:53:21,536 : INFO : Test AUC: 0.1152
+2022-05-09 05:53:21,536 : INFO : epoch 4/30:
+2022-05-09 05:53:21,537 : INFO : Total loss: 3398.0121
+2022-05-09 05:53:21,537 : INFO : SGNS loss: 46.4385
+2022-05-09 05:53:21,537 : INFO : Dirichlet loss: -9.0327
+2022-05-09 05:53:21,537 : INFO : Prediction loss: 44.8196
+2022-05-09 05:53:21,537 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:21,541 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:21,541 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:25,788 : INFO : Train AUC: 0.9840
+2022-05-09 05:53:25,791 : INFO : Test AUC: 0.9854
+2022-05-09 05:53:25,792 : INFO : epoch 5/30:
+2022-05-09 05:53:25,792 : INFO : Total loss: 3397.9655
+2022-05-09 05:53:25,792 : INFO : SGNS loss: 46.4435
+2022-05-09 05:53:25,792 : INFO : Dirichlet loss: -9.1215
+2022-05-09 05:53:25,792 : INFO : Prediction loss: 44.8568
+2022-05-09 05:53:25,792 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:25,796 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:25,796 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:30,024 : INFO : Train AUC: 0.9956
+2022-05-09 05:53:30,027 : INFO : Test AUC: 0.9959
+2022-05-09 05:53:30,028 : INFO : epoch 6/30:
+2022-05-09 05:53:30,028 : INFO : Total loss: 3396.2087
+2022-05-09 05:53:30,028 : INFO : SGNS loss: 46.4353
+2022-05-09 05:53:30,028 : INFO : Dirichlet loss: -6.5485
+2022-05-09 05:53:30,028 : INFO : Prediction loss: 40.5353
+2022-05-09 05:53:30,028 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:30,032 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:30,032 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:34,238 : INFO : Train AUC: 0.0869
+2022-05-09 05:53:34,241 : INFO : Test AUC: 0.0838
+2022-05-09 05:53:34,241 : INFO : epoch 7/30:
+2022-05-09 05:53:34,242 : INFO : Total loss: 3400.7947
+2022-05-09 05:53:34,242 : INFO : SGNS loss: 46.4321
+2022-05-09 05:53:34,242 : INFO : Dirichlet loss: -5.5168
+2022-05-09 05:53:34,242 : INFO : Prediction loss: 44.0927
+2022-05-09 05:53:34,242 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:34,245 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:34,245 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:38,440 : INFO : Train AUC: 0.9873
+2022-05-09 05:53:38,443 : INFO : Test AUC: 0.9879
+2022-05-09 05:53:38,444 : INFO : epoch 8/30:
+2022-05-09 05:53:38,444 : INFO : Total loss: 3401.6413
+2022-05-09 05:53:38,444 : INFO : SGNS loss: 46.4306
+2022-05-09 05:53:38,444 : INFO : Dirichlet loss: -4.9119
+2022-05-09 05:53:38,444 : INFO : Prediction loss: 44.3359
+2022-05-09 05:53:38,444 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:38,448 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:38,448 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:42,591 : INFO : Train AUC: 0.9963
+2022-05-09 05:53:42,594 : INFO : Test AUC: 0.9963
+2022-05-09 05:53:42,594 : INFO : epoch 9/30:
+2022-05-09 05:53:42,594 : INFO : Total loss: 3398.2245
+2022-05-09 05:53:42,594 : INFO : SGNS loss: 46.4306
+2022-05-09 05:53:42,594 : INFO : Dirichlet loss: -4.0208
+2022-05-09 05:53:42,595 : INFO : Prediction loss: 40.0280
+2022-05-09 05:53:42,595 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:42,598 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:42,598 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:46,819 : INFO : Train AUC: 0.0690
+2022-05-09 05:53:46,823 : INFO : Test AUC: 0.0708
+2022-05-09 05:53:46,823 : INFO : epoch 10/30:
+2022-05-09 05:53:46,823 : INFO : Total loss: 3402.0547
+2022-05-09 05:53:46,823 : INFO : SGNS loss: 46.4336
+2022-05-09 05:53:46,823 : INFO : Dirichlet loss: -4.1157
+2022-05-09 05:53:46,823 : INFO : Prediction loss: 43.9501
+2022-05-09 05:53:46,824 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:46,827 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:46,827 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:51,027 : INFO : Train AUC: 0.9878
+2022-05-09 05:53:51,030 : INFO : Test AUC: 0.9882
+2022-05-09 05:53:51,031 : INFO : epoch 11/30:
+2022-05-09 05:53:51,031 : INFO : Total loss: 3402.8307
+2022-05-09 05:53:51,031 : INFO : SGNS loss: 46.4300
+2022-05-09 05:53:51,031 : INFO : Dirichlet loss: -3.8242
+2022-05-09 05:53:51,031 : INFO : Prediction loss: 44.4382
+2022-05-09 05:53:51,031 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:51,035 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:51,035 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:55,322 : INFO : Train AUC: 0.9960
+2022-05-09 05:53:55,325 : INFO : Test AUC: 0.9967
+2022-05-09 05:53:55,325 : INFO : epoch 12/30:
+2022-05-09 05:53:55,326 : INFO : Total loss: 3398.7796
+2022-05-09 05:53:55,326 : INFO : SGNS loss: 46.4265
+2022-05-09 05:53:55,326 : INFO : Dirichlet loss: -3.5955
+2022-05-09 05:53:55,326 : INFO : Prediction loss: 40.1619
+2022-05-09 05:53:55,326 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:55,330 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:55,330 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:53:59,490 : INFO : Train AUC: 0.1644
+2022-05-09 05:53:59,493 : INFO : Test AUC: 0.1412
+2022-05-09 05:53:59,494 : INFO : epoch 13/30:
+2022-05-09 05:53:59,494 : INFO : Total loss: 3400.5287
+2022-05-09 05:53:59,494 : INFO : SGNS loss: 46.4324
+2022-05-09 05:53:59,494 : INFO : Dirichlet loss: -5.2705
+2022-05-09 05:53:59,494 : INFO : Prediction loss: 43.5800
+2022-05-09 05:53:59,495 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:53:59,498 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:53:59,498 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:54:03,746 : INFO : Train AUC: 0.9873
+2022-05-09 05:54:03,749 : INFO : Test AUC: 0.9855
+2022-05-09 05:54:03,750 : INFO : epoch 14/30:
+2022-05-09 05:54:03,750 : INFO : Total loss: 3401.7453
+2022-05-09 05:54:03,750 : INFO : SGNS loss: 46.4274
+2022-05-09 05:54:03,750 : INFO : Dirichlet loss: -4.4143
+2022-05-09 05:54:03,750 : INFO : Prediction loss: 43.9455
+2022-05-09 05:54:03,750 : INFO : Diversity loss: 3315.7867
+2022-05-09 05:54:03,754 : INFO : concept 1: blend place arm wife jug offer replace number living law
+2022-05-09 05:54:03,754 : INFO : concept 2: class worried damage online properly certainly warm blender perform relatively
+2022-05-09 05:54:08,250 : INFO : Train AUC: 0.9962
+2022-05-09 05:54:08,253 : INFO : Test AUC: 0.9973
+2022-05-09 05:54:08,254 : INFO : epoch 15/30:
+2022-05-09 05:54:08,254 : INFO : Total loss: 1868.1995
+2022-05-09 05:54:08,254 : INFO : SGNS loss: 22.4130
+2022-05-09 05:54:08,254 : INFO : Dirichlet loss: -10.0327
+2022-05-09 05:54:08,254 : INFO : Prediction loss: 40.3996
+2022-05-09 05:54:08,254 : INFO : Diversity loss: 1815.4196
+2022-05-09 05:54:08,258 : INFO : concept 1: blender disappoint setting cook thank food refund couple run fitting
+2022-05-09 05:54:08,258 : INFO : concept 2: easy great buy use price look quality love money excellent
+2022-05-09 05:54:12,720 : INFO : Train AUC: 0.0747
+2022-05-09 05:54:12,723 : INFO : Test AUC: 0.0774
+2022-05-09 05:54:12,723 : INFO : epoch 16/30:
+2022-05-09 05:54:12,723 : INFO : Total loss: -546.9762
+2022-05-09 05:54:12,723 : INFO : SGNS loss: 14.9394
+2022-05-09 05:54:12,723 : INFO : Dirichlet loss: -10.3604
+2022-05-09 05:54:12,724 : INFO : Prediction loss: 44.1780
+2022-05-09 05:54:12,724 : INFO : Diversity loss: -595.7332
+2022-05-09 05:54:12,727 : INFO : concept 1: pattern cord panel special draw leg lock awesome requirement trouble
+2022-05-09 05:54:12,727 : INFO : concept 2: use buy easy nice look great quality money price excellent
+2022-05-09 05:54:17,283 : INFO : Train AUC: 0.9878
+2022-05-09 05:54:17,286 : INFO : Test AUC: 0.9912
+2022-05-09 05:54:17,287 : INFO : epoch 17/30:
+2022-05-09 05:54:17,287 : INFO : Total loss: -1411.0097
+2022-05-09 05:54:17,287 : INFO : SGNS loss: 14.8981
+2022-05-09 05:54:17,287 : INFO : Dirichlet loss: -10.3600
+2022-05-09 05:54:17,287 : INFO : Prediction loss: 44.4350
+2022-05-09 05:54:17,288 : INFO : Diversity loss: -1459.9828
+2022-05-09 05:54:17,291 : INFO : concept 1: exchange actual test worry best meet mini snap holiday careful
+2022-05-09 05:54:17,291 : INFO : concept 2: great look quality easy use price buy small time need
+2022-05-09 05:54:21,876 : INFO : Train AUC: 0.9956
+2022-05-09 05:54:21,879 : INFO : Test AUC: 0.9969
+2022-05-09 05:54:21,879 : INFO : epoch 18/30:
+2022-05-09 05:54:21,879 : INFO : Total loss: -1762.5090
+2022-05-09 05:54:21,880 : INFO : SGNS loss: 14.9046
+2022-05-09 05:54:21,880 : INFO : Dirichlet loss: -10.3593
+2022-05-09 05:54:21,880 : INFO : Prediction loss: 40.4399
+2022-05-09 05:54:21,880 : INFO : Diversity loss: -1807.4943
+2022-05-09 05:54:21,884 : INFO : concept 1: lock slot update total lay file cleaning scratch facility dirt
+2022-05-09 05:54:21,884 : INFO : concept 2: easy use great quality look fit price buy fresh worth
+2022-05-09 05:54:26,398 : INFO : Train AUC: 0.0767
+2022-05-09 05:54:26,401 : INFO : Test AUC: 0.0791
+2022-05-09 05:54:26,401 : INFO : epoch 19/30:
+2022-05-09 05:54:26,401 : INFO : Total loss: -1883.6387
+2022-05-09 05:54:26,401 : INFO : SGNS loss: 14.9096
+2022-05-09 05:54:26,401 : INFO : Dirichlet loss: -10.3585
+2022-05-09 05:54:26,401 : INFO : Prediction loss: 44.0016
+2022-05-09 05:54:26,402 : INFO : Diversity loss: -1932.1914
+2022-05-09 05:54:26,405 : INFO : concept 1: best solution immediately click diy surprisingly sell accurate brush cosy
+2022-05-09 05:54:26,405 : INFO : concept 2: easy love buy quality great bit job feature recommend excellent
+2022-05-09 05:54:30,943 : INFO : Train AUC: 0.9881
+2022-05-09 05:54:30,946 : INFO : Test AUC: 0.9914
+2022-05-09 05:54:30,946 : INFO : epoch 20/30:
+2022-05-09 05:54:30,946 : INFO : Total loss: -1936.9405
+2022-05-09 05:54:30,946 : INFO : SGNS loss: 14.9128
+2022-05-09 05:54:30,946 : INFO : Dirichlet loss: -10.3581
+2022-05-09 05:54:30,947 : INFO : Prediction loss: 44.5747
+2022-05-09 05:54:30,947 : INFO : Diversity loss: -1986.0699
+2022-05-09 05:54:30,950 : INFO : concept 1: affordable unable brill clip exist windows daily loose click stainless
+2022-05-09 05:54:30,950 : INFO : concept 2: quality use money easy pleased argos excellent lot great price
+2022-05-09 05:54:35,456 : INFO : Train AUC: 0.9963
+2022-05-09 05:54:35,459 : INFO : Test AUC: 0.9973
+2022-05-09 05:54:35,460 : INFO : epoch 21/30:
+2022-05-09 05:54:35,460 : INFO : Total loss: -1968.9921
+2022-05-09 05:54:35,460 : INFO : SGNS loss: 14.9119
+2022-05-09 05:54:35,460 : INFO : Dirichlet loss: -10.3579
+2022-05-09 05:54:35,460 : INFO : Prediction loss: 40.2392
+2022-05-09 05:54:35,460 : INFO : Diversity loss: -2013.7854
+2022-05-09 05:54:35,464 : INFO : concept 1: enjoy durable total digital advise scratch requirement rating pet future
+2022-05-09 05:54:35,464 : INFO : concept 2: great easy buy use need bit price money crease lot
+2022-05-09 05:54:39,919 : INFO : Train AUC: 0.0732
+2022-05-09 05:54:39,922 : INFO : Test AUC: 0.0753
+2022-05-09 05:54:39,923 : INFO : epoch 22/30:
+2022-05-09 05:54:39,923 : INFO : Total loss: -1981.2590
+2022-05-09 05:54:39,923 : INFO : SGNS loss: 14.9131
+2022-05-09 05:54:39,923 : INFO : Dirichlet loss: -10.3579
+2022-05-09 05:54:39,923 : INFO : Prediction loss: 44.0803
+2022-05-09 05:54:39,923 : INFO : Diversity loss: -2029.8945
+2022-05-09 05:54:39,927 : INFO : concept 1: baby enjoy travel holiday tend sorry trouble surface feed figure
+2022-05-09 05:54:39,927 : INFO : concept 2: item quality great look fit easy money need like rug
+2022-05-09 05:54:44,441 : INFO : Train AUC: 0.9892
+2022-05-09 05:54:44,444 : INFO : Test AUC: 0.9922
+2022-05-09 05:54:44,444 : INFO : epoch 23/30:
+2022-05-09 05:54:44,445 : INFO : Total loss: -1991.1039
+2022-05-09 05:54:44,445 : INFO : SGNS loss: 14.9161
+2022-05-09 05:54:44,445 : INFO : Dirichlet loss: -10.3581
+2022-05-09 05:54:44,445 : INFO : Prediction loss: 44.4356
+2022-05-09 05:54:44,445 : INFO : Diversity loss: -2040.0975
+2022-05-09 05:54:44,449 : INFO : concept 1: happen diy tend toy trouble height finally leg improvement length
+2022-05-09 05:54:44,449 : INFO : concept 2: price easy use quality look great buy perfectly sturdy understand
+2022-05-09 05:54:48,932 : INFO : Train AUC: 0.9958
+2022-05-09 05:54:48,935 : INFO : Test AUC: 0.9971
+2022-05-09 05:54:48,936 : INFO : epoch 24/30:
+2022-05-09 05:54:48,936 : INFO : Total loss: -2002.0910
+2022-05-09 05:54:48,936 : INFO : SGNS loss: 14.9152
+2022-05-09 05:54:48,936 : INFO : Dirichlet loss: -10.3580
+2022-05-09 05:54:48,936 : INFO : Prediction loss: 40.3307
+2022-05-09 05:54:48,936 : INFO : Diversity loss: -2046.9789
+2022-05-09 05:54:48,940 : INFO : concept 1: surprise cord mode mention height dial pain definately rest bottle
+2022-05-09 05:54:48,940 : INFO : concept 2: easy great buy price money use fit quality cheap inside
+2022-05-09 05:54:53,445 : INFO : Train AUC: 0.0741
+2022-05-09 05:54:53,449 : INFO : Test AUC: 0.0761
+2022-05-09 05:54:53,450 : INFO : epoch 25/30:
+2022-05-09 05:54:53,450 : INFO : Total loss: -2003.1161
+2022-05-09 05:54:53,450 : INFO : SGNS loss: 14.9162
+2022-05-09 05:54:53,450 : INFO : Dirichlet loss: -10.3580
+2022-05-09 05:54:53,450 : INFO : Prediction loss: 44.1729
+2022-05-09 05:54:53,450 : INFO : Diversity loss: -2051.8471
+2022-05-09 05:54:53,454 : INFO : concept 1: xmas film maybe windows fresh alternative cold tricky arm brighten
+2022-05-09 05:54:53,454 : INFO : concept 2: quality love argos price great buy look nice easy use
+2022-05-09 05:54:58,022 : INFO : Train AUC: 0.9889
+2022-05-09 05:54:58,025 : INFO : Test AUC: 0.9921
+2022-05-09 05:54:58,026 : INFO : epoch 26/30:
+2022-05-09 05:54:58,026 : INFO : Total loss: -2006.3642
+2022-05-09 05:54:58,026 : INFO : SGNS loss: 14.9196
+2022-05-09 05:54:58,026 : INFO : Dirichlet loss: -10.3582
+2022-05-09 05:54:58,026 : INFO : Prediction loss: 44.4966
+2022-05-09 05:54:58,026 : INFO : Diversity loss: -2055.4223
+2022-05-09 05:54:58,030 : INFO : concept 1: wow awful special hobbs requirement eat elegant forget smooth arm
+2022-05-09 05:54:58,030 : INFO : concept 2: buy great price need quality replacement tray come easy use
+2022-05-09 05:55:02,582 : INFO : Train AUC: 0.9960
+2022-05-09 05:55:02,585 : INFO : Test AUC: 0.9972
+2022-05-09 05:55:02,586 : INFO : epoch 27/30:
+2022-05-09 05:55:02,586 : INFO : Total loss: -2013.2442
+2022-05-09 05:55:02,586 : INFO : SGNS loss: 14.9195
+2022-05-09 05:55:02,586 : INFO : Dirichlet loss: -10.3582
+2022-05-09 05:55:02,586 : INFO : Prediction loss: 40.3225
+2022-05-09 05:55:02,586 : INFO : Diversity loss: -2058.1280
+2022-05-09 05:55:02,590 : INFO : concept 1: mess tip granddaughter main crease brilliantly wife daily television immediately
+2022-05-09 05:55:02,590 : INFO : concept 2: price money great save quality room easy fit buy purchase
+2022-05-09 05:55:07,071 : INFO : Train AUC: 0.0750
+2022-05-09 05:55:07,075 : INFO : Test AUC: 0.0775
+2022-05-09 05:55:07,075 : INFO : epoch 28/30:
+2022-05-09 05:55:07,075 : INFO : Total loss: -2011.6407
+2022-05-09 05:55:07,075 : INFO : SGNS loss: 14.9184
+2022-05-09 05:55:07,076 : INFO : Dirichlet loss: -10.3582
+2022-05-09 05:55:07,076 : INFO : Prediction loss: 44.0261
+2022-05-09 05:55:07,076 : INFO : Diversity loss: -2060.2270
+2022-05-09 05:55:07,079 : INFO : concept 1: improvement mum note finger bend chrome measure app slight initially
+2022-05-09 05:55:07,080 : INFO : concept 2: easy money buy great look complete perfect recommend use day
+2022-05-09 05:55:11,604 : INFO : Train AUC: 0.9872
+2022-05-09 05:55:11,607 : INFO : Test AUC: 0.9906
+2022-05-09 05:55:11,607 : INFO : epoch 29/30:
+2022-05-09 05:55:11,608 : INFO : Total loss: -2012.8601
+2022-05-09 05:55:11,608 : INFO : SGNS loss: 14.9198
+2022-05-09 05:55:11,608 : INFO : Dirichlet loss: -10.3581
+2022-05-09 05:55:11,608 : INFO : Prediction loss: 44.4672
+2022-05-09 05:55:11,608 : INFO : Diversity loss: -2061.8891
+2022-05-09 05:55:11,611 : INFO : concept 1: constantly beautifully thoroughly hobbs face chrome date crease minor living
+2022-05-09 05:55:11,612 : INFO : concept 2: easy quality use nice buy excellent great money look price

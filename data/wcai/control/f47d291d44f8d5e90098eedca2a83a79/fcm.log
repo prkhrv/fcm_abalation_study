@@ -1,0 +1,300 @@
+2022-05-09 03:25:11,581 : INFO : Train AUC: 0.4650
+2022-05-09 03:25:11,585 : INFO : Test AUC: 0.4672
+2022-05-09 03:25:11,585 : INFO : epoch 0/30:
+2022-05-09 03:25:11,585 : INFO : Total loss: 4848006.3502
+2022-05-09 03:25:11,585 : INFO : SGNS loss: 46.7072
+2022-05-09 03:25:11,585 : INFO : Dirichlet loss: -9.8602
+2022-05-09 03:25:11,585 : INFO : Prediction loss: 4844653.7035
+2022-05-09 03:25:11,586 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:11,589 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:11,589 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:15,566 : INFO : Train AUC: 0.3704
+2022-05-09 03:25:15,568 : INFO : Test AUC: 0.3973
+2022-05-09 03:25:15,569 : INFO : epoch 1/30:
+2022-05-09 03:25:15,569 : INFO : Total loss: 344225.0542
+2022-05-09 03:25:15,569 : INFO : SGNS loss: 46.5278
+2022-05-09 03:25:15,569 : INFO : Dirichlet loss: -9.9569
+2022-05-09 03:25:15,569 : INFO : Prediction loss: 340872.6835
+2022-05-09 03:25:15,569 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:15,573 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:15,573 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:19,687 : INFO : Train AUC: 0.6273
+2022-05-09 03:25:19,689 : INFO : Test AUC: 0.6509
+2022-05-09 03:25:19,690 : INFO : epoch 2/30:
+2022-05-09 03:25:19,690 : INFO : Total loss: 59776.8174
+2022-05-09 03:25:19,690 : INFO : SGNS loss: 46.4420
+2022-05-09 03:25:19,690 : INFO : Dirichlet loss: -10.3616
+2022-05-09 03:25:19,690 : INFO : Prediction loss: 56424.9372
+2022-05-09 03:25:19,690 : INFO : Diversity loss: 3315.7998
+2022-05-09 03:25:19,693 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:19,694 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:23,742 : INFO : Train AUC: 0.9142
+2022-05-09 03:25:23,746 : INFO : Test AUC: 0.9192
+2022-05-09 03:25:23,746 : INFO : epoch 3/30:
+2022-05-09 03:25:23,746 : INFO : Total loss: 22190.2419
+2022-05-09 03:25:23,746 : INFO : SGNS loss: 46.4417
+2022-05-09 03:25:23,746 : INFO : Dirichlet loss: -10.3616
+2022-05-09 03:25:23,747 : INFO : Prediction loss: 18838.3620
+2022-05-09 03:25:23,747 : INFO : Diversity loss: 3315.7998
+2022-05-09 03:25:23,750 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:23,750 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:27,739 : INFO : Train AUC: 0.9164
+2022-05-09 03:25:27,742 : INFO : Test AUC: 0.9104
+2022-05-09 03:25:27,742 : INFO : epoch 4/30:
+2022-05-09 03:25:27,742 : INFO : Total loss: 7240.7810
+2022-05-09 03:25:27,742 : INFO : SGNS loss: 46.4379
+2022-05-09 03:25:27,742 : INFO : Dirichlet loss: -10.3616
+2022-05-09 03:25:27,742 : INFO : Prediction loss: 3888.9049
+2022-05-09 03:25:27,743 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:27,746 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:27,746 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:31,763 : INFO : Train AUC: 0.9898
+2022-05-09 03:25:31,766 : INFO : Test AUC: 0.9882
+2022-05-09 03:25:31,766 : INFO : epoch 5/30:
+2022-05-09 03:25:31,766 : INFO : Total loss: 5599.3322
+2022-05-09 03:25:31,767 : INFO : SGNS loss: 46.4369
+2022-05-09 03:25:31,767 : INFO : Dirichlet loss: -10.3616
+2022-05-09 03:25:31,767 : INFO : Prediction loss: 2247.4572
+2022-05-09 03:25:31,767 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:31,770 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:31,770 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:35,780 : INFO : Train AUC: 0.9343
+2022-05-09 03:25:35,783 : INFO : Test AUC: 0.9306
+2022-05-09 03:25:35,783 : INFO : epoch 6/30:
+2022-05-09 03:25:35,783 : INFO : Total loss: 5352.4949
+2022-05-09 03:25:35,783 : INFO : SGNS loss: 46.4379
+2022-05-09 03:25:35,783 : INFO : Dirichlet loss: -10.3616
+2022-05-09 03:25:35,784 : INFO : Prediction loss: 2000.6188
+2022-05-09 03:25:35,784 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:35,787 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:35,787 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:39,791 : INFO : Train AUC: 0.9918
+2022-05-09 03:25:39,794 : INFO : Test AUC: 0.9905
+2022-05-09 03:25:39,794 : INFO : epoch 7/30:
+2022-05-09 03:25:39,795 : INFO : Total loss: 5359.3963
+2022-05-09 03:25:39,795 : INFO : SGNS loss: 46.4404
+2022-05-09 03:25:39,795 : INFO : Dirichlet loss: -10.3616
+2022-05-09 03:25:39,795 : INFO : Prediction loss: 2007.5178
+2022-05-09 03:25:39,795 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:39,798 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:39,798 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:43,810 : INFO : Train AUC: 0.9449
+2022-05-09 03:25:43,813 : INFO : Test AUC: 0.9405
+2022-05-09 03:25:43,813 : INFO : epoch 8/30:
+2022-05-09 03:25:43,813 : INFO : Total loss: 5198.7963
+2022-05-09 03:25:43,813 : INFO : SGNS loss: 46.4375
+2022-05-09 03:25:43,813 : INFO : Dirichlet loss: -10.3616
+2022-05-09 03:25:43,814 : INFO : Prediction loss: 1846.9207
+2022-05-09 03:25:43,814 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:43,817 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:43,817 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:47,800 : INFO : Train AUC: 0.9929
+2022-05-09 03:25:47,803 : INFO : Test AUC: 0.9918
+2022-05-09 03:25:47,803 : INFO : epoch 9/30:
+2022-05-09 03:25:47,803 : INFO : Total loss: 5232.5401
+2022-05-09 03:25:47,803 : INFO : SGNS loss: 46.4383
+2022-05-09 03:25:47,803 : INFO : Dirichlet loss: -10.3616
+2022-05-09 03:25:47,803 : INFO : Prediction loss: 1880.6636
+2022-05-09 03:25:47,803 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:47,807 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:47,807 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:51,813 : INFO : Train AUC: 0.9514
+2022-05-09 03:25:51,815 : INFO : Test AUC: 0.9477
+2022-05-09 03:25:51,816 : INFO : epoch 10/30:
+2022-05-09 03:25:51,816 : INFO : Total loss: 5109.0314
+2022-05-09 03:25:51,816 : INFO : SGNS loss: 46.4341
+2022-05-09 03:25:51,816 : INFO : Dirichlet loss: -10.3613
+2022-05-09 03:25:51,816 : INFO : Prediction loss: 1757.1589
+2022-05-09 03:25:51,816 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:51,819 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:51,820 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:55,798 : INFO : Train AUC: 0.9937
+2022-05-09 03:25:55,801 : INFO : Test AUC: 0.9929
+2022-05-09 03:25:55,801 : INFO : epoch 11/30:
+2022-05-09 03:25:55,802 : INFO : Total loss: 5148.3949
+2022-05-09 03:25:55,802 : INFO : SGNS loss: 46.4405
+2022-05-09 03:25:55,802 : INFO : Dirichlet loss: -10.3585
+2022-05-09 03:25:55,802 : INFO : Prediction loss: 1796.5132
+2022-05-09 03:25:55,802 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:55,805 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:55,805 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:25:59,735 : INFO : Train AUC: 0.9558
+2022-05-09 03:25:59,738 : INFO : Test AUC: 0.9529
+2022-05-09 03:25:59,738 : INFO : epoch 12/30:
+2022-05-09 03:25:59,738 : INFO : Total loss: 5042.7903
+2022-05-09 03:25:59,738 : INFO : SGNS loss: 46.4415
+2022-05-09 03:25:59,738 : INFO : Dirichlet loss: -10.3489
+2022-05-09 03:25:59,738 : INFO : Prediction loss: 1690.8979
+2022-05-09 03:25:59,739 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:25:59,742 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:25:59,742 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:26:03,788 : INFO : Train AUC: 0.9942
+2022-05-09 03:26:03,791 : INFO : Test AUC: 0.9936
+2022-05-09 03:26:03,791 : INFO : epoch 13/30:
+2022-05-09 03:26:03,791 : INFO : Total loss: 5088.0953
+2022-05-09 03:26:03,791 : INFO : SGNS loss: 46.4373
+2022-05-09 03:26:03,791 : INFO : Dirichlet loss: -10.3233
+2022-05-09 03:26:03,791 : INFO : Prediction loss: 1736.1815
+2022-05-09 03:26:03,791 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:26:03,794 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:26:03,795 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:26:07,804 : INFO : Train AUC: 0.9592
+2022-05-09 03:26:07,807 : INFO : Test AUC: 0.9563
+2022-05-09 03:26:07,807 : INFO : epoch 14/30:
+2022-05-09 03:26:07,807 : INFO : Total loss: 5012.8167
+2022-05-09 03:26:07,807 : INFO : SGNS loss: 46.4403
+2022-05-09 03:26:07,807 : INFO : Dirichlet loss: -10.2550
+2022-05-09 03:26:07,807 : INFO : Prediction loss: 1660.8317
+2022-05-09 03:26:07,808 : INFO : Diversity loss: 3315.7997
+2022-05-09 03:26:07,811 : INFO : concept 1: definitely tablet phone average baby noisy house complicated clothe thoroughly
+2022-05-09 03:26:07,811 : INFO : concept 2: dog sharp new hardly type underneath length daily arrive prove
+2022-05-09 03:26:12,131 : INFO : Train AUC: 0.9946
+2022-05-09 03:26:12,134 : INFO : Test AUC: 0.9942
+2022-05-09 03:26:12,134 : INFO : epoch 15/30:
+2022-05-09 03:26:12,134 : INFO : Total loss: 3582.9785
+2022-05-09 03:26:12,134 : INFO : SGNS loss: 22.8915
+2022-05-09 03:26:12,134 : INFO : Dirichlet loss: -10.3557
+2022-05-09 03:26:12,135 : INFO : Prediction loss: 1703.7574
+2022-05-09 03:26:12,135 : INFO : Diversity loss: 1866.6853
+2022-05-09 03:26:12,138 : INFO : concept 1: faulty away frame level ease nicely tablet mattress save mum
+2022-05-09 03:26:12,138 : INFO : concept 2: great use easy look buy quality price excellent work money
+2022-05-09 03:26:16,389 : INFO : Train AUC: 0.9613
+2022-05-09 03:26:16,392 : INFO : Test AUC: 0.9584
+2022-05-09 03:26:16,392 : INFO : epoch 16/30:
+2022-05-09 03:26:16,392 : INFO : Total loss: 1037.4337
+2022-05-09 03:26:16,392 : INFO : SGNS loss: 14.9451
+2022-05-09 03:26:16,392 : INFO : Dirichlet loss: -10.3599
+2022-05-09 03:26:16,393 : INFO : Prediction loss: 1624.5362
+2022-05-09 03:26:16,393 : INFO : Diversity loss: -591.6877
+2022-05-09 03:26:16,396 : INFO : concept 1: listen word stainless appear tidy slight snap slow alot angle
+2022-05-09 03:26:16,396 : INFO : concept 2: great use look easy buy price money quality excellent time
+2022-05-09 03:26:20,765 : INFO : Train AUC: 0.9949
+2022-05-09 03:26:20,767 : INFO : Test AUC: 0.9947
+2022-05-09 03:26:20,767 : INFO : epoch 17/30:
+2022-05-09 03:26:20,768 : INFO : Total loss: 208.4279
+2022-05-09 03:26:20,768 : INFO : SGNS loss: 14.8976
+2022-05-09 03:26:20,768 : INFO : Dirichlet loss: -10.3600
+2022-05-09 03:26:20,768 : INFO : Prediction loss: 1673.6199
+2022-05-09 03:26:20,768 : INFO : Diversity loss: -1469.7297
+2022-05-09 03:26:20,771 : INFO : concept 1: consider bedside accurate alot okay draw matter elegant word future
+2022-05-09 03:26:20,771 : INFO : concept 2: need great easy use excellent money recommend buy price item
+2022-05-09 03:26:24,993 : INFO : Train AUC: 0.9637
+2022-05-09 03:26:24,996 : INFO : Test AUC: 0.9608
+2022-05-09 03:26:24,996 : INFO : epoch 18/30:
+2022-05-09 03:26:24,996 : INFO : Total loss: -200.8906
+2022-05-09 03:26:24,996 : INFO : SGNS loss: 14.9030
+2022-05-09 03:26:24,996 : INFO : Dirichlet loss: -10.3599
+2022-05-09 03:26:24,996 : INFO : Prediction loss: 1606.5872
+2022-05-09 03:26:24,996 : INFO : Diversity loss: -1812.0210
+2022-05-09 03:26:25,000 : INFO : concept 1: construction hook answer brill penny expectation content pattern hardly course
+2022-05-09 03:26:25,000 : INFO : concept 2: buy look great money easy price use sound towel work
+2022-05-09 03:26:29,240 : INFO : Train AUC: 0.9951
+2022-05-09 03:26:29,243 : INFO : Test AUC: 0.9950
+2022-05-09 03:26:29,243 : INFO : epoch 19/30:
+2022-05-09 03:26:29,243 : INFO : Total loss: -278.1848
+2022-05-09 03:26:29,243 : INFO : SGNS loss: 14.9094
+2022-05-09 03:26:29,243 : INFO : Dirichlet loss: -10.3598
+2022-05-09 03:26:29,244 : INFO : Prediction loss: 1651.3903
+2022-05-09 03:26:29,244 : INFO : Diversity loss: -1934.1248
+2022-05-09 03:26:29,247 : INFO : concept 1: brown iphone baby advertise downside office complete finger mode guess
+2022-05-09 03:26:29,247 : INFO : concept 2: use price money look easy nice great buy work recommend
+2022-05-09 03:26:33,558 : INFO : Train AUC: 0.9648
+2022-05-09 03:26:33,561 : INFO : Test AUC: 0.9632
+2022-05-09 03:26:33,561 : INFO : epoch 20/30:
+2022-05-09 03:26:33,562 : INFO : Total loss: -396.5802
+2022-05-09 03:26:33,562 : INFO : SGNS loss: 14.9084
+2022-05-09 03:26:33,562 : INFO : Dirichlet loss: -10.3596
+2022-05-09 03:26:33,562 : INFO : Prediction loss: 1585.9581
+2022-05-09 03:26:33,562 : INFO : Diversity loss: -1987.0870
+2022-05-09 03:26:33,567 : INFO : concept 1: hdmi sell avoid young mat pattern finally effective requirement probably
+2022-05-09 03:26:33,567 : INFO : concept 2: great easy use buy price look quality try excellent cheap
+2022-05-09 03:26:37,828 : INFO : Train AUC: 0.9952
+2022-05-09 03:26:37,830 : INFO : Test AUC: 0.9952
+2022-05-09 03:26:37,830 : INFO : epoch 21/30:
+2022-05-09 03:26:37,830 : INFO : Total loss: -382.5551
+2022-05-09 03:26:37,831 : INFO : SGNS loss: 14.9108
+2022-05-09 03:26:37,831 : INFO : Dirichlet loss: -10.3593
+2022-05-09 03:26:37,831 : INFO : Prediction loss: 1627.3016
+2022-05-09 03:26:37,831 : INFO : Diversity loss: -2014.4081
+2022-05-09 03:26:37,834 : INFO : concept 1: worried foot prove arm snap boy leak sleek chrome moment
+2022-05-09 03:26:37,835 : INFO : concept 2: easy excellent great nice use money look connect design buy
+2022-05-09 03:26:42,125 : INFO : Train AUC: 0.9663
+2022-05-09 03:26:42,128 : INFO : Test AUC: 0.9646
+2022-05-09 03:26:42,128 : INFO : epoch 22/30:
+2022-05-09 03:26:42,128 : INFO : Total loss: -448.2201
+2022-05-09 03:26:42,128 : INFO : SGNS loss: 14.9147
+2022-05-09 03:26:42,128 : INFO : Dirichlet loss: -10.3592
+2022-05-09 03:26:42,129 : INFO : Prediction loss: 1577.5398
+2022-05-09 03:26:42,129 : INFO : Diversity loss: -2030.3153
+2022-05-09 03:26:42,132 : INFO : concept 1: face bill pleasantly sleek sorry meet area access actual wow
+2022-05-09 03:26:42,132 : INFO : concept 2: easy great price use fit look toy quality recommend buy
+2022-05-09 03:26:46,354 : INFO : Train AUC: 0.9953
+2022-05-09 03:26:46,356 : INFO : Test AUC: 0.9954
+2022-05-09 03:26:46,357 : INFO : epoch 23/30:
+2022-05-09 03:26:46,357 : INFO : Total loss: -420.5175
+2022-05-09 03:26:46,357 : INFO : SGNS loss: 14.9148
+2022-05-09 03:26:46,357 : INFO : Dirichlet loss: -10.3590
+2022-05-09 03:26:46,357 : INFO : Prediction loss: 1615.3281
+2022-05-09 03:26:46,357 : INFO : Diversity loss: -2040.4014
+2022-05-09 03:26:46,361 : INFO : concept 1: rubber dirt sorry perform constantly pain practical effort loose future
+2022-05-09 03:26:46,361 : INFO : concept 2: great easy recommend use find nice buy damage look new
+2022-05-09 03:26:50,643 : INFO : Train AUC: 0.9680
+2022-05-09 03:26:50,645 : INFO : Test AUC: 0.9660
+2022-05-09 03:26:50,646 : INFO : epoch 24/30:
+2022-05-09 03:26:50,646 : INFO : Total loss: -478.1643
+2022-05-09 03:26:50,646 : INFO : SGNS loss: 14.9135
+2022-05-09 03:26:50,646 : INFO : Dirichlet loss: -10.3588
+2022-05-09 03:26:50,646 : INFO : Prediction loss: 1564.4902
+2022-05-09 03:26:50,646 : INFO : Diversity loss: -2047.2091
+2022-05-09 03:26:50,649 : INFO : concept 1: write allow limited self improvement toilet note date fiddly summer
+2022-05-09 03:26:50,649 : INFO : concept 2: buy look great easy ink quality use free money hand
+2022-05-09 03:26:54,909 : INFO : Train AUC: 0.9954
+2022-05-09 03:26:54,912 : INFO : Test AUC: 0.9955
+2022-05-09 03:26:54,912 : INFO : epoch 25/30:
+2022-05-09 03:26:54,912 : INFO : Total loss: -447.4650
+2022-05-09 03:26:54,912 : INFO : SGNS loss: 14.9167
+2022-05-09 03:26:54,912 : INFO : Dirichlet loss: -10.3587
+2022-05-09 03:26:54,912 : INFO : Prediction loss: 1600.0047
+2022-05-09 03:26:54,912 : INFO : Diversity loss: -2052.0277
+2022-05-09 03:26:54,916 : INFO : concept 1: file rating stainless class young saver similar listen penny solution
+2022-05-09 03:26:54,916 : INFO : concept 2: price great buy excellent small money fit look easy pleased
+2022-05-09 03:26:59,200 : INFO : Train AUC: 0.9689
+2022-05-09 03:26:59,203 : INFO : Test AUC: 0.9663
+2022-05-09 03:26:59,203 : INFO : epoch 26/30:
+2022-05-09 03:26:59,204 : INFO : Total loss: -494.7189
+2022-05-09 03:26:59,204 : INFO : SGNS loss: 14.9179
+2022-05-09 03:26:59,204 : INFO : Dirichlet loss: -10.3586
+2022-05-09 03:26:59,204 : INFO : Prediction loss: 1556.2896
+2022-05-09 03:26:59,204 : INFO : Diversity loss: -2055.5679
+2022-05-09 03:26:59,208 : INFO : concept 1: hdmi snap cold minor view packaging bend attach initially write
+2022-05-09 03:26:59,208 : INFO : concept 2: quality great excellent look fit pan money system price purchase
+2022-05-09 03:27:03,479 : INFO : Train AUC: 0.9955
+2022-05-09 03:27:03,482 : INFO : Test AUC: 0.9957
+2022-05-09 03:27:03,482 : INFO : epoch 27/30:
+2022-05-09 03:27:03,482 : INFO : Total loss: -454.7474
+2022-05-09 03:27:03,482 : INFO : SGNS loss: 14.9176
+2022-05-09 03:27:03,482 : INFO : Dirichlet loss: -10.3585
+2022-05-09 03:27:03,482 : INFO : Prediction loss: 1598.9415
+2022-05-09 03:27:03,483 : INFO : Diversity loss: -2058.2479
+2022-05-09 03:27:03,486 : INFO : concept 1: graphic straightforward elegant initially improve word annoying iphone reserve moment
+2022-05-09 03:27:03,486 : INFO : concept 2: buy great use lamp argos small easy work lovely etc
+2022-05-09 03:27:07,774 : INFO : Train AUC: 0.9702
+2022-05-09 03:27:07,776 : INFO : Test AUC: 0.9674
+2022-05-09 03:27:07,777 : INFO : epoch 28/30:
+2022-05-09 03:27:07,777 : INFO : Total loss: -500.4740
+2022-05-09 03:27:07,777 : INFO : SGNS loss: 14.9204
+2022-05-09 03:27:07,777 : INFO : Dirichlet loss: -10.3584
+2022-05-09 03:27:07,777 : INFO : Prediction loss: 1555.2914
+2022-05-09 03:27:07,777 : INFO : Diversity loss: -2060.3274
+2022-05-09 03:27:07,781 : INFO : concept 1: minor section obviously mainly hassle unable reliable annoying immediately dinner
+2022-05-09 03:27:07,781 : INFO : concept 2: look great easy item buy money price excellent design nice
+2022-05-09 03:27:12,051 : INFO : Train AUC: 0.9955
+2022-05-09 03:27:12,054 : INFO : Test AUC: 0.9956
+2022-05-09 03:27:12,054 : INFO : epoch 29/30:
+2022-05-09 03:27:12,054 : INFO : Total loss: -469.1641
+2022-05-09 03:27:12,054 : INFO : SGNS loss: 14.9182
+2022-05-09 03:27:12,054 : INFO : Dirichlet loss: -10.3583
+2022-05-09 03:27:12,054 : INFO : Prediction loss: 1588.2505
+2022-05-09 03:27:12,054 : INFO : Diversity loss: -2061.9744
+2022-05-09 03:27:12,057 : INFO : concept 1: panel smooth film reserve baby describe travel slice glue search
+2022-05-09 03:27:12,058 : INFO : concept 2: great use pleased need easy frame happy excellent quick work

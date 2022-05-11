@@ -1,0 +1,300 @@
+2022-05-09 13:23:13,250 : INFO : Train AUC: 0.5047
+2022-05-09 13:23:13,254 : INFO : Test AUC: 0.5028
+2022-05-09 13:23:13,254 : INFO : epoch 0/30:
+2022-05-09 13:23:13,255 : INFO : Total loss: 2382.0453
+2022-05-09 13:23:13,255 : INFO : SGNS loss: 46.3693
+2022-05-09 13:23:13,255 : INFO : Dirichlet loss: -5387.3275
+2022-05-09 13:23:13,255 : INFO : Prediction loss: 7689.8455
+2022-05-09 13:23:13,256 : INFO : Diversity loss: 33.1581
+2022-05-09 13:23:13,261 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:23:13,261 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:23:18,206 : INFO : Train AUC: 0.5109
+2022-05-09 13:23:18,209 : INFO : Test AUC: 0.5079
+2022-05-09 13:23:18,209 : INFO : epoch 1/30:
+2022-05-09 13:23:18,210 : INFO : Total loss: 299.5882
+2022-05-09 13:23:18,210 : INFO : SGNS loss: 46.3460
+2022-05-09 13:23:18,210 : INFO : Dirichlet loss: -5088.2216
+2022-05-09 13:23:18,210 : INFO : Prediction loss: 5308.3057
+2022-05-09 13:23:18,211 : INFO : Diversity loss: 33.1581
+2022-05-09 13:23:18,217 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:23:18,217 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:23:23,216 : INFO : Train AUC: 0.5332
+2022-05-09 13:23:23,220 : INFO : Test AUC: 0.5318
+2022-05-09 13:23:23,220 : INFO : epoch 2/30:
+2022-05-09 13:23:23,220 : INFO : Total loss: -1248.9625
+2022-05-09 13:23:23,220 : INFO : SGNS loss: 46.3493
+2022-05-09 13:23:23,221 : INFO : Dirichlet loss: -4256.0119
+2022-05-09 13:23:23,221 : INFO : Prediction loss: 2927.5420
+2022-05-09 13:23:23,221 : INFO : Diversity loss: 33.1581
+2022-05-09 13:23:23,226 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:23:23,226 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:23:28,153 : INFO : Train AUC: 0.8224
+2022-05-09 13:23:28,156 : INFO : Test AUC: 0.8119
+2022-05-09 13:23:28,156 : INFO : epoch 3/30:
+2022-05-09 13:23:28,157 : INFO : Total loss: -2953.4881
+2022-05-09 13:23:28,157 : INFO : SGNS loss: 46.3697
+2022-05-09 13:23:28,157 : INFO : Dirichlet loss: -3706.3086
+2022-05-09 13:23:28,157 : INFO : Prediction loss: 673.2927
+2022-05-09 13:23:28,158 : INFO : Diversity loss: 33.1581
+2022-05-09 13:23:28,162 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:23:28,162 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:23:33,092 : INFO : Train AUC: 0.8460
+2022-05-09 13:23:33,095 : INFO : Test AUC: 0.8340
+2022-05-09 13:23:33,095 : INFO : epoch 4/30:
+2022-05-09 13:23:33,096 : INFO : Total loss: -3222.8009
+2022-05-09 13:23:33,096 : INFO : SGNS loss: 46.4506
+2022-05-09 13:23:33,096 : INFO : Dirichlet loss: -3344.6019
+2022-05-09 13:23:33,096 : INFO : Prediction loss: 42.1924
+2022-05-09 13:23:33,097 : INFO : Diversity loss: 33.1581
+2022-05-09 13:23:33,101 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:23:33,102 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:23:38,061 : INFO : Train AUC: 0.8686
+2022-05-09 13:23:38,064 : INFO : Test AUC: 0.8548
+2022-05-09 13:23:38,064 : INFO : epoch 5/30:
+2022-05-09 13:23:38,065 : INFO : Total loss: -1955.7164
+2022-05-09 13:23:38,065 : INFO : SGNS loss: 46.3689
+2022-05-09 13:23:38,065 : INFO : Dirichlet loss: -2067.3590
+2022-05-09 13:23:38,065 : INFO : Prediction loss: 32.1156
+2022-05-09 13:23:38,066 : INFO : Diversity loss: 33.1581
+2022-05-09 13:23:38,070 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:23:38,071 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:23:42,973 : INFO : Train AUC: 0.8934
+2022-05-09 13:23:42,976 : INFO : Test AUC: 0.8840
+2022-05-09 13:23:42,977 : INFO : epoch 6/30:
+2022-05-09 13:23:42,977 : INFO : Total loss: -2088.0517
+2022-05-09 13:23:42,977 : INFO : SGNS loss: 46.3727
+2022-05-09 13:23:42,977 : INFO : Dirichlet loss: -2191.3434
+2022-05-09 13:23:42,978 : INFO : Prediction loss: 23.7610
+2022-05-09 13:23:42,978 : INFO : Diversity loss: 33.1581
+2022-05-09 13:23:42,998 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:23:42,998 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:23:47,908 : INFO : Train AUC: 0.9183
+2022-05-09 13:23:47,912 : INFO : Test AUC: 0.9133
+2022-05-09 13:23:47,912 : INFO : epoch 7/30:
+2022-05-09 13:23:47,912 : INFO : Total loss: -2069.7026
+2022-05-09 13:23:47,912 : INFO : SGNS loss: 46.3735
+2022-05-09 13:23:47,913 : INFO : Dirichlet loss: -2165.2559
+2022-05-09 13:23:47,913 : INFO : Prediction loss: 16.0217
+2022-05-09 13:23:47,913 : INFO : Diversity loss: 33.1581
+2022-05-09 13:23:47,918 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:23:47,918 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:23:52,885 : INFO : Train AUC: 0.9427
+2022-05-09 13:23:52,889 : INFO : Test AUC: 0.9422
+2022-05-09 13:23:52,889 : INFO : epoch 8/30:
+2022-05-09 13:23:52,889 : INFO : Total loss: -1929.3282
+2022-05-09 13:23:52,890 : INFO : SGNS loss: 46.3735
+2022-05-09 13:23:52,890 : INFO : Dirichlet loss: -2018.1995
+2022-05-09 13:23:52,890 : INFO : Prediction loss: 9.3398
+2022-05-09 13:23:52,890 : INFO : Diversity loss: 33.1581
+2022-05-09 13:23:52,895 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:23:52,896 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:23:58,014 : INFO : Train AUC: 0.9643
+2022-05-09 13:23:58,018 : INFO : Test AUC: 0.9620
+2022-05-09 13:23:58,018 : INFO : epoch 9/30:
+2022-05-09 13:23:58,018 : INFO : Total loss: -1720.0523
+2022-05-09 13:23:58,019 : INFO : SGNS loss: 46.3686
+2022-05-09 13:23:58,019 : INFO : Dirichlet loss: -1804.1076
+2022-05-09 13:23:58,019 : INFO : Prediction loss: 4.5287
+2022-05-09 13:23:58,019 : INFO : Diversity loss: 33.1581
+2022-05-09 13:23:58,024 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:23:58,024 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:24:03,009 : INFO : Train AUC: 0.9774
+2022-05-09 13:24:03,012 : INFO : Test AUC: 0.9746
+2022-05-09 13:24:03,012 : INFO : epoch 10/30:
+2022-05-09 13:24:03,013 : INFO : Total loss: -1513.3235
+2022-05-09 13:24:03,013 : INFO : SGNS loss: 46.3692
+2022-05-09 13:24:03,013 : INFO : Dirichlet loss: -1594.9887
+2022-05-09 13:24:03,013 : INFO : Prediction loss: 2.1380
+2022-05-09 13:24:03,014 : INFO : Diversity loss: 33.1581
+2022-05-09 13:24:03,019 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:24:03,019 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:24:08,077 : INFO : Train AUC: 0.9835
+2022-05-09 13:24:08,080 : INFO : Test AUC: 0.9819
+2022-05-09 13:24:08,080 : INFO : epoch 11/30:
+2022-05-09 13:24:08,081 : INFO : Total loss: -1425.2967
+2022-05-09 13:24:08,081 : INFO : SGNS loss: 46.3768
+2022-05-09 13:24:08,081 : INFO : Dirichlet loss: -1506.1811
+2022-05-09 13:24:08,081 : INFO : Prediction loss: 1.3496
+2022-05-09 13:24:08,082 : INFO : Diversity loss: 33.1581
+2022-05-09 13:24:08,086 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:24:08,087 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:24:13,079 : INFO : Train AUC: 0.9851
+2022-05-09 13:24:13,082 : INFO : Test AUC: 0.9812
+2022-05-09 13:24:13,082 : INFO : epoch 12/30:
+2022-05-09 13:24:13,083 : INFO : Total loss: -1365.3033
+2022-05-09 13:24:13,083 : INFO : SGNS loss: 46.3750
+2022-05-09 13:24:13,083 : INFO : Dirichlet loss: -1445.9584
+2022-05-09 13:24:13,083 : INFO : Prediction loss: 1.1219
+2022-05-09 13:24:13,084 : INFO : Diversity loss: 33.1581
+2022-05-09 13:24:13,088 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:24:13,089 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:24:18,080 : INFO : Train AUC: 0.9862
+2022-05-09 13:24:18,084 : INFO : Test AUC: 0.9834
+2022-05-09 13:24:18,084 : INFO : epoch 13/30:
+2022-05-09 13:24:18,084 : INFO : Total loss: -1337.6784
+2022-05-09 13:24:18,084 : INFO : SGNS loss: 46.3815
+2022-05-09 13:24:18,084 : INFO : Dirichlet loss: -1418.2550
+2022-05-09 13:24:18,085 : INFO : Prediction loss: 1.0370
+2022-05-09 13:24:18,085 : INFO : Diversity loss: 33.1581
+2022-05-09 13:24:18,093 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:24:18,093 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:24:23,090 : INFO : Train AUC: 0.9864
+2022-05-09 13:24:23,095 : INFO : Test AUC: 0.9835
+2022-05-09 13:24:23,095 : INFO : epoch 14/30:
+2022-05-09 13:24:23,096 : INFO : Total loss: -1308.1042
+2022-05-09 13:24:23,096 : INFO : SGNS loss: 46.3761
+2022-05-09 13:24:23,096 : INFO : Dirichlet loss: -1388.6394
+2022-05-09 13:24:23,096 : INFO : Prediction loss: 1.0011
+2022-05-09 13:24:23,097 : INFO : Diversity loss: 33.1581
+2022-05-09 13:24:23,102 : INFO : concept 1: thank real small solid section printer tray towel packaging young
+2022-05-09 13:24:23,102 : INFO : concept 2: chip bad brand cooking accessory hook minute pad flat wow
+2022-05-09 13:24:29,171 : INFO : Train AUC: 0.9823
+2022-05-09 13:24:29,175 : INFO : Test AUC: 0.9786
+2022-05-09 13:24:29,175 : INFO : epoch 15/30:
+2022-05-09 13:24:29,175 : INFO : Total loss: -10183.8889
+2022-05-09 13:24:29,175 : INFO : SGNS loss: 22.8539
+2022-05-09 13:24:29,176 : INFO : Dirichlet loss: -10228.6144
+2022-05-09 13:24:29,176 : INFO : Prediction loss: 1.0565
+2022-05-09 13:24:29,176 : INFO : Diversity loss: 20.8152
+2022-05-09 13:24:29,181 : INFO : concept 1: dyson forward electric deal blender plastic comfy handle pad flat
+2022-05-09 13:24:29,181 : INFO : concept 2: easy great buy use look price quality excellent recommend need
+2022-05-09 13:24:35,275 : INFO : Train AUC: 0.9866
+2022-05-09 13:24:35,279 : INFO : Test AUC: 0.9833
+2022-05-09 13:24:35,279 : INFO : epoch 16/30:
+2022-05-09 13:24:35,279 : INFO : Total loss: -10348.4728
+2022-05-09 13:24:35,279 : INFO : SGNS loss: 14.9960
+2022-05-09 13:24:35,279 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:24:35,280 : INFO : Prediction loss: 1.0371
+2022-05-09 13:24:35,280 : INFO : Diversity loss: -2.8730
+2022-05-09 13:24:35,284 : INFO : concept 1: slip accurate mum dust lose boy dog helpful level bottle
+2022-05-09 13:24:35,285 : INFO : concept 2: buy use easy look great price money quality excellent pleased
+2022-05-09 13:24:41,456 : INFO : Train AUC: 0.9855
+2022-05-09 13:24:41,459 : INFO : Test AUC: 0.9821
+2022-05-09 13:24:41,460 : INFO : epoch 17/30:
+2022-05-09 13:24:41,460 : INFO : Total loss: -10356.7478
+2022-05-09 13:24:41,460 : INFO : SGNS loss: 14.9129
+2022-05-09 13:24:41,460 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:24:41,461 : INFO : Prediction loss: 1.0192
+2022-05-09 13:24:41,461 : INFO : Diversity loss: -11.0471
+2022-05-09 13:24:41,465 : INFO : concept 1: fixing cordless mind straightforward suggest appliance board app hardly rubber
+2022-05-09 13:24:41,466 : INFO : concept 2: great easy buy look use recommend quality money fit picture
+2022-05-09 13:24:47,551 : INFO : Train AUC: 0.9874
+2022-05-09 13:24:47,555 : INFO : Test AUC: 0.9838
+2022-05-09 13:24:47,555 : INFO : epoch 18/30:
+2022-05-09 13:24:47,555 : INFO : Total loss: -10361.4147
+2022-05-09 13:24:47,555 : INFO : SGNS loss: 14.9030
+2022-05-09 13:24:47,556 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:24:47,556 : INFO : Prediction loss: 1.0107
+2022-05-09 13:24:47,556 : INFO : Diversity loss: -15.6957
+2022-05-09 13:24:47,561 : INFO : concept 1: stock seal bowl straightforward face signal looking relatively hinge content
+2022-05-09 13:24:47,561 : INFO : concept 2: price great buy use look easy money purchase nice recommend
+2022-05-09 13:24:53,663 : INFO : Train AUC: 0.9837
+2022-05-09 13:24:53,666 : INFO : Test AUC: 0.9801
+2022-05-09 13:24:53,667 : INFO : epoch 19/30:
+2022-05-09 13:24:53,667 : INFO : Total loss: -10363.5174
+2022-05-09 13:24:53,667 : INFO : SGNS loss: 14.9043
+2022-05-09 13:24:53,667 : INFO : Dirichlet loss: -10361.6329
+2022-05-09 13:24:53,668 : INFO : Prediction loss: 0.9937
+2022-05-09 13:24:53,668 : INFO : Diversity loss: -17.7824
+2022-05-09 13:24:53,673 : INFO : concept 1: cleaning bulky exist careful bend future badly metal type grey
+2022-05-09 13:24:53,673 : INFO : concept 2: price excellent money buy great easy look lovely need small
+2022-05-09 13:24:59,797 : INFO : Train AUC: 0.9837
+2022-05-09 13:24:59,800 : INFO : Test AUC: 0.9804
+2022-05-09 13:24:59,801 : INFO : epoch 20/30:
+2022-05-09 13:24:59,801 : INFO : Total loss: -10364.5407
+2022-05-09 13:24:59,801 : INFO : SGNS loss: 14.9051
+2022-05-09 13:24:59,801 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:24:59,802 : INFO : Prediction loss: 0.9812
+2022-05-09 13:24:59,802 : INFO : Diversity loss: -18.7942
+2022-05-09 13:24:59,807 : INFO : concept 1: improvement surface moment tend stock angle course consider summer penny
+2022-05-09 13:24:59,808 : INFO : concept 2: buy fit great quality look use nice price easy far
+2022-05-09 13:25:05,903 : INFO : Train AUC: 0.9849
+2022-05-09 13:25:05,906 : INFO : Test AUC: 0.9822
+2022-05-09 13:25:05,907 : INFO : epoch 21/30:
+2022-05-09 13:25:05,907 : INFO : Total loss: -10365.0906
+2022-05-09 13:25:05,907 : INFO : SGNS loss: 14.9069
+2022-05-09 13:25:05,907 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:25:05,908 : INFO : Prediction loss: 0.9676
+2022-05-09 13:25:05,908 : INFO : Diversity loss: -19.3323
+2022-05-09 13:25:05,913 : INFO : concept 1: opinion fi dirt digital angle brill okay wheel elderly area
+2022-05-09 13:25:05,913 : INFO : concept 2: use money look buy little easy great work price quality
+2022-05-09 13:25:12,036 : INFO : Train AUC: 0.9870
+2022-05-09 13:25:12,040 : INFO : Test AUC: 0.9833
+2022-05-09 13:25:12,040 : INFO : epoch 22/30:
+2022-05-09 13:25:12,040 : INFO : Total loss: -10365.4122
+2022-05-09 13:25:12,041 : INFO : SGNS loss: 14.9070
+2022-05-09 13:25:12,041 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:25:12,041 : INFO : Prediction loss: 0.9561
+2022-05-09 13:25:12,041 : INFO : Diversity loss: -19.6425
+2022-05-09 13:25:12,046 : INFO : concept 1: hide smooth limited stable minor instal lack bar search simply
+2022-05-09 13:25:12,046 : INFO : concept 2: money buy room recommend use great cheap need easy work
+2022-05-09 13:25:18,195 : INFO : Train AUC: 0.9887
+2022-05-09 13:25:18,198 : INFO : Test AUC: 0.9848
+2022-05-09 13:25:18,199 : INFO : epoch 23/30:
+2022-05-09 13:25:18,199 : INFO : Total loss: -10365.6113
+2022-05-09 13:25:18,199 : INFO : SGNS loss: 14.9081
+2022-05-09 13:25:18,199 : INFO : Dirichlet loss: -10361.6327
+2022-05-09 13:25:18,199 : INFO : Prediction loss: 0.9469
+2022-05-09 13:25:18,200 : INFO : Diversity loss: -19.8335
+2022-05-09 13:25:18,205 : INFO : concept 1: tile weather body date bulky thoroughly sized comment argo today
+2022-05-09 13:25:18,205 : INFO : concept 2: great look use easy mattress love price excellent quality phone
+2022-05-09 13:25:24,301 : INFO : Train AUC: 0.9840
+2022-05-09 13:25:24,304 : INFO : Test AUC: 0.9800
+2022-05-09 13:25:24,305 : INFO : epoch 24/30:
+2022-05-09 13:25:24,305 : INFO : Total loss: -10365.7448
+2022-05-09 13:25:24,305 : INFO : SGNS loss: 14.9086
+2022-05-09 13:25:24,305 : INFO : Dirichlet loss: -10361.6329
+2022-05-09 13:25:24,305 : INFO : Prediction loss: 0.9364
+2022-05-09 13:25:24,306 : INFO : Diversity loss: -19.9569
+2022-05-09 13:25:24,311 : INFO : concept 1: slot advise signal yes prove total whilst plain packaging intend
+2022-05-09 13:25:24,311 : INFO : concept 2: buy easy great quality look little sturdy fit job cheap
+2022-05-09 13:25:30,356 : INFO : Train AUC: 0.9876
+2022-05-09 13:25:30,359 : INFO : Test AUC: 0.9844
+2022-05-09 13:25:30,359 : INFO : epoch 25/30:
+2022-05-09 13:25:30,360 : INFO : Total loss: -10365.8438
+2022-05-09 13:25:30,360 : INFO : SGNS loss: 14.9080
+2022-05-09 13:25:30,360 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:25:30,360 : INFO : Prediction loss: 0.9208
+2022-05-09 13:25:30,361 : INFO : Diversity loss: -20.0398
+2022-05-09 13:25:30,366 : INFO : concept 1: hdmi advise setup helpful container fixing forward washer penny seal
+2022-05-09 13:25:30,366 : INFO : concept 2: great buy use price nice easy recommend look quality work
+2022-05-09 13:25:36,423 : INFO : Train AUC: 0.9843
+2022-05-09 13:25:36,426 : INFO : Test AUC: 0.9801
+2022-05-09 13:25:36,426 : INFO : epoch 26/30:
+2022-05-09 13:25:36,427 : INFO : Total loss: -10365.9116
+2022-05-09 13:25:36,427 : INFO : SGNS loss: 14.9077
+2022-05-09 13:25:36,427 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:25:36,427 : INFO : Prediction loss: 0.9104
+2022-05-09 13:25:36,428 : INFO : Diversity loss: -20.0969
+2022-05-09 13:25:36,433 : INFO : concept 1: limit leak initially law facility self worry special hair test
+2022-05-09 13:25:36,433 : INFO : concept 2: easy great use look buy money fit old price need
+2022-05-09 13:25:42,562 : INFO : Train AUC: 0.9905
+2022-05-09 13:25:42,565 : INFO : Test AUC: 0.9872
+2022-05-09 13:25:42,566 : INFO : epoch 27/30:
+2022-05-09 13:25:42,566 : INFO : Total loss: -10365.9596
+2022-05-09 13:25:42,566 : INFO : SGNS loss: 14.9071
+2022-05-09 13:25:42,566 : INFO : Dirichlet loss: -10361.6327
+2022-05-09 13:25:42,567 : INFO : Prediction loss: 0.9030
+2022-05-09 13:25:42,567 : INFO : Diversity loss: -20.1370
+2022-05-09 13:25:42,572 : INFO : concept 1: fi reasonably hardly catch dinner brighten download pleasantly answer fixing
+2022-05-09 13:25:42,572 : INFO : concept 2: use great look easy fit buy perfect excellent pleased iron
+2022-05-09 13:25:48,756 : INFO : Train AUC: 0.9873
+2022-05-09 13:25:48,760 : INFO : Test AUC: 0.9841
+2022-05-09 13:25:48,760 : INFO : epoch 28/30:
+2022-05-09 13:25:48,760 : INFO : Total loss: -10365.9946
+2022-05-09 13:25:48,760 : INFO : SGNS loss: 14.9061
+2022-05-09 13:25:48,761 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:25:48,761 : INFO : Prediction loss: 0.8978
+2022-05-09 13:25:48,761 : INFO : Diversity loss: -20.1656
+2022-05-09 13:25:48,766 : INFO : concept 1: poorly paint girl snap test date inexpensive protect hardly fold
+2022-05-09 13:25:48,766 : INFO : concept 2: buy easy look great use price excellent nice work item
+2022-05-09 13:25:54,932 : INFO : Train AUC: 0.9885
+2022-05-09 13:25:54,935 : INFO : Test AUC: 0.9855
+2022-05-09 13:25:54,935 : INFO : epoch 29/30:
+2022-05-09 13:25:54,936 : INFO : Total loss: -10366.0402
+2022-05-09 13:25:54,936 : INFO : SGNS loss: 14.9062
+2022-05-09 13:25:54,936 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:25:54,936 : INFO : Prediction loss: 0.8727
+2022-05-09 13:25:54,937 : INFO : Diversity loss: -20.1863
+2022-05-09 13:25:54,941 : INFO : concept 1: rubber hook looking fabric awkward accurate worry suit thoroughly reasonably
+2022-05-09 13:25:54,941 : INFO : concept 2: easy use perfect money great assemble excellent purchase recommend think

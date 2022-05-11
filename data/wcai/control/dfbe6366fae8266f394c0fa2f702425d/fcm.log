@@ -1,0 +1,300 @@
+2022-05-09 03:10:30,551 : INFO : Train AUC: 0.8520
+2022-05-09 03:10:30,555 : INFO : Test AUC: 0.8561
+2022-05-09 03:10:30,555 : INFO : epoch 0/30:
+2022-05-09 03:10:30,555 : INFO : Total loss: 96554.6218
+2022-05-09 03:10:30,555 : INFO : SGNS loss: 46.5148
+2022-05-09 03:10:30,555 : INFO : Dirichlet loss: -10.0267
+2022-05-09 03:10:30,555 : INFO : Prediction loss: 96484.9756
+2022-05-09 03:10:30,556 : INFO : Diversity loss: 33.1581
+2022-05-09 03:10:30,559 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:10:30,559 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:10:34,577 : INFO : Train AUC: 0.6951
+2022-05-09 03:10:34,579 : INFO : Test AUC: 0.6992
+2022-05-09 03:10:34,579 : INFO : epoch 1/30:
+2022-05-09 03:10:34,580 : INFO : Total loss: 12208.7327
+2022-05-09 03:10:34,580 : INFO : SGNS loss: 46.5189
+2022-05-09 03:10:34,580 : INFO : Dirichlet loss: -10.3397
+2022-05-09 03:10:34,580 : INFO : Prediction loss: 12139.3954
+2022-05-09 03:10:34,580 : INFO : Diversity loss: 33.1581
+2022-05-09 03:10:34,583 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:10:34,584 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:10:38,691 : INFO : Train AUC: 0.9912
+2022-05-09 03:10:38,694 : INFO : Test AUC: 0.9912
+2022-05-09 03:10:38,694 : INFO : epoch 2/30:
+2022-05-09 03:10:38,695 : INFO : Total loss: 4156.7591
+2022-05-09 03:10:38,695 : INFO : SGNS loss: 46.5225
+2022-05-09 03:10:38,695 : INFO : Dirichlet loss: -10.3182
+2022-05-09 03:10:38,695 : INFO : Prediction loss: 4087.3966
+2022-05-09 03:10:38,695 : INFO : Diversity loss: 33.1581
+2022-05-09 03:10:38,699 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:10:38,699 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:10:42,743 : INFO : Train AUC: 0.9925
+2022-05-09 03:10:42,746 : INFO : Test AUC: 0.9908
+2022-05-09 03:10:42,746 : INFO : epoch 3/30:
+2022-05-09 03:10:42,746 : INFO : Total loss: 1918.8202
+2022-05-09 03:10:42,747 : INFO : SGNS loss: 46.5182
+2022-05-09 03:10:42,747 : INFO : Dirichlet loss: -10.2565
+2022-05-09 03:10:42,747 : INFO : Prediction loss: 1849.4003
+2022-05-09 03:10:42,747 : INFO : Diversity loss: 33.1581
+2022-05-09 03:10:42,750 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:10:42,751 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:10:46,806 : INFO : Train AUC: 0.9936
+2022-05-09 03:10:46,809 : INFO : Test AUC: 0.9921
+2022-05-09 03:10:46,809 : INFO : epoch 4/30:
+2022-05-09 03:10:46,809 : INFO : Total loss: 1531.6895
+2022-05-09 03:10:46,809 : INFO : SGNS loss: 46.5186
+2022-05-09 03:10:46,809 : INFO : Dirichlet loss: -9.9261
+2022-05-09 03:10:46,809 : INFO : Prediction loss: 1461.9389
+2022-05-09 03:10:46,810 : INFO : Diversity loss: 33.1581
+2022-05-09 03:10:46,813 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:10:46,813 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:10:50,861 : INFO : Train AUC: 0.9253
+2022-05-09 03:10:50,864 : INFO : Test AUC: 0.9229
+2022-05-09 03:10:50,864 : INFO : epoch 5/30:
+2022-05-09 03:10:50,864 : INFO : Total loss: 1584.5453
+2022-05-09 03:10:50,864 : INFO : SGNS loss: 46.4616
+2022-05-09 03:10:50,864 : INFO : Dirichlet loss: -9.2891
+2022-05-09 03:10:50,865 : INFO : Prediction loss: 1514.2147
+2022-05-09 03:10:50,865 : INFO : Diversity loss: 33.1581
+2022-05-09 03:10:50,868 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:10:50,868 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:10:54,901 : INFO : Train AUC: 0.9885
+2022-05-09 03:10:54,904 : INFO : Test AUC: 0.9857
+2022-05-09 03:10:54,904 : INFO : epoch 6/30:
+2022-05-09 03:10:54,904 : INFO : Total loss: 1778.1227
+2022-05-09 03:10:54,904 : INFO : SGNS loss: 46.4253
+2022-05-09 03:10:54,904 : INFO : Dirichlet loss: -10.3300
+2022-05-09 03:10:54,904 : INFO : Prediction loss: 1708.8692
+2022-05-09 03:10:54,905 : INFO : Diversity loss: 33.1581
+2022-05-09 03:10:54,908 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:10:54,908 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:10:59,013 : INFO : Train AUC: 0.9965
+2022-05-09 03:10:59,017 : INFO : Test AUC: 0.9956
+2022-05-09 03:10:59,017 : INFO : epoch 7/30:
+2022-05-09 03:10:59,017 : INFO : Total loss: 1507.0691
+2022-05-09 03:10:59,017 : INFO : SGNS loss: 46.4279
+2022-05-09 03:10:59,017 : INFO : Dirichlet loss: -10.2372
+2022-05-09 03:10:59,018 : INFO : Prediction loss: 1437.7203
+2022-05-09 03:10:59,018 : INFO : Diversity loss: 33.1581
+2022-05-09 03:10:59,022 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:10:59,022 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:11:03,156 : INFO : Train AUC: 0.9940
+2022-05-09 03:11:03,159 : INFO : Test AUC: 0.9928
+2022-05-09 03:11:03,159 : INFO : epoch 8/30:
+2022-05-09 03:11:03,159 : INFO : Total loss: 1808.3395
+2022-05-09 03:11:03,160 : INFO : SGNS loss: 46.4301
+2022-05-09 03:11:03,160 : INFO : Dirichlet loss: -10.3108
+2022-05-09 03:11:03,160 : INFO : Prediction loss: 1739.0622
+2022-05-09 03:11:03,160 : INFO : Diversity loss: 33.1581
+2022-05-09 03:11:03,163 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:11:03,163 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:11:07,263 : INFO : Train AUC: 0.9947
+2022-05-09 03:11:07,266 : INFO : Test AUC: 0.9937
+2022-05-09 03:11:07,266 : INFO : epoch 9/30:
+2022-05-09 03:11:07,266 : INFO : Total loss: 1488.5945
+2022-05-09 03:11:07,267 : INFO : SGNS loss: 46.4240
+2022-05-09 03:11:07,267 : INFO : Dirichlet loss: -10.3142
+2022-05-09 03:11:07,267 : INFO : Prediction loss: 1419.3266
+2022-05-09 03:11:07,267 : INFO : Diversity loss: 33.1581
+2022-05-09 03:11:07,270 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:11:07,270 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:11:11,299 : INFO : Train AUC: 0.9267
+2022-05-09 03:11:11,302 : INFO : Test AUC: 0.9254
+2022-05-09 03:11:11,302 : INFO : epoch 10/30:
+2022-05-09 03:11:11,302 : INFO : Total loss: 1563.4700
+2022-05-09 03:11:11,302 : INFO : SGNS loss: 46.4235
+2022-05-09 03:11:11,302 : INFO : Dirichlet loss: -10.2786
+2022-05-09 03:11:11,302 : INFO : Prediction loss: 1494.1671
+2022-05-09 03:11:11,302 : INFO : Diversity loss: 33.1581
+2022-05-09 03:11:11,306 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:11:11,306 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:11:15,357 : INFO : Train AUC: 0.9896
+2022-05-09 03:11:15,360 : INFO : Test AUC: 0.9868
+2022-05-09 03:11:15,360 : INFO : epoch 11/30:
+2022-05-09 03:11:15,360 : INFO : Total loss: 1745.2844
+2022-05-09 03:11:15,360 : INFO : SGNS loss: 46.4285
+2022-05-09 03:11:15,360 : INFO : Dirichlet loss: -10.2846
+2022-05-09 03:11:15,361 : INFO : Prediction loss: 1675.9824
+2022-05-09 03:11:15,361 : INFO : Diversity loss: 33.1581
+2022-05-09 03:11:15,364 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:11:15,364 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:11:19,449 : INFO : Train AUC: 0.9971
+2022-05-09 03:11:19,452 : INFO : Test AUC: 0.9965
+2022-05-09 03:11:19,453 : INFO : epoch 12/30:
+2022-05-09 03:11:19,453 : INFO : Total loss: 1479.6179
+2022-05-09 03:11:19,453 : INFO : SGNS loss: 46.4290
+2022-05-09 03:11:19,453 : INFO : Dirichlet loss: -10.2675
+2022-05-09 03:11:19,453 : INFO : Prediction loss: 1410.2983
+2022-05-09 03:11:19,453 : INFO : Diversity loss: 33.1581
+2022-05-09 03:11:19,457 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:11:19,457 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:11:23,535 : INFO : Train AUC: 0.9948
+2022-05-09 03:11:23,538 : INFO : Test AUC: 0.9939
+2022-05-09 03:11:23,538 : INFO : epoch 13/30:
+2022-05-09 03:11:23,538 : INFO : Total loss: 1770.6469
+2022-05-09 03:11:23,538 : INFO : SGNS loss: 46.4278
+2022-05-09 03:11:23,538 : INFO : Dirichlet loss: -10.2507
+2022-05-09 03:11:23,538 : INFO : Prediction loss: 1701.3117
+2022-05-09 03:11:23,539 : INFO : Diversity loss: 33.1581
+2022-05-09 03:11:23,542 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:11:23,542 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:11:27,615 : INFO : Train AUC: 0.9949
+2022-05-09 03:11:27,617 : INFO : Test AUC: 0.9942
+2022-05-09 03:11:27,618 : INFO : epoch 14/30:
+2022-05-09 03:11:27,618 : INFO : Total loss: 1469.3280
+2022-05-09 03:11:27,618 : INFO : SGNS loss: 46.4312
+2022-05-09 03:11:27,618 : INFO : Dirichlet loss: -10.2153
+2022-05-09 03:11:27,618 : INFO : Prediction loss: 1399.9540
+2022-05-09 03:11:27,618 : INFO : Diversity loss: 33.1581
+2022-05-09 03:11:27,622 : INFO : concept 1: heater inexpensive ease tricky build furniture annoying cat cover graphic
+2022-05-09 03:11:27,622 : INFO : concept 2: space tiny key upgrade lightweight average secure blender wear extra
+2022-05-09 03:11:31,982 : INFO : Train AUC: 0.9301
+2022-05-09 03:11:31,985 : INFO : Test AUC: 0.9283
+2022-05-09 03:11:31,985 : INFO : epoch 15/30:
+2022-05-09 03:11:31,986 : INFO : Total loss: 1494.9032
+2022-05-09 03:11:31,986 : INFO : SGNS loss: 26.6299
+2022-05-09 03:11:31,986 : INFO : Dirichlet loss: -10.2865
+2022-05-09 03:11:31,986 : INFO : Prediction loss: 1458.0551
+2022-05-09 03:11:31,986 : INFO : Diversity loss: 20.5048
+2022-05-09 03:11:31,989 : INFO : concept 1: mat roll lay sell rug rail careful alternative bowl telephone
+2022-05-09 03:11:31,990 : INFO : concept 2: great buy use easy price look absolute pattern quality term
+2022-05-09 03:11:36,298 : INFO : Train AUC: 0.9902
+2022-05-09 03:11:36,300 : INFO : Test AUC: 0.9899
+2022-05-09 03:11:36,301 : INFO : epoch 16/30:
+2022-05-09 03:11:36,301 : INFO : Total loss: 1649.5856
+2022-05-09 03:11:36,301 : INFO : SGNS loss: 18.3250
+2022-05-09 03:11:36,301 : INFO : Dirichlet loss: -10.2812
+2022-05-09 03:11:36,301 : INFO : Prediction loss: 1645.5122
+2022-05-09 03:11:36,301 : INFO : Diversity loss: -3.9705
+2022-05-09 03:11:36,305 : INFO : concept 1: mat bread slice alternative roll best mode hopefully lay construction
+2022-05-09 03:11:36,305 : INFO : concept 2: easy immediately quality use great buy hassle look local equipment
+2022-05-09 03:11:40,601 : INFO : Train AUC: 0.9971
+2022-05-09 03:11:40,604 : INFO : Test AUC: 0.9968
+2022-05-09 03:11:40,604 : INFO : epoch 17/30:
+2022-05-09 03:11:40,604 : INFO : Total loss: 1382.9780
+2022-05-09 03:11:40,604 : INFO : SGNS loss: 16.5208
+2022-05-09 03:11:40,605 : INFO : Dirichlet loss: -10.3060
+2022-05-09 03:11:40,605 : INFO : Prediction loss: 1388.6180
+2022-05-09 03:11:40,605 : INFO : Diversity loss: -11.8549
+2022-05-09 03:11:40,608 : INFO : concept 1: mat wow meet rating rubber alternative manufacturer worried pleasantly word
+2022-05-09 03:11:40,608 : INFO : concept 2: look buy great easy use requirement price money affordable excellent
+2022-05-09 03:11:44,900 : INFO : Train AUC: 0.9947
+2022-05-09 03:11:44,903 : INFO : Test AUC: 0.9940
+2022-05-09 03:11:44,903 : INFO : epoch 18/30:
+2022-05-09 03:11:44,904 : INFO : Total loss: 1691.8870
+2022-05-09 03:11:44,904 : INFO : SGNS loss: 16.1420
+2022-05-09 03:11:44,904 : INFO : Dirichlet loss: -10.2997
+2022-05-09 03:11:44,904 : INFO : Prediction loss: 1702.1489
+2022-05-09 03:11:44,904 : INFO : Diversity loss: -16.1043
+2022-05-09 03:11:44,907 : INFO : concept 1: mat rug bread obviously position slice meet beautifully law write
+2022-05-09 03:11:44,908 : INFO : concept 2: body boy level plain content great price signal setup hinge
+2022-05-09 03:11:49,202 : INFO : Train AUC: 0.9947
+2022-05-09 03:11:49,205 : INFO : Test AUC: 0.9941
+2022-05-09 03:11:49,205 : INFO : epoch 19/30:
+2022-05-09 03:11:49,205 : INFO : Total loss: 1393.0646
+2022-05-09 03:11:49,205 : INFO : SGNS loss: 16.0300
+2022-05-09 03:11:49,205 : INFO : Dirichlet loss: -10.2412
+2022-05-09 03:11:49,205 : INFO : Prediction loss: 1405.3325
+2022-05-09 03:11:49,205 : INFO : Diversity loss: -18.0567
+2022-05-09 03:11:49,209 : INFO : concept 1: requirement actual chrome write brown pile program beautifully key eventually
+2022-05-09 03:11:49,209 : INFO : concept 2: great use new easy buy quality price store look compact
+2022-05-09 03:11:53,506 : INFO : Train AUC: 0.9211
+2022-05-09 03:11:53,509 : INFO : Test AUC: 0.9211
+2022-05-09 03:11:53,509 : INFO : epoch 20/30:
+2022-05-09 03:11:53,509 : INFO : Total loss: 1456.4786
+2022-05-09 03:11:53,509 : INFO : SGNS loss: 15.7679
+2022-05-09 03:11:53,509 : INFO : Dirichlet loss: -10.2655
+2022-05-09 03:11:53,509 : INFO : Prediction loss: 1469.9283
+2022-05-09 03:11:53,509 : INFO : Diversity loss: -18.9521
+2022-05-09 03:11:53,513 : INFO : concept 1: equipment moment test term law total relatively unable crease bedside
+2022-05-09 03:11:53,513 : INFO : concept 2: buy use look excellent money easy cover price great fit
+2022-05-09 03:11:57,825 : INFO : Train AUC: 0.9900
+2022-05-09 03:11:57,828 : INFO : Test AUC: 0.9907
+2022-05-09 03:11:57,828 : INFO : epoch 21/30:
+2022-05-09 03:11:57,828 : INFO : Total loss: 1654.9057
+2022-05-09 03:11:57,829 : INFO : SGNS loss: 15.8228
+2022-05-09 03:11:57,829 : INFO : Dirichlet loss: -10.2922
+2022-05-09 03:11:57,829 : INFO : Prediction loss: 1668.7998
+2022-05-09 03:11:57,829 : INFO : Diversity loss: -19.4248
+2022-05-09 03:11:57,832 : INFO : concept 1: mat packaging beautifully rack improve mode hobbs measure hook mount
+2022-05-09 03:11:57,832 : INFO : concept 2: easy price use buy great love quality excellent pleased look
+2022-05-09 03:12:02,157 : INFO : Train AUC: 0.9970
+2022-05-09 03:12:02,160 : INFO : Test AUC: 0.9968
+2022-05-09 03:12:02,160 : INFO : epoch 22/30:
+2022-05-09 03:12:02,161 : INFO : Total loss: 1370.2100
+2022-05-09 03:12:02,161 : INFO : SGNS loss: 15.7689
+2022-05-09 03:12:02,161 : INFO : Dirichlet loss: -10.2949
+2022-05-09 03:12:02,161 : INFO : Prediction loss: 1384.4376
+2022-05-09 03:12:02,161 : INFO : Diversity loss: -19.7016
+2022-05-09 03:12:02,164 : INFO : concept 1: mat bath limited towel rug file badly unable shade figure
+2022-05-09 03:12:02,164 : INFO : concept 2: look use great buy easy price money fit past sleek
+2022-05-09 03:12:06,440 : INFO : Train AUC: 0.9948
+2022-05-09 03:12:06,443 : INFO : Test AUC: 0.9941
+2022-05-09 03:12:06,443 : INFO : epoch 23/30:
+2022-05-09 03:12:06,443 : INFO : Total loss: 1681.6670
+2022-05-09 03:12:06,443 : INFO : SGNS loss: 15.7091
+2022-05-09 03:12:06,443 : INFO : Dirichlet loss: -10.3037
+2022-05-09 03:12:06,443 : INFO : Prediction loss: 1696.1337
+2022-05-09 03:12:06,443 : INFO : Diversity loss: -19.8721
+2022-05-09 03:12:06,447 : INFO : concept 1: mat towel convenient rail rack initially bin neatly figure future
+2022-05-09 03:12:06,447 : INFO : concept 2: easy great use recommend money look buy price duvet think
+2022-05-09 03:12:10,776 : INFO : Train AUC: 0.9950
+2022-05-09 03:12:10,779 : INFO : Test AUC: 0.9945
+2022-05-09 03:12:10,779 : INFO : epoch 24/30:
+2022-05-09 03:12:10,779 : INFO : Total loss: 1361.9918
+2022-05-09 03:12:10,779 : INFO : SGNS loss: 15.6705
+2022-05-09 03:12:10,779 : INFO : Dirichlet loss: -10.3084
+2022-05-09 03:12:10,779 : INFO : Prediction loss: 1376.6122
+2022-05-09 03:12:10,780 : INFO : Diversity loss: -19.9825
+2022-05-09 03:12:10,783 : INFO : concept 1: mat towel narrow rubber bulb total brighten poorly bin slip
+2022-05-09 03:12:10,783 : INFO : concept 2: use great easy look buy argos price excellent love fit
+2022-05-09 03:12:15,060 : INFO : Train AUC: 0.9262
+2022-05-09 03:12:15,063 : INFO : Test AUC: 0.9257
+2022-05-09 03:12:15,063 : INFO : epoch 25/30:
+2022-05-09 03:12:15,063 : INFO : Total loss: 1433.9848
+2022-05-09 03:12:15,063 : INFO : SGNS loss: 15.6469
+2022-05-09 03:12:15,063 : INFO : Dirichlet loss: -10.2929
+2022-05-09 03:12:15,063 : INFO : Prediction loss: 1448.6873
+2022-05-09 03:12:15,064 : INFO : Diversity loss: -20.0566
+2022-05-09 03:12:15,067 : INFO : concept 1: mat bath towel grip moment actual rubber course convenient versatile
+2022-05-09 03:12:15,067 : INFO : concept 2: easy great use look buy excellent money big little work
+2022-05-09 03:12:19,377 : INFO : Train AUC: 0.9893
+2022-05-09 03:12:19,380 : INFO : Test AUC: 0.9893
+2022-05-09 03:12:19,380 : INFO : epoch 26/30:
+2022-05-09 03:12:19,380 : INFO : Total loss: 1646.6671
+2022-05-09 03:12:19,381 : INFO : SGNS loss: 15.6189
+2022-05-09 03:12:19,381 : INFO : Dirichlet loss: -10.2892
+2022-05-09 03:12:19,381 : INFO : Prediction loss: 1661.4451
+2022-05-09 03:12:19,381 : INFO : Diversity loss: -20.1077
+2022-05-09 03:12:19,384 : INFO : concept 1: mat bath pan thoroughly constantly slice grip bend inexpensive wow
+2022-05-09 03:12:19,384 : INFO : concept 2: buy great use money excellent easy need kettle recommend bit
+2022-05-09 03:12:23,702 : INFO : Train AUC: 0.9969
+2022-05-09 03:12:23,705 : INFO : Test AUC: 0.9967
+2022-05-09 03:12:23,705 : INFO : epoch 27/30:
+2022-05-09 03:12:23,705 : INFO : Total loss: 1367.3748
+2022-05-09 03:12:23,705 : INFO : SGNS loss: 15.5795
+2022-05-09 03:12:23,705 : INFO : Dirichlet loss: -10.3038
+2022-05-09 03:12:23,706 : INFO : Prediction loss: 1382.2432
+2022-05-09 03:12:23,706 : INFO : Diversity loss: -20.1441
+2022-05-09 03:12:23,709 : INFO : concept 1: mat rail lamp despite slot plain fabric inexpensive rack slice
+2022-05-09 03:12:23,709 : INFO : concept 2: great buy look money easy sound work use time fit
+2022-05-09 03:12:28,103 : INFO : Train AUC: 0.9946
+2022-05-09 03:12:28,106 : INFO : Test AUC: 0.9940
+2022-05-09 03:12:28,106 : INFO : epoch 28/30:
+2022-05-09 03:12:28,106 : INFO : Total loss: 1673.2735
+2022-05-09 03:12:28,106 : INFO : SGNS loss: 15.5732
+2022-05-09 03:12:28,107 : INFO : Dirichlet loss: -10.2892
+2022-05-09 03:12:28,107 : INFO : Prediction loss: 1688.1597
+2022-05-09 03:12:28,107 : INFO : Diversity loss: -20.1702
+2022-05-09 03:12:28,110 : INFO : concept 1: slice mat brighten gorgeous loose rail bath usually actual roll
+2022-05-09 03:12:28,110 : INFO : concept 2: easy great quality use term look buy phone hang recommend
+2022-05-09 03:12:32,438 : INFO : Train AUC: 0.9948
+2022-05-09 03:12:32,440 : INFO : Test AUC: 0.9944
+2022-05-09 03:12:32,441 : INFO : epoch 29/30:
+2022-05-09 03:12:32,441 : INFO : Total loss: 1374.3668
+2022-05-09 03:12:32,441 : INFO : SGNS loss: 15.5466
+2022-05-09 03:12:32,441 : INFO : Dirichlet loss: -10.2783
+2022-05-09 03:12:32,441 : INFO : Prediction loss: 1389.2878
+2022-05-09 03:12:32,441 : INFO : Diversity loss: -20.1893
+2022-05-09 03:12:32,445 : INFO : concept 1: mat bath pan slice neatly rack poorly slot beautifully bread
+2022-05-09 03:12:32,445 : INFO : concept 2: use buy easy great old suit fit look excellent nice

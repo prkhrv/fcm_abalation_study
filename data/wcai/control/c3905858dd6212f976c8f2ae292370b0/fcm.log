@@ -1,0 +1,300 @@
+2022-05-09 03:35:38,548 : INFO : Train AUC: 0.4878
+2022-05-09 03:35:38,552 : INFO : Test AUC: 0.4898
+2022-05-09 03:35:38,552 : INFO : epoch 0/30:
+2022-05-09 03:35:38,552 : INFO : Total loss: 6891181.6035
+2022-05-09 03:35:38,552 : INFO : SGNS loss: 46.3983
+2022-05-09 03:35:38,552 : INFO : Dirichlet loss: -9810.7679
+2022-05-09 03:35:38,552 : INFO : Prediction loss: 6867788.3645
+2022-05-09 03:35:38,552 : INFO : Diversity loss: 33157.6086
+2022-05-09 03:35:38,555 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:35:38,556 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:35:42,528 : INFO : Train AUC: 0.4481
+2022-05-09 03:35:42,531 : INFO : Test AUC: 0.4596
+2022-05-09 03:35:42,531 : INFO : epoch 1/30:
+2022-05-09 03:35:42,531 : INFO : Total loss: 1242507.8346
+2022-05-09 03:35:42,531 : INFO : SGNS loss: 46.4039
+2022-05-09 03:35:42,532 : INFO : Dirichlet loss: -10333.8506
+2022-05-09 03:35:42,532 : INFO : Prediction loss: 1219637.6728
+2022-05-09 03:35:42,532 : INFO : Diversity loss: 33157.6086
+2022-05-09 03:35:42,535 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:35:42,535 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:35:46,528 : INFO : Train AUC: 0.3393
+2022-05-09 03:35:46,531 : INFO : Test AUC: 0.3639
+2022-05-09 03:35:46,531 : INFO : epoch 2/30:
+2022-05-09 03:35:46,531 : INFO : Total loss: 90407.1586
+2022-05-09 03:35:46,531 : INFO : SGNS loss: 46.4357
+2022-05-09 03:35:46,531 : INFO : Dirichlet loss: -9957.1377
+2022-05-09 03:35:46,531 : INFO : Prediction loss: 67160.2524
+2022-05-09 03:35:46,531 : INFO : Diversity loss: 33157.6083
+2022-05-09 03:35:46,535 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:35:46,535 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:35:50,630 : INFO : Train AUC: 0.9149
+2022-05-09 03:35:50,633 : INFO : Test AUC: 0.9155
+2022-05-09 03:35:50,634 : INFO : epoch 3/30:
+2022-05-09 03:35:50,634 : INFO : Total loss: 41260.5026
+2022-05-09 03:35:50,634 : INFO : SGNS loss: 46.5717
+2022-05-09 03:35:50,634 : INFO : Dirichlet loss: -10361.4691
+2022-05-09 03:35:50,634 : INFO : Prediction loss: 18417.7916
+2022-05-09 03:35:50,634 : INFO : Diversity loss: 33157.6084
+2022-05-09 03:35:50,638 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:35:50,638 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:35:54,661 : INFO : Train AUC: 0.9961
+2022-05-09 03:35:54,664 : INFO : Test AUC: 0.9944
+2022-05-09 03:35:54,664 : INFO : epoch 4/30:
+2022-05-09 03:35:54,664 : INFO : Total loss: 24460.3549
+2022-05-09 03:35:54,664 : INFO : SGNS loss: 46.5713
+2022-05-09 03:35:54,665 : INFO : Dirichlet loss: -10361.5509
+2022-05-09 03:35:54,665 : INFO : Prediction loss: 1617.7259
+2022-05-09 03:35:54,665 : INFO : Diversity loss: 33157.6086
+2022-05-09 03:35:54,668 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:35:54,668 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:35:58,690 : INFO : Train AUC: 0.9620
+2022-05-09 03:35:58,693 : INFO : Test AUC: 0.9547
+2022-05-09 03:35:58,693 : INFO : epoch 5/30:
+2022-05-09 03:35:58,693 : INFO : Total loss: 23916.0537
+2022-05-09 03:35:58,693 : INFO : SGNS loss: 46.5752
+2022-05-09 03:35:58,693 : INFO : Dirichlet loss: -10361.3058
+2022-05-09 03:35:58,693 : INFO : Prediction loss: 1073.1754
+2022-05-09 03:35:58,694 : INFO : Diversity loss: 33157.6089
+2022-05-09 03:35:58,697 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:35:58,697 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:36:02,813 : INFO : Train AUC: 0.9939
+2022-05-09 03:36:02,816 : INFO : Test AUC: 0.9919
+2022-05-09 03:36:02,816 : INFO : epoch 6/30:
+2022-05-09 03:36:02,816 : INFO : Total loss: 23974.2103
+2022-05-09 03:36:02,816 : INFO : SGNS loss: 46.5682
+2022-05-09 03:36:02,816 : INFO : Dirichlet loss: -10361.2211
+2022-05-09 03:36:02,817 : INFO : Prediction loss: 1131.2547
+2022-05-09 03:36:02,817 : INFO : Diversity loss: 33157.6086
+2022-05-09 03:36:02,820 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:36:02,820 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:36:06,797 : INFO : Train AUC: 0.9982
+2022-05-09 03:36:06,800 : INFO : Test AUC: 0.9976
+2022-05-09 03:36:06,800 : INFO : epoch 7/30:
+2022-05-09 03:36:06,800 : INFO : Total loss: 23892.5585
+2022-05-09 03:36:06,800 : INFO : SGNS loss: 46.5703
+2022-05-09 03:36:06,800 : INFO : Dirichlet loss: -10360.1550
+2022-05-09 03:36:06,801 : INFO : Prediction loss: 1048.5344
+2022-05-09 03:36:06,801 : INFO : Diversity loss: 33157.6088
+2022-05-09 03:36:06,804 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:36:06,804 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:36:10,758 : INFO : Train AUC: 0.9769
+2022-05-09 03:36:10,761 : INFO : Test AUC: 0.9733
+2022-05-09 03:36:10,761 : INFO : epoch 8/30:
+2022-05-09 03:36:10,761 : INFO : Total loss: 23858.7561
+2022-05-09 03:36:10,761 : INFO : SGNS loss: 46.5741
+2022-05-09 03:36:10,761 : INFO : Dirichlet loss: -10341.6711
+2022-05-09 03:36:10,761 : INFO : Prediction loss: 996.2444
+2022-05-09 03:36:10,762 : INFO : Diversity loss: 33157.6087
+2022-05-09 03:36:10,765 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:36:10,765 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:36:14,773 : INFO : Train AUC: 0.9959
+2022-05-09 03:36:14,776 : INFO : Test AUC: 0.9952
+2022-05-09 03:36:14,776 : INFO : epoch 9/30:
+2022-05-09 03:36:14,776 : INFO : Total loss: 23971.9437
+2022-05-09 03:36:14,776 : INFO : SGNS loss: 46.5694
+2022-05-09 03:36:14,777 : INFO : Dirichlet loss: -10308.1615
+2022-05-09 03:36:14,777 : INFO : Prediction loss: 1075.9272
+2022-05-09 03:36:14,777 : INFO : Diversity loss: 33157.6086
+2022-05-09 03:36:14,780 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:36:14,780 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:36:18,865 : INFO : Train AUC: 0.9987
+2022-05-09 03:36:18,868 : INFO : Test AUC: 0.9986
+2022-05-09 03:36:18,868 : INFO : epoch 10/30:
+2022-05-09 03:36:18,868 : INFO : Total loss: 23917.8195
+2022-05-09 03:36:18,868 : INFO : SGNS loss: 46.5732
+2022-05-09 03:36:18,869 : INFO : Dirichlet loss: -10289.4080
+2022-05-09 03:36:18,869 : INFO : Prediction loss: 1003.0454
+2022-05-09 03:36:18,869 : INFO : Diversity loss: 33157.6089
+2022-05-09 03:36:18,872 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:36:18,872 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:36:22,906 : INFO : Train AUC: 0.9812
+2022-05-09 03:36:22,909 : INFO : Test AUC: 0.9798
+2022-05-09 03:36:22,909 : INFO : epoch 11/30:
+2022-05-09 03:36:22,909 : INFO : Total loss: 24030.1542
+2022-05-09 03:36:22,909 : INFO : SGNS loss: 46.5696
+2022-05-09 03:36:22,909 : INFO : Dirichlet loss: -10148.6254
+2022-05-09 03:36:22,909 : INFO : Prediction loss: 974.6013
+2022-05-09 03:36:22,910 : INFO : Diversity loss: 33157.6087
+2022-05-09 03:36:22,913 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:36:22,913 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:36:26,914 : INFO : Train AUC: 0.9964
+2022-05-09 03:36:26,917 : INFO : Test AUC: 0.9960
+2022-05-09 03:36:26,917 : INFO : epoch 12/30:
+2022-05-09 03:36:26,917 : INFO : Total loss: 24400.9259
+2022-05-09 03:36:26,917 : INFO : SGNS loss: 46.5511
+2022-05-09 03:36:26,917 : INFO : Dirichlet loss: -9860.1587
+2022-05-09 03:36:26,918 : INFO : Prediction loss: 1056.9249
+2022-05-09 03:36:26,918 : INFO : Diversity loss: 33157.6086
+2022-05-09 03:36:26,921 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:36:26,922 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:36:30,903 : INFO : Train AUC: 0.9989
+2022-05-09 03:36:30,906 : INFO : Test AUC: 0.9988
+2022-05-09 03:36:30,906 : INFO : epoch 13/30:
+2022-05-09 03:36:30,908 : INFO : Total loss: 24517.9413
+2022-05-09 03:36:30,908 : INFO : SGNS loss: 46.5094
+2022-05-09 03:36:30,908 : INFO : Dirichlet loss: -9652.8969
+2022-05-09 03:36:30,908 : INFO : Prediction loss: 966.7205
+2022-05-09 03:36:30,908 : INFO : Diversity loss: 33157.6084
+2022-05-09 03:36:30,912 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:36:30,912 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:36:34,894 : INFO : Train AUC: 0.9815
+2022-05-09 03:36:34,897 : INFO : Test AUC: 0.9791
+2022-05-09 03:36:34,897 : INFO : epoch 14/30:
+2022-05-09 03:36:34,897 : INFO : Total loss: 24624.9595
+2022-05-09 03:36:34,897 : INFO : SGNS loss: 46.4998
+2022-05-09 03:36:34,897 : INFO : Dirichlet loss: -9508.1787
+2022-05-09 03:36:34,897 : INFO : Prediction loss: 929.0300
+2022-05-09 03:36:34,897 : INFO : Diversity loss: 33157.6084
+2022-05-09 03:36:34,901 : INFO : concept 1: eventually support wood future cost dirt add upgrade bag device
+2022-05-09 03:36:34,901 : INFO : concept 2: easy watch manual wooden classy winter hinge height understand catalogue
+2022-05-09 03:36:39,204 : INFO : Train AUC: 0.9966
+2022-05-09 03:36:39,207 : INFO : Test AUC: 0.9963
+2022-05-09 03:36:39,207 : INFO : epoch 15/30:
+2022-05-09 03:36:39,207 : INFO : Total loss: 8582.2062
+2022-05-09 03:36:39,207 : INFO : SGNS loss: 40.9917
+2022-05-09 03:36:39,207 : INFO : Dirichlet loss: -10326.6164
+2022-05-09 03:36:39,207 : INFO : Prediction loss: 1003.0200
+2022-05-09 03:36:39,208 : INFO : Diversity loss: 17864.8109
+2022-05-09 03:36:39,211 : INFO : concept 1: great use phone easy answer tank meet exist minor blow
+2022-05-09 03:36:39,211 : INFO : concept 2: easy great look chrome buy awkward write use price listen
+2022-05-09 03:36:43,521 : INFO : Train AUC: 0.9988
+2022-05-09 03:36:43,524 : INFO : Test AUC: 0.9988
+2022-05-09 03:36:43,524 : INFO : epoch 16/30:
+2022-05-09 03:36:43,525 : INFO : Total loss: -15421.2050
+2022-05-09 03:36:43,525 : INFO : SGNS loss: 39.2236
+2022-05-09 03:36:43,525 : INFO : Dirichlet loss: -10359.5622
+2022-05-09 03:36:43,525 : INFO : Prediction loss: 947.5726
+2022-05-09 03:36:43,525 : INFO : Diversity loss: -6048.4389
+2022-05-09 03:36:43,528 : INFO : concept 1: complicated spin friendly huge hdmi mess bedside use total great
+2022-05-09 03:36:43,529 : INFO : concept 2: fi version secure rating holder eventually improvement pleasantly recomend stuff
+2022-05-09 03:36:47,810 : INFO : Train AUC: 0.9818
+2022-05-09 03:36:47,812 : INFO : Test AUC: 0.9795
+2022-05-09 03:36:47,812 : INFO : epoch 17/30:
+2022-05-09 03:36:47,813 : INFO : Total loss: -23967.8558
+2022-05-09 03:36:47,813 : INFO : SGNS loss: 40.0522
+2022-05-09 03:36:47,813 : INFO : Dirichlet loss: -10359.2234
+2022-05-09 03:36:47,813 : INFO : Prediction loss: 921.1658
+2022-05-09 03:36:47,813 : INFO : Diversity loss: -14569.8506
+2022-05-09 03:36:47,816 : INFO : concept 1: television nearly affordable complicated video terrible fair annoying actual recently
+2022-05-09 03:36:47,816 : INFO : concept 2: forget program look useful curtain original tap cheap lounge past
+2022-05-09 03:36:52,113 : INFO : Train AUC: 0.9964
+2022-05-09 03:36:52,116 : INFO : Test AUC: 0.9959
+2022-05-09 03:36:52,116 : INFO : epoch 18/30:
+2022-05-09 03:36:52,116 : INFO : Total loss: -27369.5964
+2022-05-09 03:36:52,116 : INFO : SGNS loss: 41.3027
+2022-05-09 03:36:52,116 : INFO : Dirichlet loss: -10358.2288
+2022-05-09 03:36:52,116 : INFO : Prediction loss: 995.6832
+2022-05-09 03:36:52,116 : INFO : Diversity loss: -18048.3534
+2022-05-09 03:36:52,120 : INFO : concept 1: wifi word tight holiday today dust catch detail lg perform
+2022-05-09 03:36:52,120 : INFO : concept 2: angle total head gadget television grandson container maybe basket touch
+2022-05-09 03:36:56,402 : INFO : Train AUC: 0.9988
+2022-05-09 03:36:56,404 : INFO : Test AUC: 0.9988
+2022-05-09 03:36:56,405 : INFO : epoch 19/30:
+2022-05-09 03:36:56,405 : INFO : Total loss: -28681.6087
+2022-05-09 03:36:56,405 : INFO : SGNS loss: 41.8375
+2022-05-09 03:36:56,405 : INFO : Dirichlet loss: -10359.1038
+2022-05-09 03:36:56,405 : INFO : Prediction loss: 943.6348
+2022-05-09 03:36:56,405 : INFO : Diversity loss: -19307.9772
+2022-05-09 03:36:56,409 : INFO : concept 1: tank alternative improvement microwave xbox toast limited matter press hop
+2022-05-09 03:36:56,409 : INFO : concept 2: opinion hook poorly initially slow bulb website check definately notice
+2022-05-09 03:37:00,681 : INFO : Train AUC: 0.9814
+2022-05-09 03:37:00,683 : INFO : Test AUC: 0.9788
+2022-05-09 03:37:00,684 : INFO : epoch 20/30:
+2022-05-09 03:37:00,684 : INFO : Total loss: -29253.9639
+2022-05-09 03:37:00,684 : INFO : SGNS loss: 42.0418
+2022-05-09 03:37:00,684 : INFO : Dirichlet loss: -10356.8229
+2022-05-09 03:37:00,684 : INFO : Prediction loss: 914.0067
+2022-05-09 03:37:00,685 : INFO : Diversity loss: -19853.1895
+2022-05-09 03:37:00,688 : INFO : concept 1: answer position manual finger eye guest cleaning face early sony
+2022-05-09 03:37:00,688 : INFO : concept 2: solid check moment hang summer hobbs sky click replacement actually
+2022-05-09 03:37:04,933 : INFO : Train AUC: 0.9963
+2022-05-09 03:37:04,936 : INFO : Test AUC: 0.9959
+2022-05-09 03:37:04,936 : INFO : epoch 21/30:
+2022-05-09 03:37:04,936 : INFO : Total loss: -29444.4578
+2022-05-09 03:37:04,936 : INFO : SGNS loss: 42.2095
+2022-05-09 03:37:04,936 : INFO : Dirichlet loss: -10356.0329
+2022-05-09 03:37:04,936 : INFO : Prediction loss: 1003.0286
+2022-05-09 03:37:04,937 : INFO : Diversity loss: -20133.6629
+2022-05-09 03:37:04,940 : INFO : concept 1: exchange tank setup programme patio minor despite attachment crease watch
+2022-05-09 03:37:04,940 : INFO : concept 2: advertise frame tell happen slide slim advise cold hdmi meet
+2022-05-09 03:37:09,214 : INFO : Train AUC: 0.9987
+2022-05-09 03:37:09,217 : INFO : Test AUC: 0.9986
+2022-05-09 03:37:09,217 : INFO : epoch 22/30:
+2022-05-09 03:37:09,218 : INFO : Total loss: -29658.4823
+2022-05-09 03:37:09,218 : INFO : SGNS loss: 42.3728
+2022-05-09 03:37:09,218 : INFO : Dirichlet loss: -10357.0726
+2022-05-09 03:37:09,218 : INFO : Prediction loss: 952.8679
+2022-05-09 03:37:09,218 : INFO : Diversity loss: -20296.6503
+2022-05-09 03:37:09,221 : INFO : concept 1: guide detail microwave carpet tablet bend minor allow samsung compact
+2022-05-09 03:37:09,222 : INFO : concept 2: construction cheerful windows clip inside outside rail gap consider wide
+2022-05-09 03:37:13,497 : INFO : Train AUC: 0.9804
+2022-05-09 03:37:13,500 : INFO : Test AUC: 0.9785
+2022-05-09 03:37:13,500 : INFO : epoch 23/30:
+2022-05-09 03:37:13,500 : INFO : Total loss: -29794.6411
+2022-05-09 03:37:13,500 : INFO : SGNS loss: 42.6078
+2022-05-09 03:37:13,500 : INFO : Dirichlet loss: -10352.5518
+2022-05-09 03:37:13,500 : INFO : Prediction loss: 915.1627
+2022-05-09 03:37:13,500 : INFO : Diversity loss: -20399.8597
+2022-05-09 03:37:13,504 : INFO : concept 1: heater disappoint feed mother block wife finally tool term smooth
+2022-05-09 03:37:13,504 : INFO : concept 2: near measure slice particularly fresh age friendly stainless loose elegant
+2022-05-09 03:37:17,760 : INFO : Train AUC: 0.9960
+2022-05-09 03:37:17,763 : INFO : Test AUC: 0.9957
+2022-05-09 03:37:17,763 : INFO : epoch 24/30:
+2022-05-09 03:37:17,763 : INFO : Total loss: -29772.5002
+2022-05-09 03:37:17,763 : INFO : SGNS loss: 42.8133
+2022-05-09 03:37:17,763 : INFO : Dirichlet loss: -10352.1493
+2022-05-09 03:37:17,764 : INFO : Prediction loss: 1006.2942
+2022-05-09 03:37:17,764 : INFO : Diversity loss: -20469.4584
+2022-05-09 03:37:17,767 : INFO : concept 1: dust thoroughly limited area samsung setup body operate hdmi surprisingly
+2022-05-09 03:37:17,767 : INFO : concept 2: enjoy saver cheerful gadget brighten brill container glue boil today
+2022-05-09 03:37:22,087 : INFO : Train AUC: 0.9986
+2022-05-09 03:37:22,089 : INFO : Test AUC: 0.9986
+2022-05-09 03:37:22,090 : INFO : epoch 25/30:
+2022-05-09 03:37:22,090 : INFO : Total loss: -29870.9061
+2022-05-09 03:37:22,090 : INFO : SGNS loss: 42.8346
+2022-05-09 03:37:22,090 : INFO : Dirichlet loss: -10349.7774
+2022-05-09 03:37:22,090 : INFO : Prediction loss: 954.7247
+2022-05-09 03:37:22,090 : INFO : Diversity loss: -20518.6880
+2022-05-09 03:37:22,093 : INFO : concept 1: brilliantly awesome drop catch self gadget stuff tank believe view
+2022-05-09 03:37:22,094 : INFO : concept 2: grip protect mention yes hook suitable pour fair frame roll
+2022-05-09 03:37:26,359 : INFO : Train AUC: 0.9791
+2022-05-09 03:37:26,362 : INFO : Test AUC: 0.9777
+2022-05-09 03:37:26,362 : INFO : epoch 26/30:
+2022-05-09 03:37:26,362 : INFO : Total loss: -29934.4647
+2022-05-09 03:37:26,362 : INFO : SGNS loss: 43.1517
+2022-05-09 03:37:26,363 : INFO : Dirichlet loss: -10351.5123
+2022-05-09 03:37:26,363 : INFO : Prediction loss: 928.7336
+2022-05-09 03:37:26,363 : INFO : Diversity loss: -20554.8376
+2022-05-09 03:37:26,366 : INFO : concept 1: elderly limit sorry past position comfy moment improve wonderful thoroughly
+2022-05-09 03:37:26,366 : INFO : concept 2: protector lounge unable nearly exist figure cupboard bright serve useful
+2022-05-09 03:37:30,631 : INFO : Train AUC: 0.9958
+2022-05-09 03:37:30,634 : INFO : Test AUC: 0.9956
+2022-05-09 03:37:30,635 : INFO : epoch 27/30:
+2022-05-09 03:37:30,635 : INFO : Total loss: -29877.3789
+2022-05-09 03:37:30,635 : INFO : SGNS loss: 43.0888
+2022-05-09 03:37:30,635 : INFO : Dirichlet loss: -10351.4505
+2022-05-09 03:37:30,635 : INFO : Prediction loss: 1013.1773
+2022-05-09 03:37:30,635 : INFO : Diversity loss: -20582.1945
+2022-05-09 03:37:30,639 : INFO : concept 1: similar tank instead sized xmas blue daily section gap stair
+2022-05-09 03:37:30,639 : INFO : concept 2: manual best answer lock rail gorgeous wow long tricky poorly
+2022-05-09 03:37:34,912 : INFO : Train AUC: 0.9985
+2022-05-09 03:37:34,914 : INFO : Test AUC: 0.9984
+2022-05-09 03:37:34,915 : INFO : epoch 28/30:
+2022-05-09 03:37:34,915 : INFO : Total loss: -29953.5013
+2022-05-09 03:37:34,915 : INFO : SGNS loss: 43.0176
+2022-05-09 03:37:34,915 : INFO : Dirichlet loss: -10352.2381
+2022-05-09 03:37:34,915 : INFO : Prediction loss: 959.1338
+2022-05-09 03:37:34,915 : INFO : Diversity loss: -20603.4146
+2022-05-09 03:37:34,919 : INFO : concept 1: forget stay wifi bend awful pop catch poorly self impossible
+2022-05-09 03:37:34,919 : INFO : concept 2: underneath awesome requirement thick affordable toy versatile complete thoroughly television
+2022-05-09 03:37:39,193 : INFO : Train AUC: 0.9783
+2022-05-09 03:37:39,195 : INFO : Test AUC: 0.9769
+2022-05-09 03:37:39,196 : INFO : epoch 29/30:
+2022-05-09 03:37:39,196 : INFO : Total loss: -29991.6389
+2022-05-09 03:37:39,196 : INFO : SGNS loss: 42.9513
+2022-05-09 03:37:39,196 : INFO : Dirichlet loss: -10350.8231
+2022-05-09 03:37:39,196 : INFO : Prediction loss: 936.4504
+2022-05-09 03:37:39,196 : INFO : Diversity loss: -20620.2176
+2022-05-09 03:37:39,199 : INFO : concept 1: realise reduce longer additional app worried tile sharp search sky
+2022-05-09 03:37:39,200 : INFO : concept 2: badly word bowl definately obviously sony totally moment hinge rail

@@ -1,0 +1,300 @@
+2022-05-09 05:33:16,524 : INFO : Train AUC: 0.4552
+2022-05-09 05:33:16,528 : INFO : Test AUC: 0.4573
+2022-05-09 05:33:16,528 : INFO : epoch 0/30:
+2022-05-09 05:33:16,528 : INFO : Total loss: 45085.6095
+2022-05-09 05:33:16,528 : INFO : SGNS loss: 46.0595
+2022-05-09 05:33:16,528 : INFO : Dirichlet loss: -64.0358
+2022-05-09 05:33:16,529 : INFO : Prediction loss: 44771.9973
+2022-05-09 05:33:16,529 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:16,532 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:16,532 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:33:20,750 : INFO : Train AUC: 0.0717
+2022-05-09 05:33:20,753 : INFO : Test AUC: 0.0769
+2022-05-09 05:33:20,753 : INFO : epoch 1/30:
+2022-05-09 05:33:20,753 : INFO : Total loss: 2577.9478
+2022-05-09 05:33:20,753 : INFO : SGNS loss: 46.3250
+2022-05-09 05:33:20,754 : INFO : Dirichlet loss: -84.6343
+2022-05-09 05:33:20,754 : INFO : Prediction loss: 2284.6688
+2022-05-09 05:33:20,754 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:20,757 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:20,758 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:33:24,987 : INFO : Train AUC: 0.1678
+2022-05-09 05:33:24,991 : INFO : Test AUC: 0.1566
+2022-05-09 05:33:24,991 : INFO : epoch 2/30:
+2022-05-09 05:33:24,991 : INFO : Total loss: 722.1385
+2022-05-09 05:33:24,991 : INFO : SGNS loss: 46.4426
+2022-05-09 05:33:24,991 : INFO : Dirichlet loss: -68.9889
+2022-05-09 05:33:24,991 : INFO : Prediction loss: 413.0964
+2022-05-09 05:33:24,991 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:24,995 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:24,995 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:33:29,181 : INFO : Train AUC: 0.1252
+2022-05-09 05:33:29,184 : INFO : Test AUC: 0.1168
+2022-05-09 05:33:29,184 : INFO : epoch 3/30:
+2022-05-09 05:33:29,185 : INFO : Total loss: 547.4838
+2022-05-09 05:33:29,185 : INFO : SGNS loss: 46.3990
+2022-05-09 05:33:29,185 : INFO : Dirichlet loss: -67.3319
+2022-05-09 05:33:29,185 : INFO : Prediction loss: 236.8283
+2022-05-09 05:33:29,185 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:29,189 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:29,189 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:33:33,416 : INFO : Train AUC: 0.0204
+2022-05-09 05:33:33,420 : INFO : Test AUC: 0.0168
+2022-05-09 05:33:33,420 : INFO : epoch 4/30:
+2022-05-09 05:33:33,420 : INFO : Total loss: 411.8073
+2022-05-09 05:33:33,420 : INFO : SGNS loss: 46.3803
+2022-05-09 05:33:33,421 : INFO : Dirichlet loss: -66.7594
+2022-05-09 05:33:33,421 : INFO : Prediction loss: 100.5980
+2022-05-09 05:33:33,421 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:33,424 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:33,425 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:33:37,631 : INFO : Train AUC: 0.0376
+2022-05-09 05:33:37,634 : INFO : Test AUC: 0.0346
+2022-05-09 05:33:37,634 : INFO : epoch 5/30:
+2022-05-09 05:33:37,635 : INFO : Total loss: 358.6574
+2022-05-09 05:33:37,635 : INFO : SGNS loss: 46.3630
+2022-05-09 05:33:37,635 : INFO : Dirichlet loss: -71.7511
+2022-05-09 05:33:37,635 : INFO : Prediction loss: 52.4571
+2022-05-09 05:33:37,635 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:37,639 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:37,639 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:33:41,835 : INFO : Train AUC: 0.0445
+2022-05-09 05:33:41,838 : INFO : Test AUC: 0.0382
+2022-05-09 05:33:41,839 : INFO : epoch 6/30:
+2022-05-09 05:33:41,839 : INFO : Total loss: 367.5067
+2022-05-09 05:33:41,839 : INFO : SGNS loss: 46.3351
+2022-05-09 05:33:41,839 : INFO : Dirichlet loss: -60.0014
+2022-05-09 05:33:41,839 : INFO : Prediction loss: 49.5846
+2022-05-09 05:33:41,839 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:41,843 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:41,843 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:33:46,054 : INFO : Train AUC: 0.0635
+2022-05-09 05:33:46,057 : INFO : Test AUC: 0.0531
+2022-05-09 05:33:46,057 : INFO : epoch 7/30:
+2022-05-09 05:33:46,057 : INFO : Total loss: 364.8553
+2022-05-09 05:33:46,057 : INFO : SGNS loss: 46.3146
+2022-05-09 05:33:46,058 : INFO : Dirichlet loss: -60.2001
+2022-05-09 05:33:46,058 : INFO : Prediction loss: 47.1524
+2022-05-09 05:33:46,058 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:46,062 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:46,062 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:33:50,271 : INFO : Train AUC: 0.0794
+2022-05-09 05:33:50,274 : INFO : Test AUC: 0.0646
+2022-05-09 05:33:50,274 : INFO : epoch 8/30:
+2022-05-09 05:33:50,274 : INFO : Total loss: 361.9393
+2022-05-09 05:33:50,274 : INFO : SGNS loss: 46.3020
+2022-05-09 05:33:50,275 : INFO : Dirichlet loss: -61.5117
+2022-05-09 05:33:50,275 : INFO : Prediction loss: 45.5607
+2022-05-09 05:33:50,275 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:50,281 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:50,281 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:33:54,594 : INFO : Train AUC: 0.0963
+2022-05-09 05:33:54,597 : INFO : Test AUC: 0.0746
+2022-05-09 05:33:54,598 : INFO : epoch 9/30:
+2022-05-09 05:33:54,598 : INFO : Total loss: 359.7197
+2022-05-09 05:33:54,598 : INFO : SGNS loss: 46.2963
+2022-05-09 05:33:54,598 : INFO : Dirichlet loss: -62.0018
+2022-05-09 05:33:54,598 : INFO : Prediction loss: 43.8369
+2022-05-09 05:33:54,598 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:54,602 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:54,602 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:33:58,838 : INFO : Train AUC: 0.1196
+2022-05-09 05:33:58,841 : INFO : Test AUC: 0.0912
+2022-05-09 05:33:58,841 : INFO : epoch 10/30:
+2022-05-09 05:33:58,842 : INFO : Total loss: 355.8016
+2022-05-09 05:33:58,842 : INFO : SGNS loss: 46.2914
+2022-05-09 05:33:58,842 : INFO : Dirichlet loss: -62.7938
+2022-05-09 05:33:58,842 : INFO : Prediction loss: 40.7156
+2022-05-09 05:33:58,842 : INFO : Diversity loss: 331.5884
+2022-05-09 05:33:58,846 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:33:58,846 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:34:03,090 : INFO : Train AUC: 0.0165
+2022-05-09 05:34:03,094 : INFO : Test AUC: 0.0180
+2022-05-09 05:34:03,094 : INFO : epoch 11/30:
+2022-05-09 05:34:03,094 : INFO : Total loss: 337.2270
+2022-05-09 05:34:03,094 : INFO : SGNS loss: 46.3629
+2022-05-09 05:34:03,094 : INFO : Dirichlet loss: -78.6322
+2022-05-09 05:34:03,094 : INFO : Prediction loss: 37.9080
+2022-05-09 05:34:03,095 : INFO : Diversity loss: 331.5884
+2022-05-09 05:34:03,098 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:34:03,098 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:34:07,350 : INFO : Train AUC: 0.9154
+2022-05-09 05:34:07,353 : INFO : Test AUC: 0.9182
+2022-05-09 05:34:07,353 : INFO : epoch 12/30:
+2022-05-09 05:34:07,353 : INFO : Total loss: 355.1037
+2022-05-09 05:34:07,354 : INFO : SGNS loss: 46.3336
+2022-05-09 05:34:07,354 : INFO : Dirichlet loss: -97.9743
+2022-05-09 05:34:07,354 : INFO : Prediction loss: 75.1560
+2022-05-09 05:34:07,354 : INFO : Diversity loss: 331.5884
+2022-05-09 05:34:07,357 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:34:07,358 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:34:11,585 : INFO : Train AUC: 0.7470
+2022-05-09 05:34:11,588 : INFO : Test AUC: 0.7503
+2022-05-09 05:34:11,588 : INFO : epoch 13/30:
+2022-05-09 05:34:11,589 : INFO : Total loss: 349.4509
+2022-05-09 05:34:11,589 : INFO : SGNS loss: 46.0322
+2022-05-09 05:34:11,589 : INFO : Dirichlet loss: -103.6162
+2022-05-09 05:34:11,589 : INFO : Prediction loss: 75.4466
+2022-05-09 05:34:11,589 : INFO : Diversity loss: 331.5884
+2022-05-09 05:34:11,593 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:34:11,593 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:34:15,794 : INFO : Train AUC: 0.1472
+2022-05-09 05:34:15,797 : INFO : Test AUC: 0.1444
+2022-05-09 05:34:15,798 : INFO : epoch 14/30:
+2022-05-09 05:34:15,798 : INFO : Total loss: 349.9116
+2022-05-09 05:34:15,798 : INFO : SGNS loss: 46.0289
+2022-05-09 05:34:15,798 : INFO : Dirichlet loss: -102.9768
+2022-05-09 05:34:15,798 : INFO : Prediction loss: 75.2711
+2022-05-09 05:34:15,798 : INFO : Diversity loss: 331.5884
+2022-05-09 05:34:15,804 : INFO : concept 1: instead weather edge block access let check early girl rest
+2022-05-09 05:34:15,804 : INFO : concept 2: pad cord fab tip powerful manufacturer angle happy fully charge
+2022-05-09 05:34:20,371 : INFO : Train AUC: 0.8944
+2022-05-09 05:34:20,374 : INFO : Test AUC: 0.8971
+2022-05-09 05:34:20,374 : INFO : epoch 15/30:
+2022-05-09 05:34:20,374 : INFO : Total loss: 175.0551
+2022-05-09 05:34:20,374 : INFO : SGNS loss: 22.2593
+2022-05-09 05:34:20,375 : INFO : Dirichlet loss: -103.5427
+2022-05-09 05:34:20,375 : INFO : Prediction loss: 77.1346
+2022-05-09 05:34:20,375 : INFO : Diversity loss: 179.2040
+2022-05-09 05:34:20,379 : INFO : concept 1: great use easy buy price look money excellent recommend quality
+2022-05-09 05:34:20,379 : INFO : concept 2: comfy slightly toy provide instead shed thank choose completely tablet
+2022-05-09 05:34:24,948 : INFO : Train AUC: 0.7453
+2022-05-09 05:34:24,952 : INFO : Test AUC: 0.7497
+2022-05-09 05:34:24,952 : INFO : epoch 16/30:
+2022-05-09 05:34:24,952 : INFO : Total loss: -70.7093
+2022-05-09 05:34:24,952 : INFO : SGNS loss: 14.9490
+2022-05-09 05:34:24,952 : INFO : Dirichlet loss: -103.6163
+2022-05-09 05:34:24,953 : INFO : Prediction loss: 74.6799
+2022-05-09 05:34:24,953 : INFO : Diversity loss: -56.7219
+2022-05-09 05:34:24,956 : INFO : concept 1: easy use great excellent fit buy money look quality price
+2022-05-09 05:34:24,957 : INFO : concept 2: chrome diy stuff fresh solution display brush body fix update
+2022-05-09 05:34:29,551 : INFO : Train AUC: 0.1456
+2022-05-09 05:34:29,554 : INFO : Test AUC: 0.1440
+2022-05-09 05:34:29,554 : INFO : epoch 17/30:
+2022-05-09 05:34:29,554 : INFO : Total loss: -155.7006
+2022-05-09 05:34:29,554 : INFO : SGNS loss: 14.8997
+2022-05-09 05:34:29,554 : INFO : Dirichlet loss: -103.6163
+2022-05-09 05:34:29,554 : INFO : Prediction loss: 75.0032
+2022-05-09 05:34:29,555 : INFO : Diversity loss: -141.9871
+2022-05-09 05:34:29,558 : INFO : concept 1: look great use buy time money happy easy assemble cheap
+2022-05-09 05:34:29,558 : INFO : concept 2: weather reserve simply key functional mind summer blender cold lay
+2022-05-09 05:34:34,161 : INFO : Train AUC: 0.8909
+2022-05-09 05:34:34,164 : INFO : Test AUC: 0.8933
+2022-05-09 05:34:34,164 : INFO : epoch 18/30:
+2022-05-09 05:34:34,164 : INFO : Total loss: -190.2219
+2022-05-09 05:34:34,165 : INFO : SGNS loss: 14.9040
+2022-05-09 05:34:34,165 : INFO : Dirichlet loss: -103.6161
+2022-05-09 05:34:34,165 : INFO : Prediction loss: 76.9851
+2022-05-09 05:34:34,165 : INFO : Diversity loss: -178.4950
+2022-05-09 05:34:34,169 : INFO : concept 1: great use excellent money price design fit buy easy need
+2022-05-09 05:34:34,169 : INFO : concept 2: mobile tank foot arrive scratch huge fairly baby mark produce
+2022-05-09 05:34:38,718 : INFO : Train AUC: 0.7426
+2022-05-09 05:34:38,721 : INFO : Test AUC: 0.7466
+2022-05-09 05:34:38,721 : INFO : epoch 19/30:
+2022-05-09 05:34:38,721 : INFO : Total loss: -205.9199
+2022-05-09 05:34:38,722 : INFO : SGNS loss: 14.9067
+2022-05-09 05:34:38,722 : INFO : Dirichlet loss: -103.6158
+2022-05-09 05:34:38,722 : INFO : Prediction loss: 74.7189
+2022-05-09 05:34:38,722 : INFO : Diversity loss: -191.9297
+2022-05-09 05:34:38,726 : INFO : concept 1: buy easy look price great use need excellent old high
+2022-05-09 05:34:38,726 : INFO : concept 2: answer hassle grey crease happen adjustable scratch nearly figure slide
+2022-05-09 05:34:43,242 : INFO : Train AUC: 0.1448
+2022-05-09 05:34:43,245 : INFO : Test AUC: 0.1434
+2022-05-09 05:34:43,245 : INFO : epoch 20/30:
+2022-05-09 05:34:43,245 : INFO : Total loss: -211.3853
+2022-05-09 05:34:43,246 : INFO : SGNS loss: 14.9124
+2022-05-09 05:34:43,246 : INFO : Dirichlet loss: -103.6156
+2022-05-09 05:34:43,246 : INFO : Prediction loss: 75.0677
+2022-05-09 05:34:43,246 : INFO : Diversity loss: -197.7499
+2022-05-09 05:34:43,249 : INFO : concept 1: buy easy soon look great recommend money use sound price
+2022-05-09 05:34:43,250 : INFO : concept 2: happen pop iphone dial market term outside construction word angle
+2022-05-09 05:34:47,731 : INFO : Train AUC: 0.8890
+2022-05-09 05:34:47,734 : INFO : Test AUC: 0.8913
+2022-05-09 05:34:47,735 : INFO : epoch 21/30:
+2022-05-09 05:34:47,735 : INFO : Total loss: -212.4433
+2022-05-09 05:34:47,735 : INFO : SGNS loss: 14.9121
+2022-05-09 05:34:47,735 : INFO : Dirichlet loss: -103.6154
+2022-05-09 05:34:47,735 : INFO : Prediction loss: 76.9960
+2022-05-09 05:34:47,735 : INFO : Diversity loss: -200.7360
+2022-05-09 05:34:47,739 : INFO : concept 1: great quality use easy look small time price phone lovely
+2022-05-09 05:34:47,739 : INFO : concept 2: improve straightforward fresh additional timer packaging brilliantly video pour taste
+2022-05-09 05:34:52,272 : INFO : Train AUC: 0.7409
+2022-05-09 05:34:52,275 : INFO : Test AUC: 0.7447
+2022-05-09 05:34:52,275 : INFO : epoch 22/30:
+2022-05-09 05:34:52,275 : INFO : Total loss: -216.6473
+2022-05-09 05:34:52,275 : INFO : SGNS loss: 14.9118
+2022-05-09 05:34:52,276 : INFO : Dirichlet loss: -103.6155
+2022-05-09 05:34:52,276 : INFO : Prediction loss: 74.5226
+2022-05-09 05:34:52,276 : INFO : Diversity loss: -202.4662
+2022-05-09 05:34:52,282 : INFO : concept 1: use price great look buy easy quality space nice son
+2022-05-09 05:34:52,282 : INFO : concept 2: arm slip usual recomend system finger guest test wow damage
+2022-05-09 05:34:56,836 : INFO : Train AUC: 0.1440
+2022-05-09 05:34:56,839 : INFO : Test AUC: 0.1418
+2022-05-09 05:34:56,840 : INFO : epoch 23/30:
+2022-05-09 05:34:56,840 : INFO : Total loss: -217.4492
+2022-05-09 05:34:56,840 : INFO : SGNS loss: 14.9152
+2022-05-09 05:34:56,840 : INFO : Dirichlet loss: -103.6154
+2022-05-09 05:34:56,840 : INFO : Prediction loss: 74.8096
+2022-05-09 05:34:56,840 : INFO : Diversity loss: -203.5587
+2022-05-09 05:34:56,845 : INFO : concept 1: price easy great need lovely use nice perfectly buy bit
+2022-05-09 05:34:56,845 : INFO : concept 2: click fixing figure arm looking clip versatile height patio accessory
+2022-05-09 05:35:01,390 : INFO : Train AUC: 0.8871
+2022-05-09 05:35:01,393 : INFO : Test AUC: 0.8894
+2022-05-09 05:35:01,393 : INFO : epoch 24/30:
+2022-05-09 05:35:01,394 : INFO : Total loss: -216.1341
+2022-05-09 05:35:01,394 : INFO : SGNS loss: 14.9144
+2022-05-09 05:35:01,394 : INFO : Dirichlet loss: -103.6154
+2022-05-09 05:35:01,394 : INFO : Prediction loss: 76.8603
+2022-05-09 05:35:01,394 : INFO : Diversity loss: -204.2933
+2022-05-09 05:35:01,398 : INFO : concept 1: easy use little money buy fit great assemble look purchase
+2022-05-09 05:35:01,398 : INFO : concept 2: badly careful sorry exist feed thoroughly date improvement gorgeous improve
+2022-05-09 05:35:05,927 : INFO : Train AUC: 0.7387
+2022-05-09 05:35:05,930 : INFO : Test AUC: 0.7427
+2022-05-09 05:35:05,931 : INFO : epoch 25/30:
+2022-05-09 05:35:05,931 : INFO : Total loss: -218.9962
+2022-05-09 05:35:05,931 : INFO : SGNS loss: 14.9161
+2022-05-09 05:35:05,931 : INFO : Dirichlet loss: -103.6154
+2022-05-09 05:35:05,931 : INFO : Prediction loss: 74.5146
+2022-05-09 05:35:05,932 : INFO : Diversity loss: -204.8115
+2022-05-09 05:35:05,935 : INFO : concept 1: great use easy look price quality buy fit find problem
+2022-05-09 05:35:05,935 : INFO : concept 2: pattern receive manufacturer meet write wet key winter lock mind
+2022-05-09 05:35:10,468 : INFO : Train AUC: 0.1435
+2022-05-09 05:35:10,471 : INFO : Test AUC: 0.1415
+2022-05-09 05:35:10,471 : INFO : epoch 26/30:
+2022-05-09 05:35:10,471 : INFO : Total loss: -218.8875
+2022-05-09 05:35:10,471 : INFO : SGNS loss: 14.9158
+2022-05-09 05:35:10,471 : INFO : Dirichlet loss: -103.6154
+2022-05-09 05:35:10,472 : INFO : Prediction loss: 75.0029
+2022-05-09 05:35:10,472 : INFO : Diversity loss: -205.1908
+2022-05-09 05:35:10,475 : INFO : concept 1: buy easy quality price excellent money time use look purpose
+2022-05-09 05:35:10,476 : INFO : concept 2: hopefully tile accessory wifi fail weather rack meet slim telephone
+2022-05-09 05:35:15,012 : INFO : Train AUC: 0.8859
+2022-05-09 05:35:15,015 : INFO : Test AUC: 0.8879
+2022-05-09 05:35:15,015 : INFO : epoch 27/30:
+2022-05-09 05:35:15,016 : INFO : Total loss: -217.0929
+2022-05-09 05:35:15,016 : INFO : SGNS loss: 14.9151
+2022-05-09 05:35:15,016 : INFO : Dirichlet loss: -103.6154
+2022-05-09 05:35:15,016 : INFO : Prediction loss: 77.0843
+2022-05-09 05:35:15,016 : INFO : Diversity loss: -205.4769
+2022-05-09 05:35:15,020 : INFO : concept 1: great look excellent mode buy use price easy pleased quality
+2022-05-09 05:35:15,020 : INFO : concept 2: mother travel mess crease slice dust catalogue mobile past blend
+2022-05-09 05:35:19,484 : INFO : Train AUC: 0.7390
+2022-05-09 05:35:19,487 : INFO : Test AUC: 0.7426
+2022-05-09 05:35:19,487 : INFO : epoch 28/30:
+2022-05-09 05:35:19,488 : INFO : Total loss: -219.6348
+2022-05-09 05:35:19,488 : INFO : SGNS loss: 14.9170
+2022-05-09 05:35:19,488 : INFO : Dirichlet loss: -103.6154
+2022-05-09 05:35:19,488 : INFO : Prediction loss: 74.7617
+2022-05-09 05:35:19,488 : INFO : Diversity loss: -205.6980
+2022-05-09 05:35:19,492 : INFO : concept 1: use look great happy quality excellent let small cartridge buy
+2022-05-09 05:35:19,492 : INFO : concept 2: course advertise angle straightforward law worried understand pet moment equipment
+2022-05-09 05:35:23,987 : INFO : Train AUC: 0.1439
+2022-05-09 05:35:23,990 : INFO : Test AUC: 0.1421
+2022-05-09 05:35:23,991 : INFO : epoch 29/30:
+2022-05-09 05:35:23,991 : INFO : Total loss: -219.5765
+2022-05-09 05:35:23,991 : INFO : SGNS loss: 14.9173
+2022-05-09 05:35:23,991 : INFO : Dirichlet loss: -103.6154
+2022-05-09 05:35:23,991 : INFO : Prediction loss: 74.9938
+2022-05-09 05:35:23,991 : INFO : Diversity loss: -205.8722
+2022-05-09 05:35:23,995 : INFO : concept 1: great buy easy duvet price use purchase look lovely microwave
+2022-05-09 05:35:23,995 : INFO : concept 2: badly seal grey panel film hide age sky fixing early

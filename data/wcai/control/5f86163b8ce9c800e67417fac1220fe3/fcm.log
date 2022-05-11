@@ -1,0 +1,300 @@
+2022-05-09 12:44:01,371 : INFO : Train AUC: 0.5913
+2022-05-09 12:44:01,375 : INFO : Test AUC: 0.5864
+2022-05-09 12:44:01,375 : INFO : epoch 0/30:
+2022-05-09 12:44:01,376 : INFO : Total loss: 372063.7988
+2022-05-09 12:44:01,376 : INFO : SGNS loss: 46.4956
+2022-05-09 12:44:01,376 : INFO : Dirichlet loss: -10.0433
+2022-05-09 12:44:01,376 : INFO : Prediction loss: 371695.7508
+2022-05-09 12:44:01,377 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:01,381 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:01,381 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:06,338 : INFO : Train AUC: 0.5547
+2022-05-09 12:44:06,344 : INFO : Test AUC: 0.5518
+2022-05-09 12:44:06,344 : INFO : epoch 1/30:
+2022-05-09 12:44:06,345 : INFO : Total loss: 39240.2653
+2022-05-09 12:44:06,345 : INFO : SGNS loss: 46.5034
+2022-05-09 12:44:06,345 : INFO : Dirichlet loss: -10.3541
+2022-05-09 12:44:06,345 : INFO : Prediction loss: 38872.5204
+2022-05-09 12:44:06,346 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:06,357 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:06,357 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:11,402 : INFO : Train AUC: 0.1872
+2022-05-09 12:44:11,406 : INFO : Test AUC: 0.1816
+2022-05-09 12:44:11,406 : INFO : epoch 2/30:
+2022-05-09 12:44:11,406 : INFO : Total loss: 15231.0271
+2022-05-09 12:44:11,407 : INFO : SGNS loss: 46.5013
+2022-05-09 12:44:11,407 : INFO : Dirichlet loss: -10.3444
+2022-05-09 12:44:11,407 : INFO : Prediction loss: 14863.2746
+2022-05-09 12:44:11,407 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:11,412 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:11,412 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:16,772 : INFO : Train AUC: 0.9373
+2022-05-09 12:44:16,776 : INFO : Test AUC: 0.9385
+2022-05-09 12:44:16,776 : INFO : epoch 3/30:
+2022-05-09 12:44:16,776 : INFO : Total loss: 9242.5472
+2022-05-09 12:44:16,777 : INFO : SGNS loss: 46.5016
+2022-05-09 12:44:16,777 : INFO : Dirichlet loss: -10.3212
+2022-05-09 12:44:16,777 : INFO : Prediction loss: 8874.7711
+2022-05-09 12:44:16,777 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:16,782 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:16,782 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:21,896 : INFO : Train AUC: 0.1235
+2022-05-09 12:44:21,901 : INFO : Test AUC: 0.1145
+2022-05-09 12:44:21,901 : INFO : epoch 4/30:
+2022-05-09 12:44:21,902 : INFO : Total loss: 9053.7756
+2022-05-09 12:44:21,902 : INFO : SGNS loss: 46.5003
+2022-05-09 12:44:21,902 : INFO : Dirichlet loss: -10.2879
+2022-05-09 12:44:21,902 : INFO : Prediction loss: 8685.9676
+2022-05-09 12:44:21,903 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:21,910 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:21,910 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:27,148 : INFO : Train AUC: 0.9390
+2022-05-09 12:44:27,151 : INFO : Test AUC: 0.9403
+2022-05-09 12:44:27,152 : INFO : epoch 5/30:
+2022-05-09 12:44:27,152 : INFO : Total loss: 9062.8193
+2022-05-09 12:44:27,152 : INFO : SGNS loss: 46.4961
+2022-05-09 12:44:27,152 : INFO : Dirichlet loss: -10.0333
+2022-05-09 12:44:27,153 : INFO : Prediction loss: 8694.7608
+2022-05-09 12:44:27,153 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:27,158 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:27,158 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:32,254 : INFO : Train AUC: 0.1237
+2022-05-09 12:44:32,258 : INFO : Test AUC: 0.1149
+2022-05-09 12:44:32,258 : INFO : epoch 6/30:
+2022-05-09 12:44:32,258 : INFO : Total loss: 8938.9411
+2022-05-09 12:44:32,258 : INFO : SGNS loss: 46.4840
+2022-05-09 12:44:32,258 : INFO : Dirichlet loss: -10.0046
+2022-05-09 12:44:32,259 : INFO : Prediction loss: 8570.8661
+2022-05-09 12:44:32,259 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:32,264 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:32,264 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:37,432 : INFO : Train AUC: 0.9483
+2022-05-09 12:44:37,435 : INFO : Test AUC: 0.9491
+2022-05-09 12:44:37,436 : INFO : epoch 7/30:
+2022-05-09 12:44:37,436 : INFO : Total loss: 8833.8506
+2022-05-09 12:44:37,436 : INFO : SGNS loss: 46.4766
+2022-05-09 12:44:37,436 : INFO : Dirichlet loss: -9.9159
+2022-05-09 12:44:37,437 : INFO : Prediction loss: 8465.6941
+2022-05-09 12:44:37,437 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:37,442 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:37,442 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:42,479 : INFO : Train AUC: 0.1358
+2022-05-09 12:44:42,483 : INFO : Test AUC: 0.1217
+2022-05-09 12:44:42,483 : INFO : epoch 8/30:
+2022-05-09 12:44:42,483 : INFO : Total loss: 8639.8592
+2022-05-09 12:44:42,484 : INFO : SGNS loss: 46.4681
+2022-05-09 12:44:42,484 : INFO : Dirichlet loss: -9.9778
+2022-05-09 12:44:42,484 : INFO : Prediction loss: 8271.7733
+2022-05-09 12:44:42,484 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:42,489 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:42,489 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:47,703 : INFO : Train AUC: 0.9544
+2022-05-09 12:44:47,707 : INFO : Test AUC: 0.9531
+2022-05-09 12:44:47,708 : INFO : epoch 9/30:
+2022-05-09 12:44:47,708 : INFO : Total loss: 8486.2576
+2022-05-09 12:44:47,708 : INFO : SGNS loss: 46.4706
+2022-05-09 12:44:47,708 : INFO : Dirichlet loss: -9.9077
+2022-05-09 12:44:47,709 : INFO : Prediction loss: 8118.0990
+2022-05-09 12:44:47,709 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:47,714 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:47,715 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:52,880 : INFO : Train AUC: 0.1556
+2022-05-09 12:44:52,884 : INFO : Test AUC: 0.1340
+2022-05-09 12:44:52,884 : INFO : epoch 10/30:
+2022-05-09 12:44:52,884 : INFO : Total loss: 8425.1678
+2022-05-09 12:44:52,884 : INFO : SGNS loss: 46.4677
+2022-05-09 12:44:52,885 : INFO : Dirichlet loss: -9.7802
+2022-05-09 12:44:52,885 : INFO : Prediction loss: 8056.8846
+2022-05-09 12:44:52,885 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:52,890 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:52,890 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:44:58,082 : INFO : Train AUC: 0.9592
+2022-05-09 12:44:58,086 : INFO : Test AUC: 0.9569
+2022-05-09 12:44:58,086 : INFO : epoch 11/30:
+2022-05-09 12:44:58,087 : INFO : Total loss: 8243.3633
+2022-05-09 12:44:58,087 : INFO : SGNS loss: 46.4603
+2022-05-09 12:44:58,087 : INFO : Dirichlet loss: -9.7652
+2022-05-09 12:44:58,087 : INFO : Prediction loss: 7875.0725
+2022-05-09 12:44:58,088 : INFO : Diversity loss: 331.5957
+2022-05-09 12:44:58,093 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:44:58,093 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:45:03,129 : INFO : Train AUC: 0.2027
+2022-05-09 12:45:03,136 : INFO : Test AUC: 0.1657
+2022-05-09 12:45:03,136 : INFO : epoch 12/30:
+2022-05-09 12:45:03,136 : INFO : Total loss: 7963.0605
+2022-05-09 12:45:03,136 : INFO : SGNS loss: 46.4550
+2022-05-09 12:45:03,137 : INFO : Dirichlet loss: -9.7362
+2022-05-09 12:45:03,137 : INFO : Prediction loss: 7594.7460
+2022-05-09 12:45:03,137 : INFO : Diversity loss: 331.5957
+2022-05-09 12:45:03,142 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:45:03,142 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:45:08,047 : INFO : Train AUC: 0.9657
+2022-05-09 12:45:08,051 : INFO : Test AUC: 0.9594
+2022-05-09 12:45:08,051 : INFO : epoch 13/30:
+2022-05-09 12:45:08,051 : INFO : Total loss: 7678.9723
+2022-05-09 12:45:08,052 : INFO : SGNS loss: 46.4479
+2022-05-09 12:45:08,052 : INFO : Dirichlet loss: -9.6697
+2022-05-09 12:45:08,052 : INFO : Prediction loss: 7310.5984
+2022-05-09 12:45:08,052 : INFO : Diversity loss: 331.5957
+2022-05-09 12:45:08,057 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:45:08,057 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:45:12,939 : INFO : Train AUC: 0.2715
+2022-05-09 12:45:12,943 : INFO : Test AUC: 0.2116
+2022-05-09 12:45:12,943 : INFO : epoch 14/30:
+2022-05-09 12:45:12,943 : INFO : Total loss: 7401.6656
+2022-05-09 12:45:12,944 : INFO : SGNS loss: 46.4491
+2022-05-09 12:45:12,944 : INFO : Dirichlet loss: -9.7230
+2022-05-09 12:45:12,944 : INFO : Prediction loss: 7033.3438
+2022-05-09 12:45:12,944 : INFO : Diversity loss: 331.5957
+2022-05-09 12:45:12,949 : INFO : concept 1: signal boy bad forward click area stock quilt tablet dial
+2022-05-09 12:45:12,950 : INFO : concept 2: bottle smart iron read thing basket replace bad xbox present
+2022-05-09 12:45:19,046 : INFO : Train AUC: 0.9699
+2022-05-09 12:45:19,049 : INFO : Test AUC: 0.9609
+2022-05-09 12:45:19,050 : INFO : epoch 15/30:
+2022-05-09 12:45:19,050 : INFO : Total loss: 7033.7508
+2022-05-09 12:45:19,050 : INFO : SGNS loss: 41.5461
+2022-05-09 12:45:19,050 : INFO : Dirichlet loss: -9.7830
+2022-05-09 12:45:19,051 : INFO : Prediction loss: 6822.5747
+2022-05-09 12:45:19,051 : INFO : Diversity loss: 179.4129
+2022-05-09 12:45:19,056 : INFO : concept 1: great jug programme easy complicated use test video elderly windows
+2022-05-09 12:45:19,056 : INFO : concept 2: great use easy buy look price packaging mainly quality snap
+2022-05-09 12:45:25,128 : INFO : Train AUC: 0.3323
+2022-05-09 12:45:25,132 : INFO : Test AUC: 0.2507
+2022-05-09 12:45:25,132 : INFO : epoch 16/30:
+2022-05-09 12:45:25,133 : INFO : Total loss: 6612.9943
+2022-05-09 12:45:25,133 : INFO : SGNS loss: 38.5335
+2022-05-09 12:45:25,133 : INFO : Dirichlet loss: -9.8255
+2022-05-09 12:45:25,133 : INFO : Prediction loss: 6643.0531
+2022-05-09 12:45:25,134 : INFO : Diversity loss: -58.7669
+2022-05-09 12:45:25,138 : INFO : concept 1: great plain classy buy use description easy adjustable durable manufacturer
+2022-05-09 12:45:25,138 : INFO : concept 2: collection grey worry complicated gadget term immediately xmas content grandson
+2022-05-09 12:45:31,183 : INFO : Train AUC: 0.9731
+2022-05-09 12:45:31,187 : INFO : Test AUC: 0.9620
+2022-05-09 12:45:31,187 : INFO : epoch 17/30:
+2022-05-09 12:45:31,187 : INFO : Total loss: 6377.9156
+2022-05-09 12:45:31,187 : INFO : SGNS loss: 36.1245
+2022-05-09 12:45:31,188 : INFO : Dirichlet loss: -9.8696
+2022-05-09 12:45:31,188 : INFO : Prediction loss: 6492.8359
+2022-05-09 12:45:31,188 : INFO : Diversity loss: -141.1752
+2022-05-09 12:45:31,193 : INFO : concept 1: constantly nearly initially alot appliance course improvement totally body durable
+2022-05-09 12:45:31,193 : INFO : concept 2: use fixing hobbs jug thoroughly great arm lg buy easy
+2022-05-09 12:45:37,300 : INFO : Train AUC: 0.3909
+2022-05-09 12:45:37,304 : INFO : Test AUC: 0.2937
+2022-05-09 12:45:37,305 : INFO : epoch 18/30:
+2022-05-09 12:45:37,305 : INFO : Total loss: 6171.4288
+2022-05-09 12:45:37,305 : INFO : SGNS loss: 34.5287
+2022-05-09 12:45:37,306 : INFO : Dirichlet loss: -9.8868
+2022-05-09 12:45:37,306 : INFO : Prediction loss: 6322.6698
+2022-05-09 12:45:37,306 : INFO : Diversity loss: -175.8828
+2022-05-09 12:45:37,311 : INFO : concept 1: guide tap gap wow hear criticism sorry television exist law
+2022-05-09 12:45:37,311 : INFO : concept 2: prove test construction pour facility bulky price usually upgrade friendly
+2022-05-09 12:45:43,510 : INFO : Train AUC: 0.9756
+2022-05-09 12:45:43,514 : INFO : Test AUC: 0.9634
+2022-05-09 12:45:43,514 : INFO : epoch 19/30:
+2022-05-09 12:45:43,514 : INFO : Total loss: 6023.6589
+2022-05-09 12:45:43,514 : INFO : SGNS loss: 31.6057
+2022-05-09 12:45:43,515 : INFO : Dirichlet loss: -9.9214
+2022-05-09 12:45:43,515 : INFO : Prediction loss: 6190.4821
+2022-05-09 12:45:43,515 : INFO : Diversity loss: -188.5075
+2022-05-09 12:45:43,520 : INFO : concept 1: program okay pour wipe feed law angle easy best telephone
+2022-05-09 12:45:43,520 : INFO : concept 2: affordable figure dinner body section today great dirt buy special
+2022-05-09 12:45:49,740 : INFO : Train AUC: 0.3953
+2022-05-09 12:45:49,744 : INFO : Test AUC: 0.3365
+2022-05-09 12:45:49,744 : INFO : epoch 20/30:
+2022-05-09 12:45:49,744 : INFO : Total loss: 6982.1477
+2022-05-09 12:45:49,745 : INFO : SGNS loss: 31.7412
+2022-05-09 12:45:49,745 : INFO : Dirichlet loss: -9.6253
+2022-05-09 12:45:49,745 : INFO : Prediction loss: 7153.7084
+2022-05-09 12:45:49,745 : INFO : Diversity loss: -193.6767
+2022-05-09 12:45:49,750 : INFO : concept 1: equipment program eventually unable hdmi money brill windows finally excellent
+2022-05-09 12:45:49,751 : INFO : concept 2: initially brilliantly nice fit purchase need worried answer alot update
+2022-05-09 12:45:55,897 : INFO : Train AUC: 0.9772
+2022-05-09 12:45:55,901 : INFO : Test AUC: 0.9605
+2022-05-09 12:45:55,901 : INFO : epoch 21/30:
+2022-05-09 12:45:55,901 : INFO : Total loss: 6184.0869
+2022-05-09 12:45:55,901 : INFO : SGNS loss: 24.9439
+2022-05-09 12:45:55,902 : INFO : Dirichlet loss: -9.7797
+2022-05-09 12:45:55,902 : INFO : Prediction loss: 6365.1877
+2022-05-09 12:45:55,902 : INFO : Diversity loss: -196.2649
+2022-05-09 12:45:55,907 : INFO : concept 1: hide equipment thoroughly manufacturer moment guide criticism seal careful great
+2022-05-09 12:45:55,907 : INFO : concept 2: pattern durable great effort write inexpensive guest hassle straightforward mess
+2022-05-09 12:46:01,984 : INFO : Train AUC: 0.4908
+2022-05-09 12:46:01,987 : INFO : Test AUC: 0.3816
+2022-05-09 12:46:01,988 : INFO : epoch 22/30:
+2022-05-09 12:46:01,988 : INFO : Total loss: 5743.8845
+2022-05-09 12:46:01,988 : INFO : SGNS loss: 22.9843
+2022-05-09 12:46:01,988 : INFO : Dirichlet loss: -9.9849
+2022-05-09 12:46:01,988 : INFO : Prediction loss: 5929.4459
+2022-05-09 12:46:01,989 : INFO : Diversity loss: -198.5609
+2022-05-09 12:46:01,996 : INFO : concept 1: word measure rubber listen hardly great future thoroughly opinion criticism
+2022-05-09 12:46:01,996 : INFO : concept 2: great use look easy pattern tank buy price versatile straightforward
+2022-05-09 12:46:08,096 : INFO : Train AUC: 0.9810
+2022-05-09 12:46:08,099 : INFO : Test AUC: 0.9641
+2022-05-09 12:46:08,099 : INFO : epoch 23/30:
+2022-05-09 12:46:08,099 : INFO : Total loss: 5584.1665
+2022-05-09 12:46:08,100 : INFO : SGNS loss: 21.6983
+2022-05-09 12:46:08,100 : INFO : Dirichlet loss: -10.0211
+2022-05-09 12:46:08,100 : INFO : Prediction loss: 5772.6605
+2022-05-09 12:46:08,100 : INFO : Diversity loss: -200.1713
+2022-05-09 12:46:08,105 : INFO : concept 1: plain spin minor course program guide lay great body beautifully
+2022-05-09 12:46:08,105 : INFO : concept 2: opinion great easy inexpensive buy quality eat additional surprise grip
+2022-05-09 12:46:14,188 : INFO : Train AUC: 0.5357
+2022-05-09 12:46:14,191 : INFO : Test AUC: 0.4146
+2022-05-09 12:46:14,192 : INFO : epoch 24/30:
+2022-05-09 12:46:14,192 : INFO : Total loss: 5419.8461
+2022-05-09 12:46:14,192 : INFO : SGNS loss: 20.7797
+2022-05-09 12:46:14,192 : INFO : Dirichlet loss: -10.0533
+2022-05-09 12:46:14,193 : INFO : Prediction loss: 5610.4608
+2022-05-09 12:46:14,193 : INFO : Diversity loss: -201.3410
+2022-05-09 12:46:14,197 : INFO : concept 1: sorry course great mode gorgeous initially use tank tricky feed
+2022-05-09 12:46:14,198 : INFO : concept 2: graphic great worry immediately easy buy brilliantly accessory quality mainly
+2022-05-09 12:46:20,295 : INFO : Train AUC: 0.9828
+2022-05-09 12:46:20,299 : INFO : Test AUC: 0.9633
+2022-05-09 12:46:20,299 : INFO : epoch 25/30:
+2022-05-09 12:46:20,299 : INFO : Total loss: 5328.2603
+2022-05-09 12:46:20,300 : INFO : SGNS loss: 20.0634
+2022-05-09 12:46:20,302 : INFO : Dirichlet loss: -10.0733
+2022-05-09 12:46:20,306 : INFO : Prediction loss: 5520.4937
+2022-05-09 12:46:20,306 : INFO : Diversity loss: -202.2235
+2022-05-09 12:46:20,311 : INFO : concept 1: sorry course great actual use tend immediately easy bend hassle
+2022-05-09 12:46:20,312 : INFO : concept 2: surprise price great buy elegant local neatly easy section grey
+2022-05-09 12:46:26,357 : INFO : Train AUC: 0.5753
+2022-05-09 12:46:26,361 : INFO : Test AUC: 0.4462
+2022-05-09 12:46:26,361 : INFO : epoch 26/30:
+2022-05-09 12:46:26,362 : INFO : Total loss: 5176.5948
+2022-05-09 12:46:26,362 : INFO : SGNS loss: 19.5549
+2022-05-09 12:46:26,362 : INFO : Dirichlet loss: -10.0630
+2022-05-09 12:46:26,362 : INFO : Prediction loss: 5370.0085
+2022-05-09 12:46:26,363 : INFO : Diversity loss: -202.9056
+2022-05-09 12:46:26,369 : INFO : concept 1: guide use buy today great television course underneath excellent manufacturer
+2022-05-09 12:46:26,371 : INFO : concept 2: great easy plain grip quality pleasantly obviously look bulky price
+2022-05-09 12:46:32,482 : INFO : Train AUC: 0.9843
+2022-05-09 12:46:32,486 : INFO : Test AUC: 0.9664
+2022-05-09 12:46:32,486 : INFO : epoch 27/30:
+2022-05-09 12:46:32,487 : INFO : Total loss: 5079.8102
+2022-05-09 12:46:32,487 : INFO : SGNS loss: 19.1323
+2022-05-09 12:46:32,487 : INFO : Dirichlet loss: -10.0891
+2022-05-09 12:46:32,487 : INFO : Prediction loss: 5274.2042
+2022-05-09 12:46:32,488 : INFO : Diversity loss: -203.4373
+2022-05-09 12:46:32,493 : INFO : concept 1: mainly feed easy great listen slide buy rating pleasantly facility
+2022-05-09 12:46:32,493 : INFO : concept 2: plain moment great use look search fun inexpensive guest easy
+2022-05-09 12:46:38,565 : INFO : Train AUC: 0.6120
+2022-05-09 12:46:38,569 : INFO : Test AUC: 0.4706
+2022-05-09 12:46:38,569 : INFO : epoch 28/30:
+2022-05-09 12:46:38,569 : INFO : Total loss: 4958.7635
+2022-05-09 12:46:38,569 : INFO : SGNS loss: 18.7908
+2022-05-09 12:46:38,570 : INFO : Dirichlet loss: -10.0881
+2022-05-09 12:46:38,570 : INFO : Prediction loss: 5153.9247
+2022-05-09 12:46:38,570 : INFO : Diversity loss: -203.8638
+2022-05-09 12:46:38,575 : INFO : concept 1: great rating buy unable use film iphone durable easy look
+2022-05-09 12:46:38,575 : INFO : concept 2: content easy usual fresh price requirement manufacturer quality use effort
+2022-05-09 12:46:44,651 : INFO : Train AUC: 0.9855
+2022-05-09 12:46:44,655 : INFO : Test AUC: 0.9655
+2022-05-09 12:46:44,655 : INFO : epoch 29/30:
+2022-05-09 12:46:44,655 : INFO : Total loss: 4879.9717
+2022-05-09 12:46:44,655 : INFO : SGNS loss: 18.5200
+2022-05-09 12:46:44,656 : INFO : Dirichlet loss: -10.0657
+2022-05-09 12:46:44,656 : INFO : Prediction loss: 5075.7281
+2022-05-09 12:46:44,656 : INFO : Diversity loss: -204.2106
+2022-05-09 12:46:44,661 : INFO : concept 1: requirement easy meet hassle course law great use program sony
+2022-05-09 12:46:44,661 : INFO : concept 2: great quality use buy price pleasantly look straightforward write graphic

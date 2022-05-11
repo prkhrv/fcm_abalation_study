@@ -1,0 +1,300 @@
+2022-05-09 03:44:00,472 : INFO : Train AUC: 0.4631
+2022-05-09 03:44:00,475 : INFO : Test AUC: 0.4463
+2022-05-09 03:44:00,476 : INFO : epoch 0/30:
+2022-05-09 03:44:00,476 : INFO : Total loss: -28.1867
+2022-05-09 03:44:00,476 : INFO : SGNS loss: 46.0210
+2022-05-09 03:44:00,476 : INFO : Dirichlet loss: -828.2054
+2022-05-09 03:44:00,476 : INFO : Prediction loss: 720.8399
+2022-05-09 03:44:00,476 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:00,479 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:00,480 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:04,517 : INFO : Train AUC: 0.3753
+2022-05-09 03:44:04,520 : INFO : Test AUC: 0.3490
+2022-05-09 03:44:04,520 : INFO : epoch 1/30:
+2022-05-09 03:44:04,520 : INFO : Total loss: -480.3740
+2022-05-09 03:44:04,520 : INFO : SGNS loss: 46.1057
+2022-05-09 03:44:04,520 : INFO : Dirichlet loss: -730.0326
+2022-05-09 03:44:04,520 : INFO : Prediction loss: 170.3952
+2022-05-09 03:44:04,520 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:04,524 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:04,524 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:08,530 : INFO : Train AUC: 0.9061
+2022-05-09 03:44:08,534 : INFO : Test AUC: 0.9037
+2022-05-09 03:44:08,538 : INFO : epoch 2/30:
+2022-05-09 03:44:08,539 : INFO : Total loss: -605.2346
+2022-05-09 03:44:08,539 : INFO : SGNS loss: 46.0947
+2022-05-09 03:44:08,539 : INFO : Dirichlet loss: -742.0947
+2022-05-09 03:44:08,539 : INFO : Prediction loss: 57.6077
+2022-05-09 03:44:08,540 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:08,543 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:08,543 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:12,567 : INFO : Train AUC: 0.9833
+2022-05-09 03:44:12,570 : INFO : Test AUC: 0.9771
+2022-05-09 03:44:12,570 : INFO : epoch 3/30:
+2022-05-09 03:44:12,570 : INFO : Total loss: -541.6638
+2022-05-09 03:44:12,570 : INFO : SGNS loss: 46.0771
+2022-05-09 03:44:12,571 : INFO : Dirichlet loss: -664.3935
+2022-05-09 03:44:12,571 : INFO : Prediction loss: 43.4949
+2022-05-09 03:44:12,571 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:12,574 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:12,574 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:16,594 : INFO : Train AUC: 0.3096
+2022-05-09 03:44:16,597 : INFO : Test AUC: 0.2399
+2022-05-09 03:44:16,597 : INFO : epoch 4/30:
+2022-05-09 03:44:16,597 : INFO : Total loss: -491.5783
+2022-05-09 03:44:16,597 : INFO : SGNS loss: 46.0691
+2022-05-09 03:44:16,598 : INFO : Dirichlet loss: -615.4495
+2022-05-09 03:44:16,598 : INFO : Prediction loss: 44.6443
+2022-05-09 03:44:16,598 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:16,601 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:16,601 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:20,648 : INFO : Train AUC: 0.9735
+2022-05-09 03:44:20,651 : INFO : Test AUC: 0.9451
+2022-05-09 03:44:20,651 : INFO : epoch 5/30:
+2022-05-09 03:44:20,651 : INFO : Total loss: -427.1867
+2022-05-09 03:44:20,652 : INFO : SGNS loss: 46.0677
+2022-05-09 03:44:20,652 : INFO : Dirichlet loss: -549.0119
+2022-05-09 03:44:20,652 : INFO : Prediction loss: 42.5998
+2022-05-09 03:44:20,652 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:20,655 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:20,655 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:24,646 : INFO : Train AUC: 0.0917
+2022-05-09 03:44:24,649 : INFO : Test AUC: 0.1067
+2022-05-09 03:44:24,650 : INFO : epoch 6/30:
+2022-05-09 03:44:24,650 : INFO : Total loss: -418.1202
+2022-05-09 03:44:24,650 : INFO : SGNS loss: 46.0648
+2022-05-09 03:44:24,650 : INFO : Dirichlet loss: -541.2677
+2022-05-09 03:44:24,650 : INFO : Prediction loss: 43.9250
+2022-05-09 03:44:24,650 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:24,653 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:24,654 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:28,684 : INFO : Train AUC: 0.1647
+2022-05-09 03:44:28,687 : INFO : Test AUC: 0.1680
+2022-05-09 03:44:28,688 : INFO : epoch 7/30:
+2022-05-09 03:44:28,688 : INFO : Total loss: -858.0856
+2022-05-09 03:44:28,688 : INFO : SGNS loss: 45.9874
+2022-05-09 03:44:28,688 : INFO : Dirichlet loss: -982.7775
+2022-05-09 03:44:28,688 : INFO : Prediction loss: 45.5467
+2022-05-09 03:44:28,688 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:28,692 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:28,692 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:32,826 : INFO : Train AUC: 0.9956
+2022-05-09 03:44:32,829 : INFO : Test AUC: 0.9957
+2022-05-09 03:44:32,829 : INFO : epoch 8/30:
+2022-05-09 03:44:32,829 : INFO : Total loss: -773.7908
+2022-05-09 03:44:32,830 : INFO : SGNS loss: 45.9957
+2022-05-09 03:44:32,830 : INFO : Dirichlet loss: -897.6857
+2022-05-09 03:44:32,830 : INFO : Prediction loss: 44.7414
+2022-05-09 03:44:32,830 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:32,834 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:32,834 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:36,836 : INFO : Train AUC: 0.6231
+2022-05-09 03:44:36,839 : INFO : Test AUC: 0.6253
+2022-05-09 03:44:36,839 : INFO : epoch 9/30:
+2022-05-09 03:44:36,840 : INFO : Total loss: -695.3255
+2022-05-09 03:44:36,840 : INFO : SGNS loss: 46.0036
+2022-05-09 03:44:36,840 : INFO : Dirichlet loss: -820.7758
+2022-05-09 03:44:36,840 : INFO : Prediction loss: 46.2889
+2022-05-09 03:44:36,840 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:36,844 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:36,844 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:40,835 : INFO : Train AUC: 0.1913
+2022-05-09 03:44:40,838 : INFO : Test AUC: 0.1894
+2022-05-09 03:44:40,838 : INFO : epoch 10/30:
+2022-05-09 03:44:40,838 : INFO : Total loss: -693.5002
+2022-05-09 03:44:40,839 : INFO : SGNS loss: 46.0038
+2022-05-09 03:44:40,839 : INFO : Dirichlet loss: -814.8839
+2022-05-09 03:44:40,839 : INFO : Prediction loss: 42.2222
+2022-05-09 03:44:40,839 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:40,842 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:40,843 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:44,826 : INFO : Train AUC: 0.9958
+2022-05-09 03:44:44,828 : INFO : Test AUC: 0.9953
+2022-05-09 03:44:44,829 : INFO : epoch 11/30:
+2022-05-09 03:44:44,829 : INFO : Total loss: -660.5376
+2022-05-09 03:44:44,829 : INFO : SGNS loss: 46.0127
+2022-05-09 03:44:44,829 : INFO : Dirichlet loss: -783.1411
+2022-05-09 03:44:44,829 : INFO : Prediction loss: 43.4331
+2022-05-09 03:44:44,829 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:44,833 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:44,833 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:48,861 : INFO : Train AUC: 0.7432
+2022-05-09 03:44:48,864 : INFO : Test AUC: 0.7033
+2022-05-09 03:44:48,864 : INFO : epoch 12/30:
+2022-05-09 03:44:48,864 : INFO : Total loss: -659.5958
+2022-05-09 03:44:48,864 : INFO : SGNS loss: 46.0167
+2022-05-09 03:44:48,864 : INFO : Dirichlet loss: -783.5485
+2022-05-09 03:44:48,864 : INFO : Prediction loss: 44.7783
+2022-05-09 03:44:48,865 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:48,868 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:48,868 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:52,826 : INFO : Train AUC: 0.1937
+2022-05-09 03:44:52,829 : INFO : Test AUC: 0.1887
+2022-05-09 03:44:52,830 : INFO : epoch 13/30:
+2022-05-09 03:44:52,830 : INFO : Total loss: -660.6124
+2022-05-09 03:44:52,830 : INFO : SGNS loss: 46.0225
+2022-05-09 03:44:52,830 : INFO : Dirichlet loss: -781.4063
+2022-05-09 03:44:52,830 : INFO : Prediction loss: 41.6137
+2022-05-09 03:44:52,830 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:52,849 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:52,849 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:44:56,848 : INFO : Train AUC: 0.9959
+2022-05-09 03:44:56,851 : INFO : Test AUC: 0.9946
+2022-05-09 03:44:56,851 : INFO : epoch 14/30:
+2022-05-09 03:44:56,851 : INFO : Total loss: -680.7663
+2022-05-09 03:44:56,851 : INFO : SGNS loss: 46.0207
+2022-05-09 03:44:56,852 : INFO : Dirichlet loss: -801.9918
+2022-05-09 03:44:56,852 : INFO : Prediction loss: 42.0470
+2022-05-09 03:44:56,852 : INFO : Diversity loss: 33.1577
+2022-05-09 03:44:56,856 : INFO : concept 1: fix inside like grey ok especially toaster perform programme window
+2022-05-09 03:44:56,856 : INFO : concept 2: lg photo complaint windows ideal prove big mode fitting early
+2022-05-09 03:45:01,191 : INFO : Train AUC: 0.5790
+2022-05-09 03:45:01,194 : INFO : Test AUC: 0.5937
+2022-05-09 03:45:01,194 : INFO : epoch 15/30:
+2022-05-09 03:45:01,194 : INFO : Total loss: -940.0762
+2022-05-09 03:45:01,194 : INFO : SGNS loss: 22.6054
+2022-05-09 03:45:01,195 : INFO : Dirichlet loss: -1030.4057
+2022-05-09 03:45:01,195 : INFO : Prediction loss: 47.0746
+2022-05-09 03:45:01,195 : INFO : Diversity loss: 20.6494
+2022-05-09 03:45:01,198 : INFO : concept 1: great use buy easy price quality look love excellent lay
+2022-05-09 03:45:01,198 : INFO : concept 2: desk warm waste system hang inside issue model handy mean
+2022-05-09 03:45:05,515 : INFO : Train AUC: 0.1430
+2022-05-09 03:45:05,517 : INFO : Test AUC: 0.1438
+2022-05-09 03:45:05,518 : INFO : epoch 16/30:
+2022-05-09 03:45:05,518 : INFO : Total loss: -980.9216
+2022-05-09 03:45:05,518 : INFO : SGNS loss: 15.0108
+2022-05-09 03:45:05,518 : INFO : Dirichlet loss: -1036.1622
+2022-05-09 03:45:05,518 : INFO : Prediction loss: 43.1672
+2022-05-09 03:45:05,518 : INFO : Diversity loss: -2.9374
+2022-05-09 03:45:05,521 : INFO : concept 1: great buy price easy use quality look cheap purchase nice
+2022-05-09 03:45:05,522 : INFO : concept 2: xbox roll heating paint girl tap dirt advertise pull safe
+2022-05-09 03:45:09,772 : INFO : Train AUC: 0.9978
+2022-05-09 03:45:09,775 : INFO : Test AUC: 0.9985
+2022-05-09 03:45:09,775 : INFO : epoch 17/30:
+2022-05-09 03:45:09,776 : INFO : Total loss: -987.3028
+2022-05-09 03:45:09,776 : INFO : SGNS loss: 14.9269
+2022-05-09 03:45:09,776 : INFO : Dirichlet loss: -1036.1621
+2022-05-09 03:45:09,776 : INFO : Prediction loss: 45.0208
+2022-05-09 03:45:09,776 : INFO : Diversity loss: -11.0884
+2022-05-09 03:45:09,779 : INFO : concept 1: use great easy buy happy price love quality small recommend
+2022-05-09 03:45:09,779 : INFO : concept 2: awkward wife smell experience shape stuff mini straightforward disappointing xmas
+2022-05-09 03:45:14,077 : INFO : Train AUC: 0.5807
+2022-05-09 03:45:14,080 : INFO : Test AUC: 0.5942
+2022-05-09 03:45:14,080 : INFO : epoch 18/30:
+2022-05-09 03:45:14,080 : INFO : Total loss: -989.8728
+2022-05-09 03:45:14,080 : INFO : SGNS loss: 14.9164
+2022-05-09 03:45:14,080 : INFO : Dirichlet loss: -1036.1621
+2022-05-09 03:45:14,081 : INFO : Prediction loss: 47.0654
+2022-05-09 03:45:14,081 : INFO : Diversity loss: -15.6925
+2022-05-09 03:45:14,084 : INFO : concept 1: great price easy use fit buy need money feature quality
+2022-05-09 03:45:14,084 : INFO : concept 2: listen surprisingly near facility moment pet certainly intend awful customer
+2022-05-09 03:45:18,315 : INFO : Train AUC: 0.1422
+2022-05-09 03:45:18,317 : INFO : Test AUC: 0.1432
+2022-05-09 03:45:18,318 : INFO : epoch 19/30:
+2022-05-09 03:45:18,318 : INFO : Total loss: -995.7556
+2022-05-09 03:45:18,318 : INFO : SGNS loss: 14.9171
+2022-05-09 03:45:18,318 : INFO : Dirichlet loss: -1036.1629
+2022-05-09 03:45:18,318 : INFO : Prediction loss: 43.2671
+2022-05-09 03:45:18,318 : INFO : Diversity loss: -17.7768
+2022-05-09 03:45:18,321 : INFO : concept 1: easy money buy great use price look nice purchase work
+2022-05-09 03:45:18,322 : INFO : concept 2: granddaughter meet push trouble dark travel future gap correct requirement
+2022-05-09 03:45:22,665 : INFO : Train AUC: 0.9977
+2022-05-09 03:45:22,668 : INFO : Test AUC: 0.9984
+2022-05-09 03:45:22,668 : INFO : epoch 20/30:
+2022-05-09 03:45:22,668 : INFO : Total loss: -995.0126
+2022-05-09 03:45:22,668 : INFO : SGNS loss: 14.9062
+2022-05-09 03:45:22,668 : INFO : Dirichlet loss: -1036.1581
+2022-05-09 03:45:22,669 : INFO : Prediction loss: 45.0294
+2022-05-09 03:45:22,669 : INFO : Diversity loss: -18.7901
+2022-05-09 03:45:22,672 : INFO : concept 1: use price buy sturdy easy great excellent big look purchase
+2022-05-09 03:45:22,672 : INFO : concept 2: special saver surprise limit term sharp tile prove eventually plain
+2022-05-09 03:45:26,968 : INFO : Train AUC: 0.5803
+2022-05-09 03:45:26,971 : INFO : Test AUC: 0.5937
+2022-05-09 03:45:26,971 : INFO : epoch 21/30:
+2022-05-09 03:45:26,971 : INFO : Total loss: -993.5957
+2022-05-09 03:45:26,971 : INFO : SGNS loss: 14.9063
+2022-05-09 03:45:26,971 : INFO : Dirichlet loss: -1036.1621
+2022-05-09 03:45:26,971 : INFO : Prediction loss: 46.9897
+2022-05-09 03:45:26,971 : INFO : Diversity loss: -19.3295
+2022-05-09 03:45:26,975 : INFO : concept 1: buy easy ok great nice use mattress perfect money yes
+2022-05-09 03:45:26,975 : INFO : concept 2: happen looking usual criticism tricky hook angle beautifully remote versatile
+2022-05-09 03:45:31,241 : INFO : Train AUC: 0.1425
+2022-05-09 03:45:31,244 : INFO : Test AUC: 0.1440
+2022-05-09 03:45:31,244 : INFO : epoch 22/30:
+2022-05-09 03:45:31,244 : INFO : Total loss: -997.8037
+2022-05-09 03:45:31,244 : INFO : SGNS loss: 14.9082
+2022-05-09 03:45:31,244 : INFO : Dirichlet loss: -1036.1624
+2022-05-09 03:45:31,244 : INFO : Prediction loss: 43.0911
+2022-05-09 03:45:31,244 : INFO : Diversity loss: -19.6405
+2022-05-09 03:45:31,248 : INFO : concept 1: buy great look money easy use lovely recommend price quality
+2022-05-09 03:45:31,248 : INFO : concept 2: eat tiny understand elderly idea gadget summer remove connection beautifully
+2022-05-09 03:45:35,538 : INFO : Train AUC: 0.9979
+2022-05-09 03:45:35,541 : INFO : Test AUC: 0.9986
+2022-05-09 03:45:35,542 : INFO : epoch 23/30:
+2022-05-09 03:45:35,542 : INFO : Total loss: -996.0598
+2022-05-09 03:45:35,542 : INFO : SGNS loss: 14.9096
+2022-05-09 03:45:35,542 : INFO : Dirichlet loss: -1036.1631
+2022-05-09 03:45:35,542 : INFO : Prediction loss: 45.0256
+2022-05-09 03:45:35,542 : INFO : Diversity loss: -19.8318
+2022-05-09 03:45:35,545 : INFO : concept 1: great fit buy little easy price money item brilliant small
+2022-05-09 03:45:35,546 : INFO : concept 2: worktop surprise total girl cat poorly jug today reserve wifi
+2022-05-09 03:45:39,816 : INFO : Train AUC: 0.5818
+2022-05-09 03:45:39,819 : INFO : Test AUC: 0.5949
+2022-05-09 03:45:39,819 : INFO : epoch 24/30:
+2022-05-09 03:45:39,819 : INFO : Total loss: -994.3468
+2022-05-09 03:45:39,819 : INFO : SGNS loss: 14.9074
+2022-05-09 03:45:39,819 : INFO : Dirichlet loss: -1036.1622
+2022-05-09 03:45:39,820 : INFO : Prediction loss: 46.8636
+2022-05-09 03:45:39,820 : INFO : Diversity loss: -19.9556
+2022-05-09 03:45:39,823 : INFO : concept 1: buy price great nice fit use look try design fine
+2022-05-09 03:45:39,823 : INFO : concept 2: holder fi mop detail totally access stair dark correct rack
+2022-05-09 03:45:44,068 : INFO : Train AUC: 0.1433
+2022-05-09 03:45:44,070 : INFO : Test AUC: 0.1429
+2022-05-09 03:45:44,071 : INFO : epoch 25/30:
+2022-05-09 03:45:44,071 : INFO : Total loss: -998.1815
+2022-05-09 03:45:44,071 : INFO : SGNS loss: 14.9076
+2022-05-09 03:45:44,071 : INFO : Dirichlet loss: -1036.1627
+2022-05-09 03:45:44,071 : INFO : Prediction loss: 43.1123
+2022-05-09 03:45:44,071 : INFO : Diversity loss: -20.0388
+2022-05-09 03:45:44,074 : INFO : concept 1: great buy look money use purchase mattress like price nice
+2022-05-09 03:45:44,075 : INFO : concept 2: secure detail portable answer wife near stainless practical cool windows
+2022-05-09 03:45:48,401 : INFO : Train AUC: 0.9977
+2022-05-09 03:45:48,404 : INFO : Test AUC: 0.9985
+2022-05-09 03:45:48,404 : INFO : epoch 26/30:
+2022-05-09 03:45:48,404 : INFO : Total loss: -996.3001
+2022-05-09 03:45:48,405 : INFO : SGNS loss: 14.9068
+2022-05-09 03:45:48,405 : INFO : Dirichlet loss: -1036.1623
+2022-05-09 03:45:48,405 : INFO : Prediction loss: 45.0515
+2022-05-09 03:45:48,405 : INFO : Diversity loss: -20.0962
+2022-05-09 03:45:48,409 : INFO : concept 1: use buy look money excellent recommend easy price work quality
+2022-05-09 03:45:48,409 : INFO : concept 2: baby class bulky note matter daily fabric brill feed key
+2022-05-09 03:45:52,714 : INFO : Train AUC: 0.5806
+2022-05-09 03:45:52,717 : INFO : Test AUC: 0.5926
+2022-05-09 03:45:52,717 : INFO : epoch 27/30:
+2022-05-09 03:45:52,718 : INFO : Total loss: -994.4044
+2022-05-09 03:45:52,718 : INFO : SGNS loss: 14.9083
+2022-05-09 03:45:52,718 : INFO : Dirichlet loss: -1036.1624
+2022-05-09 03:45:52,718 : INFO : Prediction loss: 46.9862
+2022-05-09 03:45:52,718 : INFO : Diversity loss: -20.1364
+2022-05-09 03:45:52,722 : INFO : concept 1: buy great pleased use quality need money hold recommend easy
+2022-05-09 03:45:52,722 : INFO : concept 2: holiday tip wow later advertise slim bulky expectation immediately snap
+2022-05-09 03:45:56,979 : INFO : Train AUC: 0.1411
+2022-05-09 03:45:56,982 : INFO : Test AUC: 0.1420
+2022-05-09 03:45:56,982 : INFO : epoch 28/30:
+2022-05-09 03:45:56,982 : INFO : Total loss: -998.1708
+2022-05-09 03:45:56,982 : INFO : SGNS loss: 14.9087
+2022-05-09 03:45:56,983 : INFO : Dirichlet loss: -1036.1620
+2022-05-09 03:45:56,983 : INFO : Prediction loss: 43.2477
+2022-05-09 03:45:56,983 : INFO : Diversity loss: -20.1651
+2022-05-09 03:45:56,986 : INFO : concept 1: great use easy look buy love excellent quality reduce picture
+2022-05-09 03:45:56,986 : INFO : concept 2: gorgeous treat eye search limit guide blade original worry panel
+2022-05-09 03:46:01,327 : INFO : Train AUC: 0.9978
+2022-05-09 03:46:01,329 : INFO : Test AUC: 0.9985
+2022-05-09 03:46:01,330 : INFO : epoch 29/30:
+2022-05-09 03:46:01,330 : INFO : Total loss: -996.4088
+2022-05-09 03:46:01,330 : INFO : SGNS loss: 14.9064
+2022-05-09 03:46:01,330 : INFO : Dirichlet loss: -1036.1622
+2022-05-09 03:46:01,330 : INFO : Prediction loss: 45.0330
+2022-05-09 03:46:01,330 : INFO : Diversity loss: -20.1859
+2022-05-09 03:46:01,333 : INFO : concept 1: great easy money price buy love look new fit work
+2022-05-09 03:46:01,334 : INFO : concept 2: lounge angle initially rubber heating constantly bend telephone portable panel

@@ -1,0 +1,300 @@
+2022-05-09 03:37:44,009 : INFO : Train AUC: 0.5566
+2022-05-09 03:37:44,012 : INFO : Test AUC: 0.5537
+2022-05-09 03:37:44,012 : INFO : epoch 0/30:
+2022-05-09 03:37:44,012 : INFO : Total loss: 172150.5401
+2022-05-09 03:37:44,012 : INFO : SGNS loss: 46.2879
+2022-05-09 03:37:44,012 : INFO : Dirichlet loss: -9.9411
+2022-05-09 03:37:44,013 : INFO : Prediction loss: 168798.3269
+2022-05-09 03:37:44,013 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:37:44,016 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:37:44,016 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:37:47,987 : INFO : Train AUC: 0.8288
+2022-05-09 03:37:47,990 : INFO : Test AUC: 0.8161
+2022-05-09 03:37:47,990 : INFO : epoch 1/30:
+2022-05-09 03:37:47,991 : INFO : Total loss: 13419.8741
+2022-05-09 03:37:47,991 : INFO : SGNS loss: 46.2774
+2022-05-09 03:37:47,991 : INFO : Dirichlet loss: -10.2813
+2022-05-09 03:37:47,991 : INFO : Prediction loss: 10068.0115
+2022-05-09 03:37:47,991 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:37:47,994 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:37:47,994 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:37:51,976 : INFO : Train AUC: 0.9298
+2022-05-09 03:37:51,979 : INFO : Test AUC: 0.9268
+2022-05-09 03:37:51,979 : INFO : epoch 2/30:
+2022-05-09 03:37:51,979 : INFO : Total loss: 4464.3227
+2022-05-09 03:37:51,979 : INFO : SGNS loss: 46.2864
+2022-05-09 03:37:51,979 : INFO : Dirichlet loss: -9.8659
+2022-05-09 03:37:51,980 : INFO : Prediction loss: 1112.0357
+2022-05-09 03:37:51,980 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:37:51,983 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:37:51,983 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:37:55,969 : INFO : Train AUC: 0.9859
+2022-05-09 03:37:55,972 : INFO : Test AUC: 0.9837
+2022-05-09 03:37:55,972 : INFO : epoch 3/30:
+2022-05-09 03:37:55,972 : INFO : Total loss: 3614.9820
+2022-05-09 03:37:55,972 : INFO : SGNS loss: 46.5193
+2022-05-09 03:37:55,972 : INFO : Dirichlet loss: -8.7284
+2022-05-09 03:37:55,973 : INFO : Prediction loss: 261.3246
+2022-05-09 03:37:55,973 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:37:55,976 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:37:55,976 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:00,025 : INFO : Train AUC: 0.9927
+2022-05-09 03:38:00,028 : INFO : Test AUC: 0.9912
+2022-05-09 03:38:00,028 : INFO : epoch 4/30:
+2022-05-09 03:38:00,028 : INFO : Total loss: 3504.3958
+2022-05-09 03:38:00,029 : INFO : SGNS loss: 46.6666
+2022-05-09 03:38:00,029 : INFO : Dirichlet loss: -9.4940
+2022-05-09 03:38:00,029 : INFO : Prediction loss: 151.3567
+2022-05-09 03:38:00,029 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:00,033 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:00,033 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:04,038 : INFO : Train AUC: 0.9917
+2022-05-09 03:38:04,040 : INFO : Test AUC: 0.9895
+2022-05-09 03:38:04,041 : INFO : epoch 5/30:
+2022-05-09 03:38:04,041 : INFO : Total loss: 3515.1835
+2022-05-09 03:38:04,041 : INFO : SGNS loss: 46.6602
+2022-05-09 03:38:04,041 : INFO : Dirichlet loss: -9.4856
+2022-05-09 03:38:04,041 : INFO : Prediction loss: 162.1424
+2022-05-09 03:38:04,041 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:04,044 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:04,045 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:08,015 : INFO : Train AUC: 0.9773
+2022-05-09 03:38:08,019 : INFO : Test AUC: 0.9735
+2022-05-09 03:38:08,020 : INFO : epoch 6/30:
+2022-05-09 03:38:08,020 : INFO : Total loss: 3511.6033
+2022-05-09 03:38:08,020 : INFO : SGNS loss: 46.6558
+2022-05-09 03:38:08,020 : INFO : Dirichlet loss: -9.5697
+2022-05-09 03:38:08,020 : INFO : Prediction loss: 158.6507
+2022-05-09 03:38:08,020 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:08,024 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:08,024 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:11,989 : INFO : Train AUC: 0.9982
+2022-05-09 03:38:11,992 : INFO : Test AUC: 0.9979
+2022-05-09 03:38:11,992 : INFO : epoch 7/30:
+2022-05-09 03:38:11,992 : INFO : Total loss: 3496.2509
+2022-05-09 03:38:11,992 : INFO : SGNS loss: 46.6488
+2022-05-09 03:38:11,992 : INFO : Dirichlet loss: -9.3881
+2022-05-09 03:38:11,992 : INFO : Prediction loss: 143.1238
+2022-05-09 03:38:11,992 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:11,996 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:11,996 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:15,951 : INFO : Train AUC: 0.8159
+2022-05-09 03:38:15,954 : INFO : Test AUC: 0.8115
+2022-05-09 03:38:15,954 : INFO : epoch 8/30:
+2022-05-09 03:38:15,955 : INFO : Total loss: 3492.8523
+2022-05-09 03:38:15,955 : INFO : SGNS loss: 46.6543
+2022-05-09 03:38:15,955 : INFO : Dirichlet loss: -9.6244
+2022-05-09 03:38:15,955 : INFO : Prediction loss: 139.9559
+2022-05-09 03:38:15,955 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:15,959 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:15,959 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:19,951 : INFO : Train AUC: 0.9973
+2022-05-09 03:38:19,954 : INFO : Test AUC: 0.9967
+2022-05-09 03:38:19,954 : INFO : epoch 9/30:
+2022-05-09 03:38:19,955 : INFO : Total loss: 3501.8497
+2022-05-09 03:38:19,955 : INFO : SGNS loss: 46.6637
+2022-05-09 03:38:19,955 : INFO : Dirichlet loss: -9.8849
+2022-05-09 03:38:19,955 : INFO : Prediction loss: 149.2045
+2022-05-09 03:38:19,955 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:19,958 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:19,958 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:23,967 : INFO : Train AUC: 0.9963
+2022-05-09 03:38:23,970 : INFO : Test AUC: 0.9955
+2022-05-09 03:38:23,970 : INFO : epoch 10/30:
+2022-05-09 03:38:23,970 : INFO : Total loss: 3504.4982
+2022-05-09 03:38:23,970 : INFO : SGNS loss: 46.6488
+2022-05-09 03:38:23,970 : INFO : Dirichlet loss: -9.6242
+2022-05-09 03:38:23,970 : INFO : Prediction loss: 151.6072
+2022-05-09 03:38:23,970 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:23,974 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:23,974 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:27,942 : INFO : Train AUC: 0.9981
+2022-05-09 03:38:27,945 : INFO : Test AUC: 0.9977
+2022-05-09 03:38:27,945 : INFO : epoch 11/30:
+2022-05-09 03:38:27,946 : INFO : Total loss: 3498.2212
+2022-05-09 03:38:27,946 : INFO : SGNS loss: 46.6543
+2022-05-09 03:38:27,946 : INFO : Dirichlet loss: -9.7980
+2022-05-09 03:38:27,946 : INFO : Prediction loss: 145.4984
+2022-05-09 03:38:27,946 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:27,950 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:27,950 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:31,926 : INFO : Train AUC: 0.9942
+2022-05-09 03:38:31,929 : INFO : Test AUC: 0.9924
+2022-05-09 03:38:31,929 : INFO : epoch 12/30:
+2022-05-09 03:38:31,929 : INFO : Total loss: 3485.8629
+2022-05-09 03:38:31,930 : INFO : SGNS loss: 46.6515
+2022-05-09 03:38:31,930 : INFO : Dirichlet loss: -9.7607
+2022-05-09 03:38:31,930 : INFO : Prediction loss: 133.1056
+2022-05-09 03:38:31,930 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:31,933 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:31,933 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:35,886 : INFO : Train AUC: 0.9957
+2022-05-09 03:38:35,889 : INFO : Test AUC: 0.9951
+2022-05-09 03:38:35,890 : INFO : epoch 13/30:
+2022-05-09 03:38:35,890 : INFO : Total loss: 3485.6168
+2022-05-09 03:38:35,890 : INFO : SGNS loss: 46.6446
+2022-05-09 03:38:35,890 : INFO : Dirichlet loss: -9.4171
+2022-05-09 03:38:35,890 : INFO : Prediction loss: 132.5229
+2022-05-09 03:38:35,890 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:35,893 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:35,893 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:39,871 : INFO : Train AUC: 0.9949
+2022-05-09 03:38:39,874 : INFO : Test AUC: 0.9936
+2022-05-09 03:38:39,874 : INFO : epoch 14/30:
+2022-05-09 03:38:39,874 : INFO : Total loss: 3501.0068
+2022-05-09 03:38:39,875 : INFO : SGNS loss: 46.6635
+2022-05-09 03:38:39,875 : INFO : Dirichlet loss: -9.8582
+2022-05-09 03:38:39,875 : INFO : Prediction loss: 148.3350
+2022-05-09 03:38:39,875 : INFO : Diversity loss: 3315.8665
+2022-05-09 03:38:39,878 : INFO : concept 1: sure near bright nicely arrive limit charge excellent save system
+2022-05-09 03:38:39,878 : INFO : concept 2: pan warm hang day base total lock believe forget expectation
+2022-05-09 03:38:44,153 : INFO : Train AUC: 0.9836
+2022-05-09 03:38:44,156 : INFO : Test AUC: 0.9803
+2022-05-09 03:38:44,156 : INFO : epoch 15/30:
+2022-05-09 03:38:44,156 : INFO : Total loss: 1997.4344
+2022-05-09 03:38:44,156 : INFO : SGNS loss: 36.6150
+2022-05-09 03:38:44,157 : INFO : Dirichlet loss: -10.0059
+2022-05-09 03:38:44,157 : INFO : Prediction loss: 142.9660
+2022-05-09 03:38:44,157 : INFO : Diversity loss: 1827.8593
+2022-05-09 03:38:44,160 : INFO : concept 1: buy great use price easy look quality nice recommend item
+2022-05-09 03:38:44,160 : INFO : concept 2: pan dinner treat cartridge wheel basket mention clip later hook
+2022-05-09 03:38:48,406 : INFO : Train AUC: 0.9989
+2022-05-09 03:38:48,409 : INFO : Test AUC: 0.9985
+2022-05-09 03:38:48,409 : INFO : epoch 16/30:
+2022-05-09 03:38:48,409 : INFO : Total loss: -448.5143
+2022-05-09 03:38:48,409 : INFO : SGNS loss: 30.6523
+2022-05-09 03:38:48,409 : INFO : Dirichlet loss: -10.0963
+2022-05-09 03:38:48,409 : INFO : Prediction loss: 133.5399
+2022-05-09 03:38:48,409 : INFO : Diversity loss: -602.6103
+2022-05-09 03:38:48,414 : INFO : concept 1: great chrome surprise purchase money warm excellent look whilst fall
+2022-05-09 03:38:48,414 : INFO : concept 2: bin mainly worktop bulky unlike click obviously pattern height practical
+2022-05-09 03:38:52,690 : INFO : Train AUC: 0.8311
+2022-05-09 03:38:52,692 : INFO : Test AUC: 0.8252
+2022-05-09 03:38:52,693 : INFO : epoch 17/30:
+2022-05-09 03:38:52,693 : INFO : Total loss: -1315.1337
+2022-05-09 03:38:52,693 : INFO : SGNS loss: 29.7497
+2022-05-09 03:38:52,693 : INFO : Dirichlet loss: -10.1150
+2022-05-09 03:38:52,693 : INFO : Prediction loss: 127.9664
+2022-05-09 03:38:52,693 : INFO : Diversity loss: -1462.7348
+2022-05-09 03:38:52,696 : INFO : concept 1: great looking rubber look easy nice fit shape buy pleased
+2022-05-09 03:38:52,697 : INFO : concept 2: arm pile mess bin write bath brill weather slim reliable
+2022-05-09 03:38:56,946 : INFO : Train AUC: 0.9978
+2022-05-09 03:38:56,949 : INFO : Test AUC: 0.9969
+2022-05-09 03:38:56,949 : INFO : epoch 18/30:
+2022-05-09 03:38:56,949 : INFO : Total loss: -1645.8792
+2022-05-09 03:38:56,949 : INFO : SGNS loss: 27.7560
+2022-05-09 03:38:56,950 : INFO : Dirichlet loss: -10.0683
+2022-05-09 03:38:56,950 : INFO : Prediction loss: 143.4244
+2022-05-09 03:38:56,950 : INFO : Diversity loss: -1806.9914
+2022-05-09 03:38:56,953 : INFO : concept 1: hassle experience comment available nicely thoroughly fixing bottle support suitable
+2022-05-09 03:38:56,953 : INFO : concept 2: tray durable right later pattern loose slice useful initially ideal
+2022-05-09 03:39:01,215 : INFO : Train AUC: 0.9967
+2022-05-09 03:39:01,218 : INFO : Test AUC: 0.9957
+2022-05-09 03:39:01,218 : INFO : epoch 19/30:
+2022-05-09 03:39:01,218 : INFO : Total loss: -1770.1115
+2022-05-09 03:39:01,218 : INFO : SGNS loss: 25.8363
+2022-05-09 03:39:01,219 : INFO : Dirichlet loss: -10.1315
+2022-05-09 03:39:01,219 : INFO : Prediction loss: 145.5036
+2022-05-09 03:39:01,219 : INFO : Diversity loss: -1931.3200
+2022-05-09 03:39:01,223 : INFO : concept 1: price tight use easy great need purchase cat slide work
+2022-05-09 03:39:01,223 : INFO : concept 2: brilliantly usually hobbs avoid adequate write hopefully trouble realise worried
+2022-05-09 03:39:05,495 : INFO : Train AUC: 0.9982
+2022-05-09 03:39:05,498 : INFO : Test AUC: 0.9978
+2022-05-09 03:39:05,498 : INFO : epoch 20/30:
+2022-05-09 03:39:05,498 : INFO : Total loss: -1832.5033
+2022-05-09 03:39:05,498 : INFO : SGNS loss: 24.5734
+2022-05-09 03:39:05,498 : INFO : Dirichlet loss: -10.2317
+2022-05-09 03:39:05,498 : INFO : Prediction loss: 138.5408
+2022-05-09 03:39:05,499 : INFO : Diversity loss: -1985.3858
+2022-05-09 03:39:05,502 : INFO : concept 1: easy buy recommend alot lack fit hassle cheap purchase look
+2022-05-09 03:39:05,502 : INFO : concept 2: manufacturer wheel initially view slice plain underneath pet mat stainless
+2022-05-09 03:39:09,729 : INFO : Train AUC: 0.9941
+2022-05-09 03:39:09,731 : INFO : Test AUC: 0.9927
+2022-05-09 03:39:09,731 : INFO : epoch 21/30:
+2022-05-09 03:39:09,732 : INFO : Total loss: -1868.9761
+2022-05-09 03:39:09,732 : INFO : SGNS loss: 24.2110
+2022-05-09 03:39:09,732 : INFO : Dirichlet loss: -10.2330
+2022-05-09 03:39:09,732 : INFO : Prediction loss: 130.3245
+2022-05-09 03:39:09,732 : INFO : Diversity loss: -2013.2785
+2022-05-09 03:39:09,735 : INFO : concept 1: hair easy grey screw ink use note downside wait arrive
+2022-05-09 03:39:09,735 : INFO : concept 2: iphone today versatile requirement initially straightforward finger tea minor figure
+2022-05-09 03:39:14,004 : INFO : Train AUC: 0.9959
+2022-05-09 03:39:14,007 : INFO : Test AUC: 0.9946
+2022-05-09 03:39:14,007 : INFO : epoch 22/30:
+2022-05-09 03:39:14,007 : INFO : Total loss: -1882.0650
+2022-05-09 03:39:14,007 : INFO : SGNS loss: 22.6545
+2022-05-09 03:39:14,007 : INFO : Dirichlet loss: -10.1367
+2022-05-09 03:39:14,007 : INFO : Prediction loss: 134.9221
+2022-05-09 03:39:14,008 : INFO : Diversity loss: -2029.5048
+2022-05-09 03:39:14,011 : INFO : concept 1: use easy great buy excellent test love work metal quality
+2022-05-09 03:39:14,011 : INFO : concept 2: watch tray brown flat strong garden pop minor daughter rack
+2022-05-09 03:39:18,298 : INFO : Train AUC: 0.9944
+2022-05-09 03:39:18,301 : INFO : Test AUC: 0.9931
+2022-05-09 03:39:18,301 : INFO : epoch 23/30:
+2022-05-09 03:39:18,302 : INFO : Total loss: -1879.6679
+2022-05-09 03:39:18,302 : INFO : SGNS loss: 20.9540
+2022-05-09 03:39:18,302 : INFO : Dirichlet loss: -10.2432
+2022-05-09 03:39:18,302 : INFO : Prediction loss: 149.4059
+2022-05-09 03:39:18,302 : INFO : Diversity loss: -2039.7847
+2022-05-09 03:39:18,305 : INFO : concept 1: easy great use recomend serve music buy wait look winter
+2022-05-09 03:39:18,306 : INFO : concept 2: answer durable limit actual drink awful penny mess rack pet
+2022-05-09 03:39:22,595 : INFO : Train AUC: 0.9820
+2022-05-09 03:39:22,598 : INFO : Test AUC: 0.9801
+2022-05-09 03:39:22,598 : INFO : epoch 24/30:
+2022-05-09 03:39:22,598 : INFO : Total loss: -1887.6978
+2022-05-09 03:39:22,598 : INFO : SGNS loss: 20.7645
+2022-05-09 03:39:22,598 : INFO : Dirichlet loss: -10.2668
+2022-05-09 03:39:22,599 : INFO : Prediction loss: 148.5379
+2022-05-09 03:39:22,599 : INFO : Diversity loss: -2046.7335
+2022-05-09 03:39:22,602 : INFO : concept 1: future unable saver price easy use recommend great excellent work
+2022-05-09 03:39:22,602 : INFO : concept 2: pattern durable figure gap lose prove huge unlike shape remote
+2022-05-09 03:39:26,842 : INFO : Train AUC: 0.9988
+2022-05-09 03:39:26,845 : INFO : Test AUC: 0.9983
+2022-05-09 03:39:26,845 : INFO : epoch 25/30:
+2022-05-09 03:39:26,845 : INFO : Total loss: -1903.5952
+2022-05-09 03:39:26,845 : INFO : SGNS loss: 20.8353
+2022-05-09 03:39:26,845 : INFO : Dirichlet loss: -10.2496
+2022-05-09 03:39:26,846 : INFO : Prediction loss: 137.4684
+2022-05-09 03:39:26,846 : INFO : Diversity loss: -2051.6492
+2022-05-09 03:39:26,849 : INFO : concept 1: easy fiddly metal use buy great flat excellent sale recommend
+2022-05-09 03:39:26,849 : INFO : concept 2: holiday eye versatile opinion constantly adjustable expectation leak pour note
+2022-05-09 03:39:31,132 : INFO : Train AUC: 0.8185
+2022-05-09 03:39:31,135 : INFO : Test AUC: 0.8176
+2022-05-09 03:39:31,136 : INFO : epoch 26/30:
+2022-05-09 03:39:31,136 : INFO : Total loss: -1909.9278
+2022-05-09 03:39:31,136 : INFO : SGNS loss: 20.8964
+2022-05-09 03:39:31,136 : INFO : Dirichlet loss: -10.1586
+2022-05-09 03:39:31,136 : INFO : Prediction loss: 134.5921
+2022-05-09 03:39:31,136 : INFO : Diversity loss: -2055.2577
+2022-05-09 03:39:31,155 : INFO : concept 1: room sound design easy think item price kettle great lovely
+2022-05-09 03:39:31,156 : INFO : concept 2: careful improvement relatively avoid worktop constantly tap website happen bath
+2022-05-09 03:39:35,441 : INFO : Train AUC: 0.9973
+2022-05-09 03:39:35,444 : INFO : Test AUC: 0.9964
+2022-05-09 03:39:35,444 : INFO : epoch 27/30:
+2022-05-09 03:39:35,444 : INFO : Total loss: -1898.7937
+2022-05-09 03:39:35,445 : INFO : SGNS loss: 19.8488
+2022-05-09 03:39:35,445 : INFO : Dirichlet loss: -10.2188
+2022-05-09 03:39:35,445 : INFO : Prediction loss: 149.5589
+2022-05-09 03:39:35,445 : INFO : Diversity loss: -2057.9826
+2022-05-09 03:39:35,455 : INFO : concept 1: smooth easy look husband eat great item buy correct quality
+2022-05-09 03:39:35,455 : INFO : concept 2: word tray manufacturer hopefully near length term intend surface rating
+2022-05-09 03:39:39,731 : INFO : Train AUC: 0.9961
+2022-05-09 03:39:39,733 : INFO : Test AUC: 0.9948
+2022-05-09 03:39:39,734 : INFO : epoch 28/30:
+2022-05-09 03:39:39,734 : INFO : Total loss: -1899.1356
+2022-05-09 03:39:39,734 : INFO : SGNS loss: 19.8153
+2022-05-09 03:39:39,734 : INFO : Dirichlet loss: -10.2823
+2022-05-09 03:39:39,734 : INFO : Prediction loss: 151.4342
+2022-05-09 03:39:39,734 : INFO : Diversity loss: -2060.1028
+2022-05-09 03:39:39,737 : INFO : concept 1: great friendly buy look use need price recommend money etc
+2022-05-09 03:39:39,738 : INFO : concept 2: pleasantly term stable television answer wow despite word accurate holiday
+2022-05-09 03:39:44,001 : INFO : Train AUC: 0.9979
+2022-05-09 03:39:44,003 : INFO : Test AUC: 0.9970
+2022-05-09 03:39:44,003 : INFO : epoch 29/30:
+2022-05-09 03:39:44,004 : INFO : Total loss: -1906.7990
+2022-05-09 03:39:44,004 : INFO : SGNS loss: 19.8108
+2022-05-09 03:39:44,004 : INFO : Dirichlet loss: -10.2665
+2022-05-09 03:39:44,004 : INFO : Prediction loss: 145.4394
+2022-05-09 03:39:44,004 : INFO : Diversity loss: -2061.7826
+2022-05-09 03:39:44,007 : INFO : concept 1: buy fit purchase nice great little use easy excellent price
+2022-05-09 03:39:44,008 : INFO : concept 2: best tile mainly underneath baby arrive enjoy eat annoying search

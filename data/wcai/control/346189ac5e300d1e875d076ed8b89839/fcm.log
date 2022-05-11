@@ -1,0 +1,300 @@
+2022-05-09 13:09:19,171 : INFO : Train AUC: 0.5262
+2022-05-09 13:09:19,176 : INFO : Test AUC: 0.5252
+2022-05-09 13:09:19,176 : INFO : epoch 0/30:
+2022-05-09 13:09:19,177 : INFO : Total loss: 2514.2837
+2022-05-09 13:09:19,177 : INFO : SGNS loss: 46.5817
+2022-05-09 13:09:19,177 : INFO : Dirichlet loss: -383.8108
+2022-05-09 13:09:19,177 : INFO : Prediction loss: 2818.3546
+2022-05-09 13:09:19,178 : INFO : Diversity loss: 33.1582
+2022-05-09 13:09:19,182 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:09:19,182 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:09:24,076 : INFO : Train AUC: 0.8762
+2022-05-09 13:09:24,079 : INFO : Test AUC: 0.8750
+2022-05-09 13:09:24,080 : INFO : epoch 1/30:
+2022-05-09 13:09:24,080 : INFO : Total loss: 443.5698
+2022-05-09 13:09:24,080 : INFO : SGNS loss: 46.5456
+2022-05-09 13:09:24,080 : INFO : Dirichlet loss: -222.6469
+2022-05-09 13:09:24,080 : INFO : Prediction loss: 586.5129
+2022-05-09 13:09:24,081 : INFO : Diversity loss: 33.1582
+2022-05-09 13:09:24,085 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:09:24,086 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:09:28,932 : INFO : Train AUC: 0.9480
+2022-05-09 13:09:28,936 : INFO : Test AUC: 0.9435
+2022-05-09 13:09:28,936 : INFO : epoch 2/30:
+2022-05-09 13:09:28,936 : INFO : Total loss: -43.4520
+2022-05-09 13:09:28,936 : INFO : SGNS loss: 46.4963
+2022-05-09 13:09:28,937 : INFO : Dirichlet loss: -131.2049
+2022-05-09 13:09:28,937 : INFO : Prediction loss: 8.0985
+2022-05-09 13:09:28,937 : INFO : Diversity loss: 33.1582
+2022-05-09 13:09:28,942 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:09:28,942 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:09:33,775 : INFO : Train AUC: 0.9623
+2022-05-09 13:09:33,778 : INFO : Test AUC: 0.9592
+2022-05-09 13:09:33,778 : INFO : epoch 3/30:
+2022-05-09 13:09:33,779 : INFO : Total loss: -4.0994
+2022-05-09 13:09:33,779 : INFO : SGNS loss: 46.4543
+2022-05-09 13:09:33,779 : INFO : Dirichlet loss: -87.5210
+2022-05-09 13:09:33,779 : INFO : Prediction loss: 3.8090
+2022-05-09 13:09:33,779 : INFO : Diversity loss: 33.1582
+2022-05-09 13:09:33,784 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:09:33,784 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:09:38,616 : INFO : Train AUC: 0.9745
+2022-05-09 13:09:38,620 : INFO : Test AUC: 0.9720
+2022-05-09 13:09:38,620 : INFO : epoch 4/30:
+2022-05-09 13:09:38,620 : INFO : Total loss: 9.2233
+2022-05-09 13:09:38,621 : INFO : SGNS loss: 46.4403
+2022-05-09 13:09:38,621 : INFO : Dirichlet loss: -72.5806
+2022-05-09 13:09:38,621 : INFO : Prediction loss: 2.2054
+2022-05-09 13:09:38,621 : INFO : Diversity loss: 33.1582
+2022-05-09 13:09:38,626 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:09:38,627 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:09:43,513 : INFO : Train AUC: 0.9787
+2022-05-09 13:09:43,516 : INFO : Test AUC: 0.9763
+2022-05-09 13:09:43,517 : INFO : epoch 5/30:
+2022-05-09 13:09:43,517 : INFO : Total loss: 11.4028
+2022-05-09 13:09:43,517 : INFO : SGNS loss: 46.4405
+2022-05-09 13:09:43,517 : INFO : Dirichlet loss: -69.7006
+2022-05-09 13:09:43,518 : INFO : Prediction loss: 1.5047
+2022-05-09 13:09:43,518 : INFO : Diversity loss: 33.1582
+2022-05-09 13:09:43,522 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:09:43,522 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:09:48,361 : INFO : Train AUC: 0.9808
+2022-05-09 13:09:48,365 : INFO : Test AUC: 0.9778
+2022-05-09 13:09:48,365 : INFO : epoch 6/30:
+2022-05-09 13:09:48,365 : INFO : Total loss: 11.4493
+2022-05-09 13:09:48,366 : INFO : SGNS loss: 46.4452
+2022-05-09 13:09:48,366 : INFO : Dirichlet loss: -69.3548
+2022-05-09 13:09:48,366 : INFO : Prediction loss: 1.2006
+2022-05-09 13:09:48,366 : INFO : Diversity loss: 33.1582
+2022-05-09 13:09:48,371 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:09:48,372 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:09:53,219 : INFO : Train AUC: 0.9827
+2022-05-09 13:09:53,222 : INFO : Test AUC: 0.9786
+2022-05-09 13:09:53,223 : INFO : epoch 7/30:
+2022-05-09 13:09:53,223 : INFO : Total loss: 11.3563
+2022-05-09 13:09:53,223 : INFO : SGNS loss: 46.4455
+2022-05-09 13:09:53,223 : INFO : Dirichlet loss: -69.3201
+2022-05-09 13:09:53,223 : INFO : Prediction loss: 1.0726
+2022-05-09 13:09:53,224 : INFO : Diversity loss: 33.1582
+2022-05-09 13:09:53,229 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:09:53,229 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:09:58,133 : INFO : Train AUC: 0.9843
+2022-05-09 13:09:58,136 : INFO : Test AUC: 0.9809
+2022-05-09 13:09:58,137 : INFO : epoch 8/30:
+2022-05-09 13:09:58,137 : INFO : Total loss: 11.3130
+2022-05-09 13:09:58,137 : INFO : SGNS loss: 46.4497
+2022-05-09 13:09:58,137 : INFO : Dirichlet loss: -69.3155
+2022-05-09 13:09:58,137 : INFO : Prediction loss: 1.0206
+2022-05-09 13:09:58,138 : INFO : Diversity loss: 33.1582
+2022-05-09 13:09:58,143 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:09:58,143 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:10:03,082 : INFO : Train AUC: 0.9832
+2022-05-09 13:10:03,085 : INFO : Test AUC: 0.9795
+2022-05-09 13:10:03,086 : INFO : epoch 9/30:
+2022-05-09 13:10:03,086 : INFO : Total loss: 11.2851
+2022-05-09 13:10:03,086 : INFO : SGNS loss: 46.4486
+2022-05-09 13:10:03,086 : INFO : Dirichlet loss: -69.3149
+2022-05-09 13:10:03,087 : INFO : Prediction loss: 0.9932
+2022-05-09 13:10:03,087 : INFO : Diversity loss: 33.1582
+2022-05-09 13:10:03,092 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:10:03,092 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:10:08,032 : INFO : Train AUC: 0.9825
+2022-05-09 13:10:08,035 : INFO : Test AUC: 0.9786
+2022-05-09 13:10:08,036 : INFO : epoch 10/30:
+2022-05-09 13:10:08,036 : INFO : Total loss: 11.2708
+2022-05-09 13:10:08,036 : INFO : SGNS loss: 46.4485
+2022-05-09 13:10:08,037 : INFO : Dirichlet loss: -69.3149
+2022-05-09 13:10:08,037 : INFO : Prediction loss: 0.9790
+2022-05-09 13:10:08,037 : INFO : Diversity loss: 33.1582
+2022-05-09 13:10:08,042 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:10:08,042 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:10:12,905 : INFO : Train AUC: 0.9836
+2022-05-09 13:10:12,908 : INFO : Test AUC: 0.9799
+2022-05-09 13:10:12,909 : INFO : epoch 11/30:
+2022-05-09 13:10:12,909 : INFO : Total loss: 11.2628
+2022-05-09 13:10:12,909 : INFO : SGNS loss: 46.4503
+2022-05-09 13:10:12,909 : INFO : Dirichlet loss: -69.3150
+2022-05-09 13:10:12,910 : INFO : Prediction loss: 0.9693
+2022-05-09 13:10:12,910 : INFO : Diversity loss: 33.1582
+2022-05-09 13:10:12,914 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:10:12,914 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:10:17,745 : INFO : Train AUC: 0.9837
+2022-05-09 13:10:17,749 : INFO : Test AUC: 0.9799
+2022-05-09 13:10:17,749 : INFO : epoch 12/30:
+2022-05-09 13:10:17,749 : INFO : Total loss: 11.2527
+2022-05-09 13:10:17,749 : INFO : SGNS loss: 46.4508
+2022-05-09 13:10:17,750 : INFO : Dirichlet loss: -69.3152
+2022-05-09 13:10:17,750 : INFO : Prediction loss: 0.9589
+2022-05-09 13:10:17,750 : INFO : Diversity loss: 33.1582
+2022-05-09 13:10:17,755 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:10:17,755 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:10:22,625 : INFO : Train AUC: 0.9848
+2022-05-09 13:10:22,629 : INFO : Test AUC: 0.9812
+2022-05-09 13:10:22,629 : INFO : epoch 13/30:
+2022-05-09 13:10:22,629 : INFO : Total loss: 11.2457
+2022-05-09 13:10:22,629 : INFO : SGNS loss: 46.4526
+2022-05-09 13:10:22,630 : INFO : Dirichlet loss: -69.3155
+2022-05-09 13:10:22,630 : INFO : Prediction loss: 0.9504
+2022-05-09 13:10:22,630 : INFO : Diversity loss: 33.1582
+2022-05-09 13:10:22,635 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:10:22,635 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:10:27,486 : INFO : Train AUC: 0.9839
+2022-05-09 13:10:27,489 : INFO : Test AUC: 0.9805
+2022-05-09 13:10:27,490 : INFO : epoch 14/30:
+2022-05-09 13:10:27,490 : INFO : Total loss: 11.2351
+2022-05-09 13:10:27,490 : INFO : SGNS loss: 46.4513
+2022-05-09 13:10:27,490 : INFO : Dirichlet loss: -69.3158
+2022-05-09 13:10:27,491 : INFO : Prediction loss: 0.9414
+2022-05-09 13:10:27,491 : INFO : Diversity loss: 33.1582
+2022-05-09 13:10:27,495 : INFO : concept 1: simply gorgeous unlike number fail everyday rating granddaughter life alot
+2022-05-09 13:10:27,496 : INFO : concept 2: lightweight arm ago mobile recommend awful similar rest press pan
+2022-05-09 13:10:33,524 : INFO : Train AUC: 0.9848
+2022-05-09 13:10:33,527 : INFO : Test AUC: 0.9814
+2022-05-09 13:10:33,527 : INFO : epoch 15/30:
+2022-05-09 13:10:33,528 : INFO : Total loss: -877.0320
+2022-05-09 13:10:33,528 : INFO : SGNS loss: 23.7198
+2022-05-09 13:10:33,528 : INFO : Dirichlet loss: -926.1531
+2022-05-09 13:10:33,528 : INFO : Prediction loss: 0.9320
+2022-05-09 13:10:33,528 : INFO : Diversity loss: 24.4693
+2022-05-09 13:10:33,533 : INFO : concept 1: garden plug tool drill steam round pole level collect samsung
+2022-05-09 13:10:33,533 : INFO : concept 2: great easy use buy look price need beautifully quality gap
+2022-05-09 13:10:39,630 : INFO : Train AUC: 0.9869
+2022-05-09 13:10:39,634 : INFO : Test AUC: 0.9839
+2022-05-09 13:10:39,634 : INFO : epoch 16/30:
+2022-05-09 13:10:39,634 : INFO : Total loss: -1022.3053
+2022-05-09 13:10:39,634 : INFO : SGNS loss: 14.9959
+2022-05-09 13:10:39,635 : INFO : Dirichlet loss: -1036.1633
+2022-05-09 13:10:39,635 : INFO : Prediction loss: 0.9225
+2022-05-09 13:10:39,635 : INFO : Diversity loss: -2.0603
+2022-05-09 13:10:39,640 : INFO : concept 1: pet hobbs pop channel simply rating install grandson bedside advise
+2022-05-09 13:10:39,640 : INFO : concept 2: great easy buy look money use excellent price little quality
+2022-05-09 13:10:45,706 : INFO : Train AUC: 0.9856
+2022-05-09 13:10:45,710 : INFO : Test AUC: 0.9819
+2022-05-09 13:10:45,710 : INFO : epoch 17/30:
+2022-05-09 13:10:45,711 : INFO : Total loss: -1031.1515
+2022-05-09 13:10:45,711 : INFO : SGNS loss: 14.9088
+2022-05-09 13:10:45,711 : INFO : Dirichlet loss: -1036.1633
+2022-05-09 13:10:45,711 : INFO : Prediction loss: 0.9142
+2022-05-09 13:10:45,712 : INFO : Diversity loss: -10.8112
+2022-05-09 13:10:45,716 : INFO : concept 1: click brill bottle gorgeous fi hole tend jug dog sort
+2022-05-09 13:10:45,717 : INFO : concept 2: easy price buy use great little excellent look quality work
+2022-05-09 13:10:51,767 : INFO : Train AUC: 0.9834
+2022-05-09 13:10:51,770 : INFO : Test AUC: 0.9796
+2022-05-09 13:10:51,771 : INFO : epoch 18/30:
+2022-05-09 13:10:51,771 : INFO : Total loss: -1036.1355
+2022-05-09 13:10:51,771 : INFO : SGNS loss: 14.9007
+2022-05-09 13:10:51,771 : INFO : Dirichlet loss: -1036.1633
+2022-05-09 13:10:51,772 : INFO : Prediction loss: 0.9118
+2022-05-09 13:10:51,772 : INFO : Diversity loss: -15.7847
+2022-05-09 13:10:51,777 : INFO : concept 1: crack wow glue convenient elderly access cordless recently eat mount
+2022-05-09 13:10:51,777 : INFO : concept 2: price great use easy look buy money need quality feature
+2022-05-09 13:10:57,844 : INFO : Train AUC: 0.9846
+2022-05-09 13:10:57,847 : INFO : Test AUC: 0.9812
+2022-05-09 13:10:57,848 : INFO : epoch 19/30:
+2022-05-09 13:10:57,848 : INFO : Total loss: -1038.2588
+2022-05-09 13:10:57,848 : INFO : SGNS loss: 14.9025
+2022-05-09 13:10:57,848 : INFO : Dirichlet loss: -1036.1633
+2022-05-09 13:10:57,849 : INFO : Prediction loss: 0.8936
+2022-05-09 13:10:57,849 : INFO : Diversity loss: -17.8916
+2022-05-09 13:10:57,853 : INFO : concept 1: tend xmas feed facility glue forget secure trouble hobbs matter
+2022-05-09 13:10:57,854 : INFO : concept 2: great easy look use recommend excellent buy quality money size
+2022-05-09 13:11:03,948 : INFO : Train AUC: 0.9848
+2022-05-09 13:11:03,951 : INFO : Test AUC: 0.9815
+2022-05-09 13:11:03,952 : INFO : epoch 20/30:
+2022-05-09 13:11:03,952 : INFO : Total loss: -1039.2458
+2022-05-09 13:11:03,952 : INFO : SGNS loss: 14.9044
+2022-05-09 13:11:03,952 : INFO : Dirichlet loss: -1036.1633
+2022-05-09 13:11:03,953 : INFO : Prediction loss: 0.8820
+2022-05-09 13:11:03,953 : INFO : Diversity loss: -18.8689
+2022-05-09 13:11:03,958 : INFO : concept 1: pad bend limit mount hop daily tall middle performance date
+2022-05-09 13:11:03,958 : INFO : concept 2: easy great use look price recommend need buy quality bring
+2022-05-09 13:11:09,998 : INFO : Train AUC: 0.9855
+2022-05-09 13:11:10,002 : INFO : Test AUC: 0.9819
+2022-05-09 13:11:10,002 : INFO : epoch 21/30:
+2022-05-09 13:11:10,002 : INFO : Total loss: -1039.7659
+2022-05-09 13:11:10,002 : INFO : SGNS loss: 14.9072
+2022-05-09 13:11:10,003 : INFO : Dirichlet loss: -1036.1633
+2022-05-09 13:11:10,003 : INFO : Prediction loss: 0.8714
+2022-05-09 13:11:10,003 : INFO : Diversity loss: -19.3812
+2022-05-09 13:11:10,008 : INFO : concept 1: matter despite signal daily guess timer terrible rating huge finger
+2022-05-09 13:11:10,008 : INFO : concept 2: great easy price use work quality prefer think excellent look
+2022-05-09 13:11:16,073 : INFO : Train AUC: 0.9859
+2022-05-09 13:11:16,077 : INFO : Test AUC: 0.9824
+2022-05-09 13:11:16,077 : INFO : epoch 22/30:
+2022-05-09 13:11:16,077 : INFO : Total loss: -1040.0734
+2022-05-09 13:11:16,078 : INFO : SGNS loss: 14.9081
+2022-05-09 13:11:16,078 : INFO : Dirichlet loss: -1036.1631
+2022-05-09 13:11:16,078 : INFO : Prediction loss: 0.8571
+2022-05-09 13:11:16,078 : INFO : Diversity loss: -19.6755
+2022-05-09 13:11:16,084 : INFO : concept 1: hop term surface download shed hdmi local instead moment hobbs
+2022-05-09 13:11:16,084 : INFO : concept 2: easy buy quality great look grey state little pretty money
+2022-05-09 13:11:22,162 : INFO : Train AUC: 0.9869
+2022-05-09 13:11:22,165 : INFO : Test AUC: 0.9846
+2022-05-09 13:11:22,166 : INFO : epoch 23/30:
+2022-05-09 13:11:22,166 : INFO : Total loss: -1040.2649
+2022-05-09 13:11:22,166 : INFO : SGNS loss: 14.9093
+2022-05-09 13:11:22,166 : INFO : Dirichlet loss: -1036.1632
+2022-05-09 13:11:22,167 : INFO : Prediction loss: 0.8456
+2022-05-09 13:11:22,167 : INFO : Diversity loss: -19.8566
+2022-05-09 13:11:22,172 : INFO : concept 1: chrome local improve forget thoroughly finger limit temperature draw improvement
+2022-05-09 13:11:22,172 : INFO : concept 2: great use nice need easy quality pleased flat look lovely
+2022-05-09 13:11:28,225 : INFO : Train AUC: 0.9885
+2022-05-09 13:11:28,228 : INFO : Test AUC: 0.9860
+2022-05-09 13:11:28,228 : INFO : epoch 24/30:
+2022-05-09 13:11:28,229 : INFO : Total loss: -1040.3923
+2022-05-09 13:11:28,229 : INFO : SGNS loss: 14.9070
+2022-05-09 13:11:28,229 : INFO : Dirichlet loss: -1036.1632
+2022-05-09 13:11:28,229 : INFO : Prediction loss: 0.8377
+2022-05-09 13:11:28,230 : INFO : Diversity loss: -19.9738
+2022-05-09 13:11:28,234 : INFO : concept 1: market crack struggle functional listen classy ready holiday eventually block
+2022-05-09 13:11:28,235 : INFO : concept 2: easy fit great bit use hardly buy price look money
+2022-05-09 13:11:34,296 : INFO : Train AUC: 0.9899
+2022-05-09 13:11:34,300 : INFO : Test AUC: 0.9875
+2022-05-09 13:11:34,300 : INFO : epoch 25/30:
+2022-05-09 13:11:34,300 : INFO : Total loss: -1040.4836
+2022-05-09 13:11:34,301 : INFO : SGNS loss: 14.9068
+2022-05-09 13:11:34,301 : INFO : Dirichlet loss: -1036.1631
+2022-05-09 13:11:34,301 : INFO : Prediction loss: 0.8251
+2022-05-09 13:11:34,301 : INFO : Diversity loss: -20.0524
+2022-05-09 13:11:34,306 : INFO : concept 1: hide today telephone hook burn pattern pop impossible key temperature
+2022-05-09 13:11:34,306 : INFO : concept 2: easy look buy great use excellent music money price item
+2022-05-09 13:11:40,368 : INFO : Train AUC: 0.9901
+2022-05-09 13:11:40,371 : INFO : Test AUC: 0.9877
+2022-05-09 13:11:40,372 : INFO : epoch 26/30:
+2022-05-09 13:11:40,372 : INFO : Total loss: -1040.5422
+2022-05-09 13:11:40,372 : INFO : SGNS loss: 14.9089
+2022-05-09 13:11:40,373 : INFO : Dirichlet loss: -1036.1631
+2022-05-09 13:11:40,373 : INFO : Prediction loss: 0.8184
+2022-05-09 13:11:40,373 : INFO : Diversity loss: -20.1065
+2022-05-09 13:11:40,378 : INFO : concept 1: poorly friendly seal durable hopefully jug hardly versatile holiday bath
+2022-05-09 13:11:40,378 : INFO : concept 2: buy great easy use excellent look like present little quality
+2022-05-09 13:11:46,451 : INFO : Train AUC: 0.9876
+2022-05-09 13:11:46,456 : INFO : Test AUC: 0.9853
+2022-05-09 13:11:46,456 : INFO : epoch 27/30:
+2022-05-09 13:11:46,456 : INFO : Total loss: -1040.6003
+2022-05-09 13:11:46,456 : INFO : SGNS loss: 14.9085
+2022-05-09 13:11:46,457 : INFO : Dirichlet loss: -1036.1628
+2022-05-09 13:11:46,457 : INFO : Prediction loss: 0.7983
+2022-05-09 13:11:46,457 : INFO : Diversity loss: -20.1444
+2022-05-09 13:11:46,462 : INFO : concept 1: key baby badly brilliantly file hope neatly accurate classy disappointing
+2022-05-09 13:11:46,462 : INFO : concept 2: use easy great buy price quality size look nice fit
+2022-05-09 13:11:52,551 : INFO : Train AUC: 0.9874
+2022-05-09 13:11:52,555 : INFO : Test AUC: 0.9852
+2022-05-09 13:11:52,555 : INFO : epoch 28/30:
+2022-05-09 13:11:52,555 : INFO : Total loss: -1040.6441
+2022-05-09 13:11:52,555 : INFO : SGNS loss: 14.9078
+2022-05-09 13:11:52,556 : INFO : Dirichlet loss: -1036.1629
+2022-05-09 13:11:52,556 : INFO : Prediction loss: 0.7822
+2022-05-09 13:11:52,556 : INFO : Diversity loss: -20.1712
+2022-05-09 13:11:52,561 : INFO : concept 1: today durable test surprise hope expectation fail initially slide cooking
+2022-05-09 13:11:52,561 : INFO : concept 2: great price buy easy need look use nice quality son
+2022-05-09 13:11:58,644 : INFO : Train AUC: 0.9881
+2022-05-09 13:11:58,647 : INFO : Test AUC: 0.9853
+2022-05-09 13:11:58,647 : INFO : epoch 29/30:
+2022-05-09 13:11:58,648 : INFO : Total loss: -1040.6847
+2022-05-09 13:11:58,648 : INFO : SGNS loss: 14.9063
+2022-05-09 13:11:58,648 : INFO : Dirichlet loss: -1036.1630
+2022-05-09 13:11:58,648 : INFO : Prediction loss: 0.7626
+2022-05-09 13:11:58,648 : INFO : Diversity loss: -20.1906
+2022-05-09 13:11:58,656 : INFO : concept 1: exist iphone sharp future correct quilt looking negative rest dust
+2022-05-09 13:11:58,656 : INFO : concept 2: easy quality use buy great excellent think long look picture

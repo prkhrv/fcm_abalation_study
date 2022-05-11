@@ -1,0 +1,300 @@
+2022-05-09 13:20:24,265 : INFO : Train AUC: 0.9128
+2022-05-09 13:20:24,269 : INFO : Test AUC: 0.9151
+2022-05-09 13:20:24,270 : INFO : epoch 0/30:
+2022-05-09 13:20:24,270 : INFO : Total loss: 48916.7090
+2022-05-09 13:20:24,270 : INFO : SGNS loss: 46.1517
+2022-05-09 13:20:24,270 : INFO : Dirichlet loss: -9846.1652
+2022-05-09 13:20:24,271 : INFO : Prediction loss: 58683.5646
+2022-05-09 13:20:24,271 : INFO : Diversity loss: 33.1579
+2022-05-09 13:20:24,275 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:20:24,276 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:20:29,314 : INFO : Train AUC: 0.9142
+2022-05-09 13:20:29,318 : INFO : Test AUC: 0.9074
+2022-05-09 13:20:29,318 : INFO : epoch 1/30:
+2022-05-09 13:20:29,318 : INFO : Total loss: -7796.2956
+2022-05-09 13:20:29,319 : INFO : SGNS loss: 46.1390
+2022-05-09 13:20:29,319 : INFO : Dirichlet loss: -8633.8876
+2022-05-09 13:20:29,319 : INFO : Prediction loss: 758.2952
+2022-05-09 13:20:29,319 : INFO : Diversity loss: 33.1579
+2022-05-09 13:20:29,324 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:20:29,324 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:20:34,357 : INFO : Train AUC: 0.9581
+2022-05-09 13:20:34,361 : INFO : Test AUC: 0.9520
+2022-05-09 13:20:34,361 : INFO : epoch 2/30:
+2022-05-09 13:20:34,362 : INFO : Total loss: -6497.6201
+2022-05-09 13:20:34,362 : INFO : SGNS loss: 46.0510
+2022-05-09 13:20:34,362 : INFO : Dirichlet loss: -6721.0527
+2022-05-09 13:20:34,362 : INFO : Prediction loss: 144.2237
+2022-05-09 13:20:34,363 : INFO : Diversity loss: 33.1579
+2022-05-09 13:20:34,367 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:20:34,368 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:20:39,400 : INFO : Train AUC: 0.9859
+2022-05-09 13:20:39,404 : INFO : Test AUC: 0.9833
+2022-05-09 13:20:39,404 : INFO : epoch 3/30:
+2022-05-09 13:20:39,405 : INFO : Total loss: -9267.7017
+2022-05-09 13:20:39,405 : INFO : SGNS loss: 46.0149
+2022-05-09 13:20:39,405 : INFO : Dirichlet loss: -9429.7227
+2022-05-09 13:20:39,405 : INFO : Prediction loss: 82.8482
+2022-05-09 13:20:39,406 : INFO : Diversity loss: 33.1579
+2022-05-09 13:20:39,411 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:20:39,411 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:20:44,435 : INFO : Train AUC: 0.9870
+2022-05-09 13:20:44,439 : INFO : Test AUC: 0.9839
+2022-05-09 13:20:44,439 : INFO : epoch 4/30:
+2022-05-09 13:20:44,439 : INFO : Total loss: -7579.6495
+2022-05-09 13:20:44,439 : INFO : SGNS loss: 46.0307
+2022-05-09 13:20:44,440 : INFO : Dirichlet loss: -7717.2378
+2022-05-09 13:20:44,440 : INFO : Prediction loss: 58.3997
+2022-05-09 13:20:44,440 : INFO : Diversity loss: 33.1579
+2022-05-09 13:20:44,445 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:20:44,446 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:20:49,490 : INFO : Train AUC: 0.9884
+2022-05-09 13:20:49,494 : INFO : Test AUC: 0.9850
+2022-05-09 13:20:49,494 : INFO : epoch 5/30:
+2022-05-09 13:20:49,494 : INFO : Total loss: -6880.7014
+2022-05-09 13:20:49,494 : INFO : SGNS loss: 46.0367
+2022-05-09 13:20:49,495 : INFO : Dirichlet loss: -7014.0819
+2022-05-09 13:20:49,495 : INFO : Prediction loss: 54.1859
+2022-05-09 13:20:49,495 : INFO : Diversity loss: 33.1579
+2022-05-09 13:20:49,500 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:20:49,500 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:20:54,502 : INFO : Train AUC: 0.9892
+2022-05-09 13:20:54,506 : INFO : Test AUC: 0.9861
+2022-05-09 13:20:54,506 : INFO : epoch 6/30:
+2022-05-09 13:20:54,506 : INFO : Total loss: -5998.6879
+2022-05-09 13:20:54,507 : INFO : SGNS loss: 46.0352
+2022-05-09 13:20:54,507 : INFO : Dirichlet loss: -6128.4225
+2022-05-09 13:20:54,507 : INFO : Prediction loss: 50.5414
+2022-05-09 13:20:54,507 : INFO : Diversity loss: 33.1579
+2022-05-09 13:20:54,512 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:20:54,513 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:20:59,553 : INFO : Train AUC: 0.9905
+2022-05-09 13:20:59,556 : INFO : Test AUC: 0.9871
+2022-05-09 13:20:59,557 : INFO : epoch 7/30:
+2022-05-09 13:20:59,557 : INFO : Total loss: -6296.8375
+2022-05-09 13:20:59,557 : INFO : SGNS loss: 46.0382
+2022-05-09 13:20:59,557 : INFO : Dirichlet loss: -6422.8367
+2022-05-09 13:20:59,557 : INFO : Prediction loss: 46.8031
+2022-05-09 13:20:59,558 : INFO : Diversity loss: 33.1579
+2022-05-09 13:20:59,562 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:20:59,563 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:21:04,601 : INFO : Train AUC: 0.9896
+2022-05-09 13:21:04,605 : INFO : Test AUC: 0.9871
+2022-05-09 13:21:04,606 : INFO : epoch 8/30:
+2022-05-09 13:21:04,606 : INFO : Total loss: -5058.9698
+2022-05-09 13:21:04,606 : INFO : SGNS loss: 46.0338
+2022-05-09 13:21:04,606 : INFO : Dirichlet loss: -5182.1238
+2022-05-09 13:21:04,607 : INFO : Prediction loss: 43.9623
+2022-05-09 13:21:04,607 : INFO : Diversity loss: 33.1579
+2022-05-09 13:21:04,612 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:21:04,612 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:21:09,605 : INFO : Train AUC: 0.9918
+2022-05-09 13:21:09,609 : INFO : Test AUC: 0.9884
+2022-05-09 13:21:09,609 : INFO : epoch 9/30:
+2022-05-09 13:21:09,610 : INFO : Total loss: -7361.7376
+2022-05-09 13:21:09,610 : INFO : SGNS loss: 46.0442
+2022-05-09 13:21:09,610 : INFO : Dirichlet loss: -7482.8464
+2022-05-09 13:21:09,610 : INFO : Prediction loss: 41.9067
+2022-05-09 13:21:09,610 : INFO : Diversity loss: 33.1579
+2022-05-09 13:21:09,615 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:21:09,615 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:21:14,694 : INFO : Train AUC: 0.9925
+2022-05-09 13:21:14,698 : INFO : Test AUC: 0.9898
+2022-05-09 13:21:14,698 : INFO : epoch 10/30:
+2022-05-09 13:21:14,698 : INFO : Total loss: -5214.5459
+2022-05-09 13:21:14,698 : INFO : SGNS loss: 46.0363
+2022-05-09 13:21:14,699 : INFO : Dirichlet loss: -5332.6363
+2022-05-09 13:21:14,699 : INFO : Prediction loss: 38.8962
+2022-05-09 13:21:14,699 : INFO : Diversity loss: 33.1579
+2022-05-09 13:21:14,704 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:21:14,704 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:21:19,715 : INFO : Train AUC: 0.9931
+2022-05-09 13:21:19,718 : INFO : Test AUC: 0.9903
+2022-05-09 13:21:19,719 : INFO : epoch 11/30:
+2022-05-09 13:21:19,719 : INFO : Total loss: -4650.2121
+2022-05-09 13:21:19,719 : INFO : SGNS loss: 46.0351
+2022-05-09 13:21:19,719 : INFO : Dirichlet loss: -4766.0872
+2022-05-09 13:21:19,720 : INFO : Prediction loss: 36.6822
+2022-05-09 13:21:19,720 : INFO : Diversity loss: 33.1579
+2022-05-09 13:21:19,725 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:21:19,725 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:21:24,711 : INFO : Train AUC: 0.9934
+2022-05-09 13:21:24,715 : INFO : Test AUC: 0.9903
+2022-05-09 13:21:24,715 : INFO : epoch 12/30:
+2022-05-09 13:21:24,716 : INFO : Total loss: -4754.2045
+2022-05-09 13:21:24,716 : INFO : SGNS loss: 46.0366
+2022-05-09 13:21:24,716 : INFO : Dirichlet loss: -4868.1051
+2022-05-09 13:21:24,717 : INFO : Prediction loss: 34.7062
+2022-05-09 13:21:24,717 : INFO : Diversity loss: 33.1579
+2022-05-09 13:21:24,722 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:21:24,722 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:21:29,711 : INFO : Train AUC: 0.9939
+2022-05-09 13:21:29,715 : INFO : Test AUC: 0.9907
+2022-05-09 13:21:29,715 : INFO : epoch 13/30:
+2022-05-09 13:21:29,715 : INFO : Total loss: -5129.8777
+2022-05-09 13:21:29,716 : INFO : SGNS loss: 46.0384
+2022-05-09 13:21:29,716 : INFO : Dirichlet loss: -5242.2029
+2022-05-09 13:21:29,716 : INFO : Prediction loss: 33.1289
+2022-05-09 13:21:29,716 : INFO : Diversity loss: 33.1579
+2022-05-09 13:21:29,721 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:21:29,721 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:21:34,696 : INFO : Train AUC: 0.9943
+2022-05-09 13:21:34,700 : INFO : Test AUC: 0.9914
+2022-05-09 13:21:34,700 : INFO : epoch 14/30:
+2022-05-09 13:21:34,701 : INFO : Total loss: -4134.9132
+2022-05-09 13:21:34,701 : INFO : SGNS loss: 46.0305
+2022-05-09 13:21:34,701 : INFO : Dirichlet loss: -4245.3356
+2022-05-09 13:21:34,701 : INFO : Prediction loss: 31.2340
+2022-05-09 13:21:34,702 : INFO : Diversity loss: 33.1579
+2022-05-09 13:21:34,708 : INFO : concept 1: straightforward clear carpet choose family pull morning deliver quick wash
+2022-05-09 13:21:34,708 : INFO : concept 2: comfortable manufacturer lay blow cartridge poor reasonable tall badly wet
+2022-05-09 13:21:40,805 : INFO : Train AUC: 0.9918
+2022-05-09 13:21:40,808 : INFO : Test AUC: 0.9901
+2022-05-09 13:21:40,809 : INFO : epoch 15/30:
+2022-05-09 13:21:40,809 : INFO : Total loss: -10134.1015
+2022-05-09 13:21:40,809 : INFO : SGNS loss: 22.5042
+2022-05-09 13:21:40,809 : INFO : Dirichlet loss: -10218.0597
+2022-05-09 13:21:40,810 : INFO : Prediction loss: 40.5866
+2022-05-09 13:21:40,810 : INFO : Diversity loss: 20.8673
+2022-05-09 13:21:40,815 : INFO : concept 1: great easy use buy price look money excellent quality recommend
+2022-05-09 13:21:40,815 : INFO : concept 2: bookcase performance read window dyson offer tool mop ease microwave
+2022-05-09 13:21:46,990 : INFO : Train AUC: 0.9920
+2022-05-09 13:21:46,994 : INFO : Test AUC: 0.9905
+2022-05-09 13:21:46,994 : INFO : epoch 16/30:
+2022-05-09 13:21:46,994 : INFO : Total loss: -10310.5782
+2022-05-09 13:21:46,994 : INFO : SGNS loss: 14.9949
+2022-05-09 13:21:46,994 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:21:46,995 : INFO : Prediction loss: 38.8493
+2022-05-09 13:21:46,995 : INFO : Diversity loss: -2.7895
+2022-05-09 13:21:47,000 : INFO : concept 1: use great easy look buy quality price recommend excellent happy
+2022-05-09 13:21:47,000 : INFO : concept 2: send cord fold slight yes birthday local comment chrome telephone
+2022-05-09 13:21:53,131 : INFO : Train AUC: 0.9923
+2022-05-09 13:21:53,134 : INFO : Test AUC: 0.9905
+2022-05-09 13:21:53,135 : INFO : epoch 17/30:
+2022-05-09 13:21:53,135 : INFO : Total loss: -10319.8557
+2022-05-09 13:21:53,135 : INFO : SGNS loss: 14.9131
+2022-05-09 13:21:53,135 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:21:53,136 : INFO : Prediction loss: 37.6038
+2022-05-09 13:21:53,136 : INFO : Diversity loss: -10.7398
+2022-05-09 13:21:53,140 : INFO : concept 1: great use price easy look quality money purchase little time
+2022-05-09 13:21:53,141 : INFO : concept 2: cleaning manual extension eventually useless intend cream corner prove search
+2022-05-09 13:21:59,331 : INFO : Train AUC: 0.9924
+2022-05-09 13:21:59,335 : INFO : Test AUC: 0.9914
+2022-05-09 13:21:59,335 : INFO : epoch 18/30:
+2022-05-09 13:21:59,335 : INFO : Total loss: -10325.5720
+2022-05-09 13:21:59,335 : INFO : SGNS loss: 14.9036
+2022-05-09 13:21:59,336 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:21:59,336 : INFO : Prediction loss: 36.7185
+2022-05-09 13:21:59,336 : INFO : Diversity loss: -15.5612
+2022-05-09 13:21:59,344 : INFO : concept 1: great buy price use easy quality problem money excellent look
+2022-05-09 13:21:59,345 : INFO : concept 2: awkward fixing course addition versatile burn classy improve heater wardrobe
+2022-05-09 13:22:05,492 : INFO : Train AUC: 0.9926
+2022-05-09 13:22:05,495 : INFO : Test AUC: 0.9917
+2022-05-09 13:22:05,496 : INFO : epoch 19/30:
+2022-05-09 13:22:05,496 : INFO : Total loss: -10329.0050
+2022-05-09 13:22:05,496 : INFO : SGNS loss: 14.9044
+2022-05-09 13:22:05,496 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:22:05,497 : INFO : Prediction loss: 35.5154
+2022-05-09 13:22:05,497 : INFO : Diversity loss: -17.7920
+2022-05-09 13:22:05,502 : INFO : concept 1: buy use price great easy look purchase love function fit
+2022-05-09 13:22:05,502 : INFO : concept 2: improvement slight rubber cord moment similar mention xmas telephone prove
+2022-05-09 13:22:11,645 : INFO : Train AUC: 0.9929
+2022-05-09 13:22:11,649 : INFO : Test AUC: 0.9918
+2022-05-09 13:22:11,650 : INFO : epoch 20/30:
+2022-05-09 13:22:11,650 : INFO : Total loss: -10330.8081
+2022-05-09 13:22:11,650 : INFO : SGNS loss: 14.9075
+2022-05-09 13:22:11,650 : INFO : Dirichlet loss: -10361.6327
+2022-05-09 13:22:11,651 : INFO : Prediction loss: 34.7269
+2022-05-09 13:22:11,651 : INFO : Diversity loss: -18.8097
+2022-05-09 13:22:11,656 : INFO : concept 1: look easy buy bright excellent quality great thing use price
+2022-05-09 13:22:11,656 : INFO : concept 2: happen slice special key pet absolute fix signal limited system
+2022-05-09 13:22:17,751 : INFO : Train AUC: 0.9931
+2022-05-09 13:22:17,754 : INFO : Test AUC: 0.9923
+2022-05-09 13:22:17,755 : INFO : epoch 21/30:
+2022-05-09 13:22:17,755 : INFO : Total loss: -10332.2131
+2022-05-09 13:22:17,755 : INFO : SGNS loss: 14.9094
+2022-05-09 13:22:17,755 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:22:17,756 : INFO : Prediction loss: 33.8547
+2022-05-09 13:22:17,756 : INFO : Diversity loss: -19.3443
+2022-05-09 13:22:17,760 : INFO : concept 1: great use buy look easy purchase handy quality cook son
+2022-05-09 13:22:17,761 : INFO : concept 2: mother complicated manual note eat pop website chrome recomend rubber
+2022-05-09 13:22:23,900 : INFO : Train AUC: 0.9933
+2022-05-09 13:22:23,904 : INFO : Test AUC: 0.9925
+2022-05-09 13:22:23,904 : INFO : epoch 22/30:
+2022-05-09 13:22:23,905 : INFO : Total loss: -10332.9084
+2022-05-09 13:22:23,905 : INFO : SGNS loss: 14.9106
+2022-05-09 13:22:23,905 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:22:23,905 : INFO : Prediction loss: 33.4652
+2022-05-09 13:22:23,905 : INFO : Diversity loss: -19.6515
+2022-05-09 13:22:23,911 : INFO : concept 1: need easy great look use holiday money job excellent operate
+2022-05-09 13:22:23,911 : INFO : concept 2: tiny body burn tricky girl requirement seal bulky hopefully slide
+2022-05-09 13:22:30,048 : INFO : Train AUC: 0.9933
+2022-05-09 13:22:30,052 : INFO : Test AUC: 0.9927
+2022-05-09 13:22:30,052 : INFO : epoch 23/30:
+2022-05-09 13:22:30,052 : INFO : Total loss: -10333.7586
+2022-05-09 13:22:30,052 : INFO : SGNS loss: 14.9104
+2022-05-09 13:22:30,053 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:22:30,053 : INFO : Prediction loss: 32.8040
+2022-05-09 13:22:30,053 : INFO : Diversity loss: -19.8401
+2022-05-09 13:22:30,058 : INFO : concept 1: easy great quality look price recommend buy dark work money
+2022-05-09 13:22:30,058 : INFO : concept 2: despite finally straightforward safe lay awful pain okay fail term
+2022-05-09 13:22:36,170 : INFO : Train AUC: 0.9934
+2022-05-09 13:22:36,174 : INFO : Test AUC: 0.9929
+2022-05-09 13:22:36,174 : INFO : epoch 24/30:
+2022-05-09 13:22:36,174 : INFO : Total loss: -10334.4045
+2022-05-09 13:22:36,175 : INFO : SGNS loss: 14.9087
+2022-05-09 13:22:36,175 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:22:36,175 : INFO : Prediction loss: 32.2818
+2022-05-09 13:22:36,175 : INFO : Diversity loss: -19.9622
+2022-05-09 13:22:36,180 : INFO : concept 1: great use price look buy small quality lovely easy money
+2022-05-09 13:22:36,180 : INFO : concept 2: pleasantly collection notice gap tray fresh protect min mind diy
+2022-05-09 13:22:42,312 : INFO : Train AUC: 0.9934
+2022-05-09 13:22:42,316 : INFO : Test AUC: 0.9930
+2022-05-09 13:22:42,316 : INFO : epoch 25/30:
+2022-05-09 13:22:42,316 : INFO : Total loss: -10334.9742
+2022-05-09 13:22:42,316 : INFO : SGNS loss: 14.9120
+2022-05-09 13:22:42,317 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:22:42,317 : INFO : Prediction loss: 31.7905
+2022-05-09 13:22:42,317 : INFO : Diversity loss: -20.0440
+2022-05-09 13:22:42,322 : INFO : concept 1: buy easy great heavy look price child excellent recommend money
+2022-05-09 13:22:42,322 : INFO : concept 2: trouble stable tend brown looking graphic careful search elegant unlike
+2022-05-09 13:22:48,467 : INFO : Train AUC: 0.9937
+2022-05-09 13:22:48,471 : INFO : Test AUC: 0.9932
+2022-05-09 13:22:48,471 : INFO : epoch 26/30:
+2022-05-09 13:22:48,471 : INFO : Total loss: -10335.1737
+2022-05-09 13:22:48,471 : INFO : SGNS loss: 14.9089
+2022-05-09 13:22:48,472 : INFO : Dirichlet loss: -10361.6196
+2022-05-09 13:22:48,472 : INFO : Prediction loss: 31.6373
+2022-05-09 13:22:48,472 : INFO : Diversity loss: -20.1003
+2022-05-09 13:22:48,477 : INFO : concept 1: great money look price easy son buy quality small excellent
+2022-05-09 13:22:48,477 : INFO : concept 2: slip requirement durable lay affordable penny receive girl improvement chrome
+2022-05-09 13:22:54,716 : INFO : Train AUC: 0.9935
+2022-05-09 13:22:54,719 : INFO : Test AUC: 0.9933
+2022-05-09 13:22:54,720 : INFO : epoch 27/30:
+2022-05-09 13:22:54,720 : INFO : Total loss: -10335.4067
+2022-05-09 13:22:54,720 : INFO : SGNS loss: 14.9095
+2022-05-09 13:22:54,720 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:22:54,721 : INFO : Prediction loss: 31.4565
+2022-05-09 13:22:54,721 : INFO : Diversity loss: -20.1399
+2022-05-09 13:22:54,726 : INFO : concept 1: buy easy use quality money little figure look need great
+2022-05-09 13:22:54,727 : INFO : concept 2: criticism appliance future near durable alot eye brilliantly glue mind
+2022-05-09 13:23:00,919 : INFO : Train AUC: 0.9936
+2022-05-09 13:23:00,923 : INFO : Test AUC: 0.9934
+2022-05-09 13:23:00,923 : INFO : epoch 28/30:
+2022-05-09 13:23:00,923 : INFO : Total loss: -10335.6252
+2022-05-09 13:23:00,923 : INFO : SGNS loss: 14.9086
+2022-05-09 13:23:00,924 : INFO : Dirichlet loss: -10361.6329
+2022-05-09 13:23:00,924 : INFO : Prediction loss: 31.2671
+2022-05-09 13:23:00,924 : INFO : Diversity loss: -20.1681
+2022-05-09 13:23:00,929 : INFO : concept 1: great look easy want buy use money nice price love
+2022-05-09 13:23:00,929 : INFO : concept 2: bedside accessory surface detail mount best tight live fast tile
+2022-05-09 13:23:07,037 : INFO : Train AUC: 0.9935
+2022-05-09 13:23:07,041 : INFO : Test AUC: 0.9935
+2022-05-09 13:23:07,041 : INFO : epoch 29/30:
+2022-05-09 13:23:07,041 : INFO : Total loss: -10336.1409
+2022-05-09 13:23:07,041 : INFO : SGNS loss: 14.9090
+2022-05-09 13:23:07,042 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 13:23:07,042 : INFO : Prediction loss: 30.7712
+2022-05-09 13:23:07,042 : INFO : Diversity loss: -20.1884
+2022-05-09 13:23:07,047 : INFO : concept 1: easy great price buy money look use quality recommend fit
+2022-05-09 13:23:07,047 : INFO : concept 2: sleek fresh suit fun hassle finally scratch patio blade usually

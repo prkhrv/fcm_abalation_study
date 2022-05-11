@@ -1,0 +1,300 @@
+2022-05-09 03:41:54,655 : INFO : Train AUC: 0.5272
+2022-05-09 03:41:54,659 : INFO : Test AUC: 0.5254
+2022-05-09 03:41:54,659 : INFO : epoch 0/30:
+2022-05-09 03:41:54,659 : INFO : Total loss: 19662.0002
+2022-05-09 03:41:54,659 : INFO : SGNS loss: 46.2904
+2022-05-09 03:41:54,659 : INFO : Dirichlet loss: -9216.5518
+2022-05-09 03:41:54,659 : INFO : Prediction loss: 25516.3741
+2022-05-09 03:41:54,659 : INFO : Diversity loss: 3315.8874
+2022-05-09 03:41:54,663 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:41:54,663 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:41:58,679 : INFO : Train AUC: 0.8580
+2022-05-09 03:41:58,682 : INFO : Test AUC: 0.8451
+2022-05-09 03:41:58,682 : INFO : epoch 1/30:
+2022-05-09 03:41:58,682 : INFO : Total loss: -1122.2292
+2022-05-09 03:41:58,682 : INFO : SGNS loss: 46.2390
+2022-05-09 03:41:58,683 : INFO : Dirichlet loss: -8799.9527
+2022-05-09 03:41:58,683 : INFO : Prediction loss: 4315.5972
+2022-05-09 03:41:58,683 : INFO : Diversity loss: 3315.8874
+2022-05-09 03:41:58,686 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:41:58,686 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:02,786 : INFO : Train AUC: 0.9140
+2022-05-09 03:42:02,789 : INFO : Test AUC: 0.9118
+2022-05-09 03:42:02,789 : INFO : epoch 2/30:
+2022-05-09 03:42:02,789 : INFO : Total loss: -6825.1760
+2022-05-09 03:42:02,789 : INFO : SGNS loss: 46.1089
+2022-05-09 03:42:02,789 : INFO : Dirichlet loss: -10341.0435
+2022-05-09 03:42:02,790 : INFO : Prediction loss: 153.8712
+2022-05-09 03:42:02,790 : INFO : Diversity loss: 3315.8875
+2022-05-09 03:42:02,793 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:02,793 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:06,834 : INFO : Train AUC: 0.9483
+2022-05-09 03:42:06,837 : INFO : Test AUC: 0.9440
+2022-05-09 03:42:06,837 : INFO : epoch 3/30:
+2022-05-09 03:42:06,838 : INFO : Total loss: -4379.5596
+2022-05-09 03:42:06,838 : INFO : SGNS loss: 46.1617
+2022-05-09 03:42:06,838 : INFO : Dirichlet loss: -7814.7287
+2022-05-09 03:42:06,838 : INFO : Prediction loss: 73.1200
+2022-05-09 03:42:06,838 : INFO : Diversity loss: 3315.8875
+2022-05-09 03:42:06,842 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:06,842 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:10,833 : INFO : Train AUC: 0.9772
+2022-05-09 03:42:10,836 : INFO : Test AUC: 0.9758
+2022-05-09 03:42:10,836 : INFO : epoch 4/30:
+2022-05-09 03:42:10,836 : INFO : Total loss: -2058.7508
+2022-05-09 03:42:10,836 : INFO : SGNS loss: 46.2078
+2022-05-09 03:42:10,836 : INFO : Dirichlet loss: -5451.7152
+2022-05-09 03:42:10,837 : INFO : Prediction loss: 30.8692
+2022-05-09 03:42:10,837 : INFO : Diversity loss: 3315.8875
+2022-05-09 03:42:10,840 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:10,840 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:14,872 : INFO : Train AUC: 0.9802
+2022-05-09 03:42:14,875 : INFO : Test AUC: 0.9792
+2022-05-09 03:42:14,875 : INFO : epoch 5/30:
+2022-05-09 03:42:14,875 : INFO : Total loss: -339.6185
+2022-05-09 03:42:14,876 : INFO : SGNS loss: 46.1911
+2022-05-09 03:42:14,876 : INFO : Dirichlet loss: -3717.5227
+2022-05-09 03:42:14,876 : INFO : Prediction loss: 15.8257
+2022-05-09 03:42:14,876 : INFO : Diversity loss: 3315.8875
+2022-05-09 03:42:14,880 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:14,880 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:18,959 : INFO : Train AUC: 0.9677
+2022-05-09 03:42:18,961 : INFO : Test AUC: 0.9657
+2022-05-09 03:42:18,961 : INFO : epoch 6/30:
+2022-05-09 03:42:18,962 : INFO : Total loss: -1653.3852
+2022-05-09 03:42:18,962 : INFO : SGNS loss: 46.2176
+2022-05-09 03:42:18,962 : INFO : Dirichlet loss: -5025.1195
+2022-05-09 03:42:18,962 : INFO : Prediction loss: 9.6292
+2022-05-09 03:42:18,962 : INFO : Diversity loss: 3315.8874
+2022-05-09 03:42:18,965 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:18,966 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:22,988 : INFO : Train AUC: 0.9875
+2022-05-09 03:42:22,991 : INFO : Test AUC: 0.9853
+2022-05-09 03:42:22,991 : INFO : epoch 7/30:
+2022-05-09 03:42:22,991 : INFO : Total loss: -347.1979
+2022-05-09 03:42:22,991 : INFO : SGNS loss: 46.2954
+2022-05-09 03:42:22,991 : INFO : Dirichlet loss: -3718.7454
+2022-05-09 03:42:22,991 : INFO : Prediction loss: 9.3648
+2022-05-09 03:42:22,992 : INFO : Diversity loss: 3315.8874
+2022-05-09 03:42:22,995 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:22,995 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:26,977 : INFO : Train AUC: 0.9945
+2022-05-09 03:42:26,980 : INFO : Test AUC: 0.9922
+2022-05-09 03:42:26,980 : INFO : epoch 8/30:
+2022-05-09 03:42:26,980 : INFO : Total loss: 1101.1324
+2022-05-09 03:42:26,980 : INFO : SGNS loss: 46.1768
+2022-05-09 03:42:26,981 : INFO : Dirichlet loss: -2268.9779
+2022-05-09 03:42:26,981 : INFO : Prediction loss: 8.0460
+2022-05-09 03:42:26,981 : INFO : Diversity loss: 3315.8875
+2022-05-09 03:42:26,984 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:26,984 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:30,997 : INFO : Train AUC: 0.9874
+2022-05-09 03:42:31,000 : INFO : Test AUC: 0.9844
+2022-05-09 03:42:31,001 : INFO : epoch 9/30:
+2022-05-09 03:42:31,001 : INFO : Total loss: 730.8642
+2022-05-09 03:42:31,001 : INFO : SGNS loss: 46.1705
+2022-05-09 03:42:31,001 : INFO : Dirichlet loss: -2638.7705
+2022-05-09 03:42:31,001 : INFO : Prediction loss: 7.5767
+2022-05-09 03:42:31,001 : INFO : Diversity loss: 3315.8874
+2022-05-09 03:42:31,005 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:31,005 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:35,008 : INFO : Train AUC: 0.9907
+2022-05-09 03:42:35,010 : INFO : Test AUC: 0.9880
+2022-05-09 03:42:35,011 : INFO : epoch 10/30:
+2022-05-09 03:42:35,011 : INFO : Total loss: 591.5298
+2022-05-09 03:42:35,011 : INFO : SGNS loss: 46.1715
+2022-05-09 03:42:35,011 : INFO : Dirichlet loss: -2777.7337
+2022-05-09 03:42:35,011 : INFO : Prediction loss: 7.2047
+2022-05-09 03:42:35,011 : INFO : Diversity loss: 3315.8874
+2022-05-09 03:42:35,014 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:35,015 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:39,017 : INFO : Train AUC: 0.9954
+2022-05-09 03:42:39,020 : INFO : Test AUC: 0.9930
+2022-05-09 03:42:39,020 : INFO : epoch 11/30:
+2022-05-09 03:42:39,020 : INFO : Total loss: 585.7332
+2022-05-09 03:42:39,020 : INFO : SGNS loss: 46.1668
+2022-05-09 03:42:39,020 : INFO : Dirichlet loss: -2783.2232
+2022-05-09 03:42:39,020 : INFO : Prediction loss: 6.9021
+2022-05-09 03:42:39,021 : INFO : Diversity loss: 3315.8875
+2022-05-09 03:42:39,024 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:39,024 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:43,034 : INFO : Train AUC: 0.9889
+2022-05-09 03:42:43,036 : INFO : Test AUC: 0.9856
+2022-05-09 03:42:43,036 : INFO : epoch 12/30:
+2022-05-09 03:42:43,037 : INFO : Total loss: 458.8204
+2022-05-09 03:42:43,037 : INFO : SGNS loss: 46.1693
+2022-05-09 03:42:43,037 : INFO : Dirichlet loss: -2909.9386
+2022-05-09 03:42:43,037 : INFO : Prediction loss: 6.7021
+2022-05-09 03:42:43,037 : INFO : Diversity loss: 3315.8875
+2022-05-09 03:42:43,040 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:43,040 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:47,075 : INFO : Train AUC: 0.9916
+2022-05-09 03:42:47,078 : INFO : Test AUC: 0.9885
+2022-05-09 03:42:47,079 : INFO : epoch 13/30:
+2022-05-09 03:42:47,079 : INFO : Total loss: 402.7022
+2022-05-09 03:42:47,079 : INFO : SGNS loss: 46.1661
+2022-05-09 03:42:47,079 : INFO : Dirichlet loss: -2965.7609
+2022-05-09 03:42:47,079 : INFO : Prediction loss: 6.4096
+2022-05-09 03:42:47,079 : INFO : Diversity loss: 3315.8874
+2022-05-09 03:42:47,083 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:47,083 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:51,097 : INFO : Train AUC: 0.9959
+2022-05-09 03:42:51,100 : INFO : Test AUC: 0.9940
+2022-05-09 03:42:51,100 : INFO : epoch 14/30:
+2022-05-09 03:42:51,100 : INFO : Total loss: 447.7177
+2022-05-09 03:42:51,100 : INFO : SGNS loss: 46.1683
+2022-05-09 03:42:51,101 : INFO : Dirichlet loss: -2920.5529
+2022-05-09 03:42:51,101 : INFO : Prediction loss: 6.2150
+2022-05-09 03:42:51,101 : INFO : Diversity loss: 3315.8874
+2022-05-09 03:42:51,104 : INFO : concept 1: change new item deal dirt hdmi soft brill number sure
+2022-05-09 03:42:51,104 : INFO : concept 2: bad tall reach straight worktop click awkward problem simply pleasantly
+2022-05-09 03:42:55,446 : INFO : Train AUC: 0.9879
+2022-05-09 03:42:55,449 : INFO : Test AUC: 0.9850
+2022-05-09 03:42:55,449 : INFO : epoch 15/30:
+2022-05-09 03:42:55,449 : INFO : Total loss: -8397.4307
+2022-05-09 03:42:55,449 : INFO : SGNS loss: 22.5590
+2022-05-09 03:42:55,449 : INFO : Dirichlet loss: -10247.5479
+2022-05-09 03:42:55,449 : INFO : Prediction loss: 7.1319
+2022-05-09 03:42:55,449 : INFO : Diversity loss: 1820.4264
+2022-05-09 03:42:55,453 : INFO : concept 1: food argo metal describe reason remote blender support corner bush
+2022-05-09 03:42:55,453 : INFO : concept 2: great buy use easy price look money excellent nice quality
+2022-05-09 03:42:59,726 : INFO : Train AUC: 0.9904
+2022-05-09 03:42:59,729 : INFO : Test AUC: 0.9882
+2022-05-09 03:42:59,729 : INFO : epoch 16/30:
+2022-05-09 03:42:59,730 : INFO : Total loss: -10941.8314
+2022-05-09 03:42:59,730 : INFO : SGNS loss: 14.9394
+2022-05-09 03:42:59,730 : INFO : Dirichlet loss: -10361.6329
+2022-05-09 03:42:59,730 : INFO : Prediction loss: 6.9088
+2022-05-09 03:42:59,730 : INFO : Diversity loss: -602.0467
+2022-05-09 03:42:59,734 : INFO : concept 1: eye today cat awesome nearly accessory wire bush idea real
+2022-05-09 03:42:59,734 : INFO : concept 2: easy price use great buy purchase recommend quality nice curtain
+2022-05-09 03:43:04,007 : INFO : Train AUC: 0.9953
+2022-05-09 03:43:04,009 : INFO : Test AUC: 0.9939
+2022-05-09 03:43:04,009 : INFO : epoch 17/30:
+2022-05-09 03:43:04,009 : INFO : Total loss: -11796.8733
+2022-05-09 03:43:04,010 : INFO : SGNS loss: 14.8951
+2022-05-09 03:43:04,010 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:04,010 : INFO : Prediction loss: 6.6771
+2022-05-09 03:43:04,010 : INFO : Diversity loss: -1456.8126
+2022-05-09 03:43:04,028 : INFO : concept 1: plain fun lose guess bill solution sky remove complicated red
+2022-05-09 03:43:04,028 : INFO : concept 2: look easy price great edge room use nice size buy
+2022-05-09 03:43:08,320 : INFO : Train AUC: 0.9875
+2022-05-09 03:43:08,322 : INFO : Test AUC: 0.9853
+2022-05-09 03:43:08,323 : INFO : epoch 18/30:
+2022-05-09 03:43:08,323 : INFO : Total loss: -12144.0176
+2022-05-09 03:43:08,323 : INFO : SGNS loss: 14.9028
+2022-05-09 03:43:08,323 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:08,323 : INFO : Prediction loss: 6.5988
+2022-05-09 03:43:08,323 : INFO : Diversity loss: -1803.8864
+2022-05-09 03:43:08,326 : INFO : concept 1: wood iphone crease fi effort lay mount course moment word
+2022-05-09 03:43:08,327 : INFO : concept 2: buy use easy great toy look brilliant nice work time
+2022-05-09 03:43:12,618 : INFO : Train AUC: 0.9909
+2022-05-09 03:43:12,620 : INFO : Test AUC: 0.9890
+2022-05-09 03:43:12,621 : INFO : epoch 19/30:
+2022-05-09 03:43:12,621 : INFO : Total loss: -12270.0624
+2022-05-09 03:43:12,621 : INFO : SGNS loss: 14.9078
+2022-05-09 03:43:12,621 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:12,621 : INFO : Prediction loss: 6.4436
+2022-05-09 03:43:12,621 : INFO : Diversity loss: -1929.7810
+2022-05-09 03:43:12,625 : INFO : concept 1: safe gorgeous catch stable cordless deliver previously tea grip hassle
+2022-05-09 03:43:12,625 : INFO : concept 2: easy use great money buy cheap look need quality sound
+2022-05-09 03:43:16,960 : INFO : Train AUC: 0.9956
+2022-05-09 03:43:16,963 : INFO : Test AUC: 0.9944
+2022-05-09 03:43:16,963 : INFO : epoch 20/30:
+2022-05-09 03:43:16,963 : INFO : Total loss: -12324.8724
+2022-05-09 03:43:16,964 : INFO : SGNS loss: 14.9104
+2022-05-09 03:43:16,964 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:16,964 : INFO : Prediction loss: 6.3432
+2022-05-09 03:43:16,964 : INFO : Diversity loss: -1984.4932
+2022-05-09 03:43:16,967 : INFO : concept 1: manage smooth tight weather complain level access cooking cleaning later
+2022-05-09 03:43:16,967 : INFO : concept 2: buy easy great use need price think want fit look
+2022-05-09 03:43:21,309 : INFO : Train AUC: 0.9884
+2022-05-09 03:43:21,311 : INFO : Test AUC: 0.9861
+2022-05-09 03:43:21,311 : INFO : epoch 21/30:
+2022-05-09 03:43:21,312 : INFO : Total loss: -12353.1443
+2022-05-09 03:43:21,312 : INFO : SGNS loss: 14.9100
+2022-05-09 03:43:21,312 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:21,312 : INFO : Prediction loss: 6.2779
+2022-05-09 03:43:21,312 : INFO : Diversity loss: -2012.6994
+2022-05-09 03:43:21,315 : INFO : concept 1: worried tend careful finger extension position mode tricky stable pull
+2022-05-09 03:43:21,316 : INFO : concept 2: use price want need buy great excellent bad easy look
+2022-05-09 03:43:25,606 : INFO : Train AUC: 0.9917
+2022-05-09 03:43:25,609 : INFO : Test AUC: 0.9901
+2022-05-09 03:43:25,609 : INFO : epoch 22/30:
+2022-05-09 03:43:25,609 : INFO : Total loss: -12369.7094
+2022-05-09 03:43:25,609 : INFO : SGNS loss: 14.9148
+2022-05-09 03:43:25,609 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:25,610 : INFO : Prediction loss: 6.1164
+2022-05-09 03:43:25,610 : INFO : Diversity loss: -2029.1077
+2022-05-09 03:43:25,613 : INFO : concept 1: saver mini eventually hassle best durable toy check boy realise
+2022-05-09 03:43:25,613 : INFO : concept 2: great use look need quickly iron buy lightweight easy collect
+2022-05-09 03:43:29,886 : INFO : Train AUC: 0.9958
+2022-05-09 03:43:29,888 : INFO : Test AUC: 0.9947
+2022-05-09 03:43:29,888 : INFO : epoch 23/30:
+2022-05-09 03:43:29,889 : INFO : Total loss: -12380.1845
+2022-05-09 03:43:29,889 : INFO : SGNS loss: 14.9150
+2022-05-09 03:43:29,889 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:29,889 : INFO : Prediction loss: 6.0366
+2022-05-09 03:43:29,889 : INFO : Diversity loss: -2039.5034
+2022-05-09 03:43:29,892 : INFO : concept 1: brill press original elegant burn worried sized careful local drink
+2022-05-09 03:43:29,892 : INFO : concept 2: use quality buy price hour great easy look excellent material
+2022-05-09 03:43:34,190 : INFO : Train AUC: 0.9893
+2022-05-09 03:43:34,193 : INFO : Test AUC: 0.9871
+2022-05-09 03:43:34,193 : INFO : epoch 24/30:
+2022-05-09 03:43:34,193 : INFO : Total loss: -12387.1950
+2022-05-09 03:43:34,193 : INFO : SGNS loss: 14.9165
+2022-05-09 03:43:34,193 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:34,193 : INFO : Prediction loss: 6.0368
+2022-05-09 03:43:34,193 : INFO : Diversity loss: -2046.5154
+2022-05-09 03:43:34,197 : INFO : concept 1: minor key expectation alternative initially opinion access panel separate diy
+2022-05-09 03:43:34,197 : INFO : concept 2: use buy easy great excellent size difficult recommend price dry
+2022-05-09 03:43:38,439 : INFO : Train AUC: 0.9918
+2022-05-09 03:43:38,442 : INFO : Test AUC: 0.9902
+2022-05-09 03:43:38,442 : INFO : epoch 25/30:
+2022-05-09 03:43:38,442 : INFO : Total loss: -12392.3040
+2022-05-09 03:43:38,442 : INFO : SGNS loss: 14.9167
+2022-05-09 03:43:38,442 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:38,443 : INFO : Prediction loss: 5.8881
+2022-05-09 03:43:38,443 : INFO : Diversity loss: -2051.4760
+2022-05-09 03:43:38,446 : INFO : concept 1: sleek website facility bill gap awful today film upgrade rubber
+2022-05-09 03:43:38,446 : INFO : concept 2: buy great excellent quality easy use look kettle connect price
+2022-05-09 03:43:42,706 : INFO : Train AUC: 0.9959
+2022-05-09 03:43:42,708 : INFO : Test AUC: 0.9952
+2022-05-09 03:43:42,709 : INFO : epoch 26/30:
+2022-05-09 03:43:42,709 : INFO : Total loss: -12395.9971
+2022-05-09 03:43:42,709 : INFO : SGNS loss: 14.9172
+2022-05-09 03:43:42,709 : INFO : Dirichlet loss: -10361.6329
+2022-05-09 03:43:42,709 : INFO : Prediction loss: 5.8374
+2022-05-09 03:43:42,709 : INFO : Diversity loss: -2055.1188
+2022-05-09 03:43:42,713 : INFO : concept 1: huge word hide cord poorly ready drop mainly cordless improve
+2022-05-09 03:43:42,713 : INFO : concept 2: easy quality money buy excellent recommend item great use free
+2022-05-09 03:43:46,988 : INFO : Train AUC: 0.9895
+2022-05-09 03:43:46,991 : INFO : Test AUC: 0.9872
+2022-05-09 03:43:46,991 : INFO : epoch 27/30:
+2022-05-09 03:43:46,991 : INFO : Total loss: -12398.8016
+2022-05-09 03:43:46,991 : INFO : SGNS loss: 14.9185
+2022-05-09 03:43:46,992 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:46,992 : INFO : Prediction loss: 5.7883
+2022-05-09 03:43:46,992 : INFO : Diversity loss: -2057.8755
+2022-05-09 03:43:46,995 : INFO : concept 1: absolute hardly grip annoying forget tap durable gorgeous definately slide
+2022-05-09 03:43:46,995 : INFO : concept 2: great use money easy time little sound quality design excellent
+2022-05-09 03:43:51,317 : INFO : Train AUC: 0.9921
+2022-05-09 03:43:51,319 : INFO : Test AUC: 0.9905
+2022-05-09 03:43:51,319 : INFO : epoch 28/30:
+2022-05-09 03:43:51,319 : INFO : Total loss: -12400.9821
+2022-05-09 03:43:51,320 : INFO : SGNS loss: 14.9191
+2022-05-09 03:43:51,320 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:51,320 : INFO : Prediction loss: 5.7454
+2022-05-09 03:43:51,320 : INFO : Diversity loss: -2060.0137
+2022-05-09 03:43:51,323 : INFO : concept 1: loose word recomend guide seal special smooth okay spin bend
+2022-05-09 03:43:51,323 : INFO : concept 2: great buy price use easy recommend perfect quality work excellent
+2022-05-09 03:43:55,617 : INFO : Train AUC: 0.9961
+2022-05-09 03:43:55,620 : INFO : Test AUC: 0.9956
+2022-05-09 03:43:55,620 : INFO : epoch 29/30:
+2022-05-09 03:43:55,620 : INFO : Total loss: -12402.7098
+2022-05-09 03:43:55,620 : INFO : SGNS loss: 14.9195
+2022-05-09 03:43:55,620 : INFO : Dirichlet loss: -10361.6328
+2022-05-09 03:43:55,620 : INFO : Prediction loss: 5.7103
+2022-05-09 03:43:55,621 : INFO : Diversity loss: -2061.7068
+2022-05-09 03:43:55,624 : INFO : concept 1: surprisingly cord initially travel future friendly separate mainly shed mini
+2022-05-09 03:43:55,624 : INFO : concept 2: lamp easy great buy sturdy use look recommend find little
